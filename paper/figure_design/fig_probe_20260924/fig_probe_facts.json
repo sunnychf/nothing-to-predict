@@ -1,0 +1,76 @@
+{
+ "a_b": {
+  "context_index": 49,
+  "tail_steps": 96,
+  "last96_move_sigma": 8.953832682221389,
+  "departure_h128": 4.432127216393724,
+  "departure_mirror_h128": 0.7191157495093989,
+  "even_h128": 2.5756214829515613,
+  "odd_h128": 1.8565057334421624,
+  "median_even_h128": 2.628071303449019,
+  "median_abs_odd_h128": 1.7832662709539235,
+  "mean_even_h128": 2.7747348742036726,
+  "iqr_even_h128": [
+   1.499526554672876,
+   3.9009764615017746
+  ],
+  "iqr_odd_h128": [
+   -1.4218952806317757,
+   2.2992497602424606
+  ],
+  "n_contexts": 128,
+  "context_length": 512
+ },
+ "c": {
+  "window_index": 396,
+  "asset": "eq:Mkt",
+  "ctx_start": "2015-11-19",
+  "ctx_end": "2017-11-30",
+  "fut_end": "2018-06-06",
+  "raw_departure_h128_sigma_r": 5.813366117584809,
+  "copy_departure_h128_sigma_r": 1.3529660817709652,
+  "raw_realised_h128_sigma_r": 9.934196968545363,
+  "median_copy_departure_equities": 1.5237292646541594,
+  "n_equity_copies": 3600
+ },
+ "axes": {
+  "a_ylim": [
+   -10.667861793517504,
+   10.667861793517504
+  ],
+  "b_ylim": [
+   -1.8,
+   5.6
+  ],
+  "c_ylim": [
+   -14.937158825218306,
+   11.11854724443887
+  ]
+ },
+ "panel_labels": [
+  {
+   "text": "(a) A random walk and its mirror",
+   "centre_offset_pt": 0.0,
+   "top_pt": 9.92,
+   "bottom_pt": 2.881,
+   "x0_pt": 29.576,
+   "x1_pt": 133.144
+  },
+  {
+   "text": "(b) Even and odd parts",
+   "centre_offset_pt": 0.0,
+   "top_pt": 9.92,
+   "bottom_pt": 2.881,
+   "x0_pt": 173.84,
+   "x1_pt": 250.88
+  },
+  {
+   "text": "(c) A real window and its copy",
+   "centre_offset_pt": 0.0,
+   "top_pt": 9.92,
+   "bottom_pt": 2.881,
+   "x0_pt": 294.456,
+   "x1_pt": 392.264
+  }
+ ]
+}

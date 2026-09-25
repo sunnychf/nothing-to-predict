@@ -1,0 +1,9 @@
+{
+ "model": "tirex",
+ "windows": "intraday_windows.npz",
+ "n": 792,
+ "H": 16,
+ "mirror": true,
+ "samples": 0,
+ "finished": "2026-09-18 18:29:21"
+}

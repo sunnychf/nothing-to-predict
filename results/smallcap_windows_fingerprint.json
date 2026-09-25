@@ -1,0 +1,19 @@
+{
+ "ctx_raw": "ca8853f7647c80f10dfeb6ff54fa4d2860b9b433068a67d2476f9eeb27ce19ad",
+ "fut_raw": "b2f150154439f960669cb84accc98c84d9f3be817955e4b22c815abbc6e87ce1",
+ "ctx_sur": "81faf28a6f7a8581f5db1aef538614227f5036753dba75ee35f959a1e6008905",
+ "fut_sur": "d793033e09a7ddf0082b4762605716e02dbcda274244f865206e395f763b9ec8",
+ "sigma_raw": "bfd48bfff7eddaab006b00efdf9c1cfb498b911e320a9ca8e6072b03ba9a7ff7",
+ "sigma_sur": "3718cb115a0444d2e0d66b5db021b6df750bea1d5e019ca58e3626a76763c13b",
+ "rsigma_raw": "1c63047af2924cc3ccef4f27cefdc5dc9125822ffb58c96b7e476cb875f23fda",
+ "rsigma_sur": "c1a2f2cd1a37189db8767ad6f8bb7307f7797ee253ff87cf02888a83e4e2f7bd",
+ "n_windows": 240,
+ "per_series": {
+  "ew:Lo10": 120,
+  "vw:Hi10": 120
+ },
+ "rho1_ctx_mean": {
+  "ew:Lo10": 0.31789038888322724,
+  "vw:Hi10": 0.030092269081549942
+ }
+}

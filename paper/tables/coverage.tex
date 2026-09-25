@@ -1,0 +1,20 @@
+\begin{tabular}{@{}lcccccccc@{}}
+\toprule
+ & \multicolumn{4}{c}{\textbf{N1: random walk}} & \multicolumn{4}{c}{\textbf{N2: GARCH}} \\
+\cmidrule(lr){2-5}\cmidrule(lr){6-9}
+ & \multicolumn{2}{c}{\textbf{Coverage}} & \multicolumn{2}{c}{\textbf{Relative width}} & \multicolumn{2}{c}{\textbf{Coverage}} & \multicolumn{2}{c}{\textbf{Relative width}} \\
+\cmidrule(lr){2-3}\cmidrule(lr){4-5}\cmidrule(lr){6-7}\cmidrule(lr){8-9}
+\textbf{Model} & $h$ = 1 & $h$ = 16 & $h$ = 1 & $h$ = 16 & $h$ = 1 & $h$ = 16 & $h$ = 1 & $h$ = 16 \\
+\midrule
+Chronos-T5 & 0.73 & 0.76 & 0.95 & 0.94 & 0.73 & 0.77 & 0.83 & 0.84 \\
+Chronos-Bolt & 0.83 & 0.76 & 1.18 & 0.97 & 0.84 & 0.77 & 1.10 & 0.89 \\
+Chronos-2 & 0.85 & 0.78 & 1.18 & 0.96 & \textbf{0.80} & 0.77 & 0.96 & 0.84 \\
+TiRex & 0.77 & \textbf{0.81} & 0.97 & 1.05 & 0.77 & 0.81 & 0.87 & 0.93 \\
+Moirai-1.1 & 0.79 & 0.76 & 1.35 & 1.02 & 0.79 & 0.76 & 1.23 & 0.92 \\
+Moirai-2.0 & 0.79 & 0.74 & 1.05 & 0.96 & 0.78 & 0.77 & 0.92 & 0.85 \\
+TimesFM-2.0 & \textbf{0.80} & 0.84 & 1.07 & 1.12 & \textbf{0.80} & \textbf{0.80} & 0.99 & 0.94 \\
+TimesFM-2.5 & 0.87 & 0.84 & 1.22 & 1.08 & 0.88 & \textbf{0.80} & 1.17 & 0.93 \\
+Sundial & 0.25 & 0.43 & 0.27 & 0.50 & 0.26 & 0.47 & 0.25 & 0.47 \\
+FinCast & 0.78 & 0.83 & 1.13 & 1.11 & 0.78 & 0.82 & 1.04 & 1.01 \\
+\bottomrule
+\end{tabular}

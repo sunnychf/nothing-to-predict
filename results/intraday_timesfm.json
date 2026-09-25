@@ -1,0 +1,10 @@
+{
+ "model": "timesfm",
+ "windows": "intraday_windows.npz",
+ "n": 792,
+ "K": 4,
+ "sur_from": 0,
+ "H": 16,
+ "samples": 0,
+ "finished": "2026-09-18 18:11:12"
+}

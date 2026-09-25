@@ -1,0 +1,13 @@
+\begin{tabular}{@{}llccccccc@{}}
+\toprule
+ &  & \multicolumn{2}{c}{\textbf{Held-out MSE}} & \multicolumn{3}{c}{\textbf{N1, $h$ = 128}} & \textbf{N1 skill} & \textbf{N4 share} \\
+\cmidrule(lr){3-4}\cmidrule(lr){5-7}
+\textbf{Model design} & \textbf{Corpus} & \textbf{Model} & \textbf{Persistence} & \textbf{Mean / $\sigma$} & \textbf{Upward} & \textbf{$\rho_{\rm even}$} & $h$ = 16 & $h$ = 1 \\
+\midrule
+Masked encoder & Growth & \textbf{0.700} & 1.541 & +1.49\,\textpm\,0.06 & 0.86 & 0.35 & \textminus{}0.042 & 0.38 \\
+ & Symmetric & \textbf{0.731} & 1.576 & +0.14\,\textpm\,0.04 & 0.53 & 0.03 & \textminus{}0.040 & 0.38 \\
+\addlinespace[3pt]
+Decoder-only & Growth & \textbf{0.714} & 1.541 & +1.84\,\textpm\,0.30 & 0.83 & 0.33 & \textminus{}0.025 & 0.46 \\
+ & Symmetric & \textbf{0.749} & 1.576 & +0.79\,\textpm\,0.66 & 0.65 & 0.14 & \textminus{}0.018 & 0.44 \\
+\bottomrule
+\end{tabular}

@@ -1,0 +1,3371 @@
+{
+ "threshold": 0.9,
+ "min_overlap": 250,
+ "n_scanned": {
+  "chronos": 129053,
+  "lotsa": 29872,
+  "time300b": 128326
+ },
+ "n_subsets": 213,
+ "hits_r_ge_0.8": 177,
+ "matched_r_ge_0.9": 79,
+ "matched_robust": 79,
+ "unique_robust_series": 69,
+ "matched_by_subset": {
+  "chronos|m4_daily": 33,
+  "lotsa|m4_daily": 23,
+  "time300b|other/m4_daily": 23
+ },
+ "not_robust": [],
+ "spans": [
+  [
+   "1984-01-03",
+   "1985-02-25",
+   0.904,
+   "Hardw"
+  ],
+  [
+   "1984-01-03",
+   "1985-03-15",
+   0.905,
+   "Hardw"
+  ],
+  [
+   "1986-03-25",
+   "1987-03-20",
+   0.923,
+   "Hshld"
+  ],
+  [
+   "1988-06-20",
+   "1989-06-16",
+   0.946,
+   "Rtail"
+  ],
+  [
+   "1993-09-20",
+   "1994-09-15",
+   0.917,
+   "BusSv"
+  ],
+  [
+   "1997-09-22",
+   "1999-08-26",
+   0.968,
+   "Banks"
+  ],
+  [
+   "1997-09-22",
+   "1999-09-16",
+   0.968,
+   "Banks"
+  ],
+  [
+   "2000-03-20",
+   "2002-02-22",
+   0.952,
+   "Softw"
+  ],
+  [
+   "2000-03-20",
+   "2002-03-14",
+   0.953,
+   "Softw"
+  ],
+  [
+   "2002-03-18",
+   "2004-02-27",
+   0.964,
+   "Banks"
+  ],
+  [
+   "2002-03-18",
+   "2004-03-18",
+   0.96,
+   "Banks"
+  ],
+  [
+   "2002-03-19",
+   "2003-03-20",
+   0.955,
+   "BusSv"
+  ],
+  [
+   "2002-12-23",
+   "2004-11-26",
+   0.925,
+   "Banks"
+  ],
+  [
+   "2002-12-23",
+   "2004-11-26",
+   0.936,
+   "Banks"
+  ],
+  [
+   "2002-12-23",
+   "2004-12-16",
+   0.921,
+   "BusSv"
+  ],
+  [
+   "2002-12-23",
+   "2004-12-16",
+   0.933,
+   "Banks"
+  ],
+  [
+   "2003-03-24",
+   "2005-02-25",
+   0.925,
+   "Banks"
+  ],
+  [
+   "2003-03-24",
+   "2005-03-17",
+   0.919,
+   "Banks"
+  ],
+  [
+   "2003-06-24",
+   "2005-05-26",
+   0.967,
+   "Banks"
+  ],
+  [
+   "2003-06-24",
+   "2005-06-16",
+   0.967,
+   "Banks"
+  ],
+  [
+   "2003-09-22",
+   "2005-08-25",
+   0.966,
+   "Banks"
+  ],
+  [
+   "2003-09-22",
+   "2005-09-15",
+   0.966,
+   "Banks"
+  ],
+  [
+   "2006-09-18",
+   "2007-09-20",
+   0.919,
+   "BusSv"
+  ],
+  [
+   "2007-03-26",
+   "2008-03-20",
+   0.96,
+   "Paper"
+  ],
+  [
+   "2007-06-19",
+   "2008-06-19",
+   0.941,
+   "BusSv"
+  ],
+  [
+   "2008-03-24",
+   "2009-06-01",
+   0.954,
+   "BusSv"
+  ],
+  [
+   "2008-03-24",
+   "2009-06-19",
+   0.954,
+   "BusSv"
+  ],
+  [
+   "2008-06-23",
+   "2009-06-19",
+   0.956,
+   "Telcm"
+  ],
+  [
+   "2008-09-22",
+   "2009-11-30",
+   0.942,
+   "BusSv"
+  ],
+  [
+   "2008-09-22",
+   "2009-11-30",
+   0.954,
+   "BusSv"
+  ],
+  [
+   "2008-09-22",
+   "2009-12-18",
+   0.941,
+   "BusSv"
+  ],
+  [
+   "2008-09-22",
+   "2009-12-18",
+   0.954,
+   "BusSv"
+  ],
+  [
+   "2008-12-22",
+   "2010-03-01",
+   0.904,
+   "BusSv"
+  ],
+  [
+   "2008-12-22",
+   "2010-03-19",
+   0.902,
+   "BusSv"
+  ],
+  [
+   "2009-12-21",
+   "2011-02-28",
+   0.908,
+   "BusSv"
+  ],
+  [
+   "2010-03-22",
+   "2011-05-26",
+   0.937,
+   "Softw"
+  ],
+  [
+   "2010-03-22",
+   "2011-05-27",
+   0.955,
+   "BusSv"
+  ],
+  [
+   "2010-03-22",
+   "2011-06-16",
+   0.937,
+   "Softw"
+  ],
+  [
+   "2010-03-22",
+   "2011-06-17",
+   0.956,
+   "BusSv"
+  ],
+  [
+   "2010-06-21",
+   "2011-06-17",
+   0.948,
+   "Aero"
+  ],
+  [
+   "2010-06-21",
+   "2011-09-15",
+   0.907,
+   "BusSv"
+  ],
+  [
+   "2011-03-21",
+   "2012-05-24",
+   0.94,
+   "Softw"
+  ],
+  [
+   "2011-03-21",
+   "2012-06-14",
+   0.941,
+   "Softw"
+  ],
+  [
+   "2011-09-19",
+   "2012-11-30",
+   0.924,
+   "Softw"
+  ],
+  [
+   "2011-09-19",
+   "2012-12-20",
+   0.92,
+   "Softw"
+  ],
+  [
+   "2011-12-19",
+   "2012-12-21",
+   0.943,
+   "Paper"
+  ],
+  [
+   "2013-03-13",
+   "2015-03-02",
+   0.97,
+   "BusSv"
+  ],
+  [
+   "2013-03-13",
+   "2015-03-20",
+   0.971,
+   "BusSv"
+  ],
+  [
+   "2013-03-21",
+   "2017-03-07",
+   0.954,
+   "BusSv"
+  ],
+  [
+   "2013-03-21",
+   "2017-03-27",
+   0.953,
+   "BusSv"
+  ],
+  [
+   "2013-03-21",
+   "2017-03-27",
+   0.954,
+   "BusSv"
+  ],
+  [
+   "2013-06-21",
+   "2015-06-01",
+   0.979,
+   "Whlsl"
+  ],
+  [
+   "2013-06-21",
+   "2015-06-19",
+   0.978,
+   "Whlsl"
+  ],
+  [
+   "2013-10-22",
+   "2017-09-29",
+   0.953,
+   "Fin"
+  ],
+  [
+   "2013-10-22",
+   "2017-10-19",
+   0.952,
+   "Fin"
+  ]
+ ],
+ "covered_share": {
+  "chronos": {
+   "1996-2014": 0.8183528428093646,
+   "2017-2026": 0.08392189447444952,
+   "1963-1995": 0.12944627796112945
+  },
+  "lotsa": {
+   "1996-2014": 0.7272157190635451,
+   "2017-2026": 0.07810552555047777,
+   "1963-1995": 0.03557022368903557
+  },
+  "time300b": {
+   "1996-2014": 0.7272157190635451,
+   "2017-2026": 0.07810552555047777,
+   "1963-1995": 0.03557022368903557
+  },
+  "all": {
+   "1996-2014": 0.8183528428093646,
+   "2017-2026": 0.08392189447444952,
+   "1963-1995": 0.12944627796112945
+  }
+ },
+ "last_covered_day": "2017-10-19",
+ "first_covered_day": "1984-01-03",
+ "falling_future_coverage": {
+  "2014-12-31": 1.0,
+  "2014-06-30": 1.0,
+  "2013-12-24": 1.0,
+  "2013-06-24": 0.5859375,
+  "2012-12-18": 1.0,
+  "2012-06-14": 1.0,
+  "2011-12-09": 1.0,
+  "2011-06-09": 1.0,
+  "2010-12-06": 1.0,
+  "2010-06-04": 1.0,
+  "2009-11-30": 1.0,
+  "2009-05-29": 1.0,
+  "2008-11-21": 1.0,
+  "2008-05-22": 1.0,
+  "2007-11-16": 1.0,
+  "2007-05-17": 1.0,
+  "2006-11-09": 0.3046875,
+  "2006-05-10": 0.0,
+  "2005-11-03": 0.7265625,
+  "2005-05-04": 1.0,
+  "2004-10-29": 1.0,
+  "2004-04-28": 1.0,
+  "2003-10-23": 1.0,
+  "2003-04-23": 1.0,
+  "2002-10-17": 1.0,
+  "2002-04-17": 0.9921875,
+  "2001-10-11": 1.0,
+  "2001-04-04": 1.0,
+  "2000-09-29": 1.0,
+  "2000-03-29": 0.0625,
+  "1999-09-27": 0.9453125,
+  "1999-03-25": 1.0,
+  "1998-09-21": 1.0,
+  "1998-03-19": 0.96875,
+  "1997-09-15": 0.0,
+  "1997-03-13": 0.0,
+  "1996-09-10": 0.0
+ },
+ "falling_covered_dates": [
+  "1998-03-19",
+  "1998-09-21",
+  "1999-03-25",
+  "1999-09-27",
+  "2000-09-29",
+  "2001-04-04",
+  "2001-10-11",
+  "2002-04-17",
+  "2002-10-17",
+  "2003-04-23",
+  "2003-10-23",
+  "2004-04-28",
+  "2004-10-29",
+  "2005-05-04",
+  "2005-11-03",
+  "2007-05-17",
+  "2007-11-16",
+  "2008-05-22",
+  "2008-11-21",
+  "2009-05-29",
+  "2009-11-30",
+  "2010-06-04",
+  "2010-12-06",
+  "2011-06-09",
+  "2011-12-09",
+  "2012-06-14",
+  "2012-12-18",
+  "2013-06-24",
+  "2013-12-24",
+  "2014-06-30",
+  "2014-12-31"
+ ],
+ "falling_uncovered_dates": [
+  "1996-09-10",
+  "1997-03-13",
+  "1997-09-15",
+  "2000-03-29",
+  "2006-05-10",
+  "2006-11-09"
+ ],
+ "anchor_eq_future_coverage_max": 0.7734375,
+ "size_future_coverage": {
+  "n_dates": 120,
+  "n_covered": 46
+ },
+ "c1_part_of_1996_2014_and_none_of_anchor": false,
+ "c2_testable": false,
+ "timing_split": {
+  "chronos": {
+   "label": "Chronos-T5",
+   "covered": 0.24519382485627866,
+   "uncovered": -0.21027308675028936,
+   "difference": 0.45546691160656805
+  },
+  "chronosbolt": {
+   "label": "Chronos-Bolt",
+   "covered": 0.8044194458310774,
+   "uncovered": 0.2900246176744134,
+   "difference": 0.5143948281566639
+  },
+  "chronos2": {
+   "label": "Chronos-2",
+   "covered": -0.15757764316117404,
+   "uncovered": 0.12759687546083984,
+   "difference": -0.2851745186220139
+  },
+  "tirex": {
+   "label": "TiRex",
+   "covered": 0.7467916634206135,
+   "uncovered": 0.43739204395295744,
+   "difference": 0.3093996194676561
+  },
+  "moirai": {
+   "label": "Moirai-1.1",
+   "covered": 0.35955517966641776,
+   "uncovered": -0.07322141035946662,
+   "difference": 0.43277659002588437
+  },
+  "moirai2": {
+   "label": "Moirai-2.0",
+   "covered": 0.7814985561165474,
+   "uncovered": 0.4830514948682655,
+   "difference": 0.2984470612482819
+  },
+  "timesfm": {
+   "label": "TimesFM-2.0",
+   "covered": 0.9062006675595045,
+   "uncovered": 0.360937711447236,
+   "difference": 0.5452629561122684
+  },
+  "timesfm25": {
+   "label": "TimesFM-2.5",
+   "covered": 0.03260921829724971,
+   "uncovered": 0.5323765593670635,
+   "difference": -0.4997673410698138
+  },
+  "timemoe": {
+   "label": "Time-MoE",
+   "covered": 0.3828070164649182,
+   "uncovered": 0.15989444338375428,
+   "difference": 0.22291257308116394
+  },
+  "sundial": {
+   "label": "Sundial",
+   "covered": 0.447097362650963,
+   "uncovered": 0.13355991429540276,
+   "difference": 0.31353744835556024
+  },
+  "fincast": {
+   "label": "FinCast",
+   "covered": 0.29083125561485157,
+   "uncovered": 0.78443664708363,
+   "difference": -0.49360539146877846
+  }
+ },
+ "c2_met": {
+  "chronosbolt": true,
+  "tirex": true,
+  "moirai2": true,
+  "timesfm": true
+ },
+ "hits": [
+  {
+   "corpus": "chronos",
+   "subset": "m4_daily",
+   "series": "T000007:target",
+   "length": 1013,
+   "r": 0.9537015549630893,
+   "r_without_5_extreme_days": 0.9491961083902267,
+   "zero_share": 0.001976284584980237,
+   "span": [
+    "2013-03-21",
+    "2017-03-27"
+   ],
+   "best_industry": "BusSv",
+   "best_industry_r": 0.9087021214894628,
+   "values_sha": "653c5091b0fbbc61"
+  },
+  {
+   "corpus": "chronos",
+   "subset": "m4_daily",
+   "series": "T000008:target",
+   "length": 1013,
+   "r": 0.9534245427391134,
+   "r_without_5_extreme_days": 0.9488994979849772,
+   "zero_share": 0.001976284584980237,
+   "span": [
+    "2013-03-21",
+    "2017-03-27"
+   ],
+   "best_industry": "BusSv",
+   "best_industry_r": 0.9082419936949417,
+   "values_sha": "6453fa95eaffef0f"
+  },
+  {
+   "corpus": "chronos",
+   "subset": "m4_daily",
+   "series": "T000454:target",
+   "length": 1008,
+   "r": 0.9520587616932081,
+   "r_without_5_extreme_days": 0.9486877078080288,
+   "zero_share": 0.0,
+   "span": [
+    "2013-10-22",
+    "2017-10-19"
+   ],
+   "best_industry": "Fin",
+   "best_industry_r": 0.8974141417149415,
+   "values_sha": "7a4e93bc3d701c05"
+  },
+  {
+   "corpus": "chronos",
+   "subset": "m4_daily",
+   "series": "T000455:target",
+   "length": 3046,
+   "r": 0.8340983602809894,
+   "r_without_5_extreme_days": 0.8261844228760173,
+   "zero_share": 0.0003284072249589491,
+   "span": [
+    "2005-09-16",
+    "2017-10-19"
+   ],
+   "best_industry": "Banks",
+   "best_industry_r": 0.8830408655235367,
+   "values_sha": "6938d08555ed32aa"
+  },
+  {
+   "corpus": "chronos",
+   "subset": "m4_daily",
+   "series": "T000554:target",
+   "length": 1345,
+   "r": 0.8227178817563604,
+   "r_without_5_extreme_days": 0.8101029321114026,
+   "zero_share": 0.002976190476190476,
+   "span": [
+    "2012-06-19",
+    "2017-10-19"
+   ],
+   "best_industry": "Chips",
+   "best_industry_r": 0.7918385039988791,
+   "values_sha": "e3b76be286fab7ba"
+  },
+  {
+   "corpus": "chronos",
+   "subset": "m4_daily",
+   "series": "T000555:target",
+   "length": 1344,
+   "r": 0.8303579050700202,
+   "r_without_5_extreme_days": 0.8181872400729504,
+   "zero_share": 0.0022338049143708115,
+   "span": [
+    "2012-06-20",
+    "2017-10-19"
+   ],
+   "best_industry": "Chips",
+   "best_industry_r": 0.7975136551661143,
+   "values_sha": "6e9072decfa76397"
+  },
+  {
+   "corpus": "chronos",
+   "subset": "m4_daily",
+   "series": "T002049:target",
+   "length": 315,
+   "r": 0.8236189895151997,
+   "r_without_5_extreme_days": 0.7829057289100692,
+   "zero_share": 0.01592356687898089,
+   "span": [
+    "2010-03-22",
+    "2011-06-16"
+   ],
+   "best_industry": "Softw",
+   "best_industry_r": 0.8077964829540041,
+   "values_sha": "a06fcabe6ae103a6"
+  },
+  {
+   "corpus": "chronos",
+   "subset": "m4_daily",
+   "series": "T002050:target",
+   "length": 315,
+   "r": 0.9374589168728833,
+   "r_without_5_extreme_days": 0.923779561714078,
+   "zero_share": 0.0,
+   "span": [
+    "2010-03-22",
+    "2011-06-16"
+   ],
+   "best_industry": "Softw",
+   "best_industry_r": 0.9336054947376808,
+   "values_sha": "1950877298bdff90"
+  },
+  {
+   "corpus": "chronos",
+   "subset": "m4_daily",
+   "series": "T002060:target",
+   "length": 314,
+   "r": 0.9406181679987987,
+   "r_without_5_extreme_days": 0.926565732990151,
+   "zero_share": 0.006389776357827476,
+   "span": [
+    "2011-03-21",
+    "2012-06-14"
+   ],
+   "best_industry": "Softw",
+   "best_industry_r": 0.9535606426938903,
+   "values_sha": "da3e6a94314e082d"
+  },
+  {
+   "corpus": "chronos",
+   "subset": "m4_daily",
+   "series": "T002065:target",
+   "length": 317,
+   "r": 0.8157027791478727,
+   "r_without_5_extreme_days": 0.8033998889828579,
+   "zero_share": 0.0,
+   "span": [
+    "2012-03-19",
+    "2013-06-20"
+   ],
+   "best_industry": "Softw",
+   "best_industry_r": 0.827425206607695,
+   "values_sha": "3a0523cce924eb3d"
+  },
+  {
+   "corpus": "chronos",
+   "subset": "m4_daily",
+   "series": "T002067:target",
+   "length": 271,
+   "r": 0.8280480583468046,
+   "r_without_5_extreme_days": 0.797547826369112,
+   "zero_share": 0.018518518518518517,
+   "span": [
+    "2013-11-25",
+    "2014-12-19"
+   ],
+   "best_industry": "Softw",
+   "best_industry_r": 0.8196240895797126,
+   "values_sha": "940dcfeddd76aa9a"
+  },
+  {
+   "corpus": "chronos",
+   "subset": "m4_daily",
+   "series": "T002070:target",
+   "length": 318,
+   "r": 0.834150191678045,
+   "r_without_5_extreme_days": 0.807615959658738,
+   "zero_share": 0.0031545741324921135,
+   "span": [
+    "2011-09-19",
+    "2012-12-20"
+   ],
+   "best_industry": "Softw",
+   "best_industry_r": 0.8427684454670875,
+   "values_sha": "4b1c0ca88c40064b"
+  },
+  {
+   "corpus": "chronos",
+   "subset": "m4_daily",
+   "series": "T002071:target",
+   "length": 318,
+   "r": 0.9204888847849133,
+   "r_without_5_extreme_days": 0.9089639778816079,
+   "zero_share": 0.0,
+   "span": [
+    "2011-09-19",
+    "2012-12-20"
+   ],
+   "best_industry": "Softw",
+   "best_industry_r": 0.9350673981260511,
+   "values_sha": "14d5a5dff9d29623"
+  },
+  {
+   "corpus": "chronos",
+   "subset": "m4_daily",
+   "series": "T002141:target",
+   "length": 252,
+   "r": 0.8686044891458345,
+   "r_without_5_extreme_days": 0.8518003662107372,
+   "zero_share": 0.00398406374501992,
+   "span": [
+    "2009-09-21",
+    "2010-09-17"
+   ],
+   "best_industry": "Paper",
+   "best_industry_r": 0.8421546863027161,
+   "values_sha": "261e3166933d42a6"
+  },
+  {
+   "corpus": "chronos",
+   "subset": "m4_daily",
+   "series": "T002144:target",
+   "length": 251,
+   "r": 0.895927154319393,
+   "r_without_5_extreme_days": 0.8678637746816089,
+   "zero_share": 0.008,
+   "span": [
+    "2008-09-23",
+    "2009-09-18"
+   ],
+   "best_industry": "Telcm",
+   "best_industry_r": 0.8828013729449338,
+   "values_sha": "6de810bb5d17c579"
+  },
+  {
+   "corpus": "chronos",
+   "subset": "m4_daily",
+   "series": "T002148:target",
+   "length": 255,
+   "r": 0.9432153059192661,
+   "r_without_5_extreme_days": 0.9311718608141555,
+   "zero_share": 0.0,
+   "span": [
+    "2011-12-19",
+    "2012-12-21"
+   ],
+   "best_industry": "Paper",
+   "best_industry_r": 0.901336023492749,
+   "values_sha": "cceddc2714315f21"
+  },
+  {
+   "corpus": "chronos",
+   "subset": "m4_daily",
+   "series": "T002153:target",
+   "length": 253,
+   "r": 0.9480315983059119,
+   "r_without_5_extreme_days": 0.9344265595823354,
+   "zero_share": 0.003968253968253968,
+   "span": [
+    "2010-06-21",
+    "2011-06-17"
+   ],
+   "best_industry": "Aero",
+   "best_industry_r": 0.8948454659591605,
+   "values_sha": "37daff59c658bde5"
+  },
+  {
+   "corpus": "chronos",
+   "subset": "m4_daily",
+   "series": "T002154:target",
+   "length": 252,
+   "r": 0.9563851104127824,
+   "r_without_5_extreme_days": 0.9513070939763998,
+   "zero_share": 0.0,
+   "span": [
+    "2008-06-23",
+    "2009-06-19"
+   ],
+   "best_industry": "Telcm",
+   "best_industry_r": 0.9367669866314701,
+   "values_sha": "b5c477aefbf32831"
+  },
+  {
+   "corpus": "chronos",
+   "subset": "m4_daily",
+   "series": "T002158:target",
+   "length": 251,
+   "r": 0.9603699586145324,
+   "r_without_5_extreme_days": 0.9535822692487823,
+   "zero_share": 0.004,
+   "span": [
+    "2007-03-26",
+    "2008-03-20"
+   ],
+   "best_industry": "Paper",
+   "best_industry_r": 0.9108477854978588,
+   "values_sha": "0e4ab1d3fc43b1e4"
+  },
+  {
+   "corpus": "chronos",
+   "subset": "m4_daily",
+   "series": "T002666:target",
+   "length": 4211,
+   "r": 0.827550266822918,
+   "r_without_5_extreme_days": 0.8195428116052714,
+   "zero_share": 0.003800475059382423,
+   "span": [
+    "2001-04-02",
+    "2017-12-22"
+   ],
+   "best_industry": "BusSv",
+   "best_industry_r": 0.806850313992517,
+   "values_sha": "f818566c56fc5ea5"
+  },
+  {
+   "corpus": "chronos",
+   "subset": "m4_daily",
+   "series": "T002714:target",
+   "length": 4211,
+   "r": 0.8044444775291626,
+   "r_without_5_extreme_days": 0.7911741622597768,
+   "zero_share": 0.0030878859857482186,
+   "span": [
+    "2001-04-02",
+    "2017-12-22"
+   ],
+   "best_industry": "Rtail",
+   "best_industry_r": 0.8120794754657797,
+   "values_sha": "42a6d7c829704d55"
+  },
+  {
+   "corpus": "chronos",
+   "subset": "m4_daily",
+   "series": "T002738:target",
+   "length": 4211,
+   "r": 0.877059842125527,
+   "r_without_5_extreme_days": 0.8671779437296729,
+   "zero_share": 0.003800475059382423,
+   "span": [
+    "2001-04-02",
+    "2017-12-22"
+   ],
+   "best_industry": "BusSv",
+   "best_industry_r": 0.8175282468558935,
+   "values_sha": "d3e6644720520a3d"
+  },
+  {
+   "corpus": "chronos",
+   "subset": "m4_daily",
+   "series": "T003614:target",
+   "length": 511,
+   "r": 0.9711091711648692,
+   "r_without_5_extreme_days": 0.9678274098954588,
+   "zero_share": 0.00196078431372549,
+   "span": [
+    "2013-03-13",
+    "2015-03-20"
+   ],
+   "best_industry": "BusSv",
+   "best_industry_r": 0.9048440227582352,
+   "values_sha": "cb72c7aa1c21be96"
+  },
+  {
+   "corpus": "chronos",
+   "subset": "m4_daily",
+   "series": "T003615:target",
+   "length": 504,
+   "r": 0.9784287792560116,
+   "r_without_5_extreme_days": 0.9761658525425417,
+   "zero_share": 0.003976143141153081,
+   "span": [
+    "2013-06-21",
+    "2015-06-19"
+   ],
+   "best_industry": "Whlsl",
+   "best_industry_r": 0.9105957048695563,
+   "values_sha": "a67e0f3d6a441896"
+  },
+  {
+   "corpus": "chronos",
+   "subset": "m4_daily",
+   "series": "T003627:target",
+   "length": 252,
+   "r": 0.8566178346850681,
+   "r_without_5_extreme_days": 0.8376369984562646,
+   "zero_share": 0.01593625498007968,
+   "span": [
+    "1996-09-23",
+    "1997-09-18"
+   ],
+   "best_industry": "LabEq",
+   "best_industry_r": 0.7966197522273883,
+   "values_sha": "b0f38dde92adc797"
+  },
+  {
+   "corpus": "chronos",
+   "subset": "m4_daily",
+   "series": "T003630:target",
+   "length": 502,
+   "r": 0.9661462571202665,
+   "r_without_5_extreme_days": 0.9643316583625091,
+   "zero_share": 0.007984031936127744,
+   "span": [
+    "2003-09-22",
+    "2005-09-15"
+   ],
+   "best_industry": "Banks",
+   "best_industry_r": 0.864684850024364,
+   "values_sha": "80842ee1cbe8cb48"
+  },
+  {
+   "corpus": "chronos",
+   "subset": "m4_daily",
+   "series": "T003637:target",
+   "length": 316,
+   "r": 0.9562385105819662,
+   "r_without_5_extreme_days": 0.9464968341840501,
+   "zero_share": 0.0031746031746031746,
+   "span": [
+    "2010-03-22",
+    "2011-06-17"
+   ],
+   "best_industry": "BusSv",
+   "best_industry_r": 0.9526967287178992,
+   "values_sha": "b0bdde53b40075d7"
+  },
+  {
+   "corpus": "chronos",
+   "subset": "m4_daily",
+   "series": "T003649:target",
+   "length": 251,
+   "r": 0.8730513896474457,
+   "r_without_5_extreme_days": 0.7536564556866536,
+   "zero_share": 0.004,
+   "span": [
+    "1987-09-22",
+    "1988-09-15"
+   ],
+   "best_industry": "Banks",
+   "best_industry_r": 0.8786413019876131,
+   "values_sha": "cd65f66986b83cfb"
+  },
+  {
+   "corpus": "chronos",
+   "subset": "m4_daily",
+   "series": "T003652:target",
+   "length": 251,
+   "r": 0.8388119654878939,
+   "r_without_5_extreme_days": 0.8330693968276698,
+   "zero_share": 0.02,
+   "span": [
+    "1994-12-20",
+    "1995-12-14"
+   ],
+   "best_industry": "Softw",
+   "best_industry_r": 0.7579095859090187,
+   "values_sha": "fc1ba6428071e3a6"
+  },
+  {
+   "corpus": "chronos",
+   "subset": "m4_daily",
+   "series": "T003655:target",
+   "length": 332,
+   "r": 0.8030048427215429,
+   "r_without_5_extreme_days": 0.7411596635511393,
+   "zero_share": 0.0030211480362537764,
+   "span": [
+    "1997-05-28",
+    "1998-09-17"
+   ],
+   "best_industry": "Insur",
+   "best_industry_r": 0.7985148989305071,
+   "values_sha": "bc0303de1cacfbea"
+  },
+  {
+   "corpus": "chronos",
+   "subset": "m4_daily",
+   "series": "T003659:target",
+   "length": 255,
+   "r": 0.9407746587348864,
+   "r_without_5_extreme_days": 0.9336654442177555,
+   "zero_share": 0.0,
+   "span": [
+    "2007-06-19",
+    "2008-06-19"
+   ],
+   "best_industry": "BusSv",
+   "best_industry_r": 0.913228916969813,
+   "values_sha": "ed7d05b36e8efc79"
+  },
+  {
+   "corpus": "chronos",
+   "subset": "m4_daily",
+   "series": "T003663:target",
+   "length": 313,
+   "r": 0.9019295781516155,
+   "r_without_5_extreme_days": 0.8824606206394867,
+   "zero_share": 0.019230769230769232,
+   "span": [
+    "2008-12-22",
+    "2010-03-19"
+   ],
+   "best_industry": "BusSv",
+   "best_industry_r": 0.8910718893070524,
+   "values_sha": "e38913b2d79ff88e"
+  },
+  {
+   "corpus": "chronos",
+   "subset": "m4_daily",
+   "series": "T003664:target",
+   "length": 313,
+   "r": 0.8780631937769909,
+   "r_without_5_extreme_days": 0.8538302445579639,
+   "zero_share": 0.041666666666666664,
+   "span": [
+    "2008-12-22",
+    "2010-03-19"
+   ],
+   "best_industry": "BusSv",
+   "best_industry_r": 0.8633713905246244,
+   "values_sha": "a894fe95afba4ac0"
+  },
+  {
+   "corpus": "chronos",
+   "subset": "m4_daily",
+   "series": "T003668:target",
+   "length": 306,
+   "r": 0.9045403310357318,
+   "r_without_5_extreme_days": 0.8903072652561567,
+   "zero_share": 0.022950819672131147,
+   "span": [
+    "1984-01-03",
+    "1985-03-15"
+   ],
+   "best_industry": "Hardw",
+   "best_industry_r": 0.878811633307541,
+   "values_sha": "fb2553dc5e7a6206"
+  },
+  {
+   "corpus": "chronos",
+   "subset": "m4_daily",
+   "series": "T003675:target",
+   "length": 251,
+   "r": 0.8589697563852801,
+   "r_without_5_extreme_days": 0.8229030920154657,
+   "zero_share": 0.016,
+   "span": [
+    "2008-09-15",
+    "2009-09-10"
+   ],
+   "best_industry": "Telcm",
+   "best_industry_r": 0.8542337896134604,
+   "values_sha": "be10b2418dda5560"
+  },
+  {
+   "corpus": "chronos",
+   "subset": "m4_daily",
+   "series": "T003686:target",
+   "length": 315,
+   "r": 0.8763324305504533,
+   "r_without_5_extreme_days": 0.8527785990768493,
+   "zero_share": 0.01592356687898089,
+   "span": [
+    "2012-09-21",
+    "2013-12-20"
+   ],
+   "best_industry": "BusSv",
+   "best_industry_r": 0.8676323579989744,
+   "values_sha": "0b7de337891bbe78"
+  },
+  {
+   "corpus": "chronos",
+   "subset": "m4_daily",
+   "series": "T003688:target",
+   "length": 316,
+   "r": 0.953948968349474,
+   "r_without_5_extreme_days": 0.9436892752563456,
+   "zero_share": 0.006349206349206349,
+   "span": [
+    "2008-03-24",
+    "2009-06-19"
+   ],
+   "best_industry": "BusSv",
+   "best_industry_r": 0.9475441491323568,
+   "values_sha": "0087993c8336f161"
+  },
+  {
+   "corpus": "chronos",
+   "subset": "m4_daily",
+   "series": "T003691:target",
+   "length": 316,
+   "r": 0.9410724152366566,
+   "r_without_5_extreme_days": 0.9267385579024002,
+   "zero_share": 0.009523809523809525,
+   "span": [
+    "2008-09-22",
+    "2009-12-18"
+   ],
+   "best_industry": "BusSv",
+   "best_industry_r": 0.9368338487156416,
+   "values_sha": "1d3d4f3c947ae3db"
+  },
+  {
+   "corpus": "chronos",
+   "subset": "m4_daily",
+   "series": "T003692:target",
+   "length": 316,
+   "r": 0.9536923150957407,
+   "r_without_5_extreme_days": 0.943011396376735,
+   "zero_share": 0.0031746031746031746,
+   "span": [
+    "2008-09-22",
+    "2009-12-18"
+   ],
+   "best_industry": "BusSv",
+   "best_industry_r": 0.951030845183649,
+   "values_sha": "5ea61292f9a5a076"
+  },
+  {
+   "corpus": "chronos",
+   "subset": "m4_daily",
+   "series": "T003712:target",
+   "length": 502,
+   "r": 0.8274343489979262,
+   "r_without_5_extreme_days": 0.8077624357577979,
+   "zero_share": 0.003992015968063872,
+   "span": [
+    "2003-03-24",
+    "2005-03-17"
+   ],
+   "best_industry": "BusSv",
+   "best_industry_r": 0.7574672766587336,
+   "values_sha": "d84350d12cec8dff"
+  },
+  {
+   "corpus": "chronos",
+   "subset": "m4_daily",
+   "series": "T003713:target",
+   "length": 502,
+   "r": 0.9190725757117743,
+   "r_without_5_extreme_days": 0.9096796556746422,
+   "zero_share": 0.003992015968063872,
+   "span": [
+    "2003-03-24",
+    "2005-03-17"
+   ],
+   "best_industry": "Banks",
+   "best_industry_r": 0.8417740256144229,
+   "values_sha": "3ab41a148728ffe8"
+  },
+  {
+   "corpus": "chronos",
+   "subset": "m4_daily",
+   "series": "T003745:target",
+   "length": 315,
+   "r": 0.9067499003888198,
+   "r_without_5_extreme_days": 0.8991551315514976,
+   "zero_share": 0.054140127388535034,
+   "span": [
+    "2010-06-21",
+    "2011-09-15"
+   ],
+   "best_industry": "BusSv",
+   "best_industry_r": 0.9013841573154606,
+   "values_sha": "796365673124ab2a"
+  },
+  {
+   "corpus": "chronos",
+   "subset": "m4_daily",
+   "series": "T003749:target",
+   "length": 251,
+   "r": 0.8790449009755729,
+   "r_without_5_extreme_days": 0.8492232725971398,
+   "zero_share": 0.008,
+   "span": [
+    "2008-06-16",
+    "2009-06-11"
+   ],
+   "best_industry": "Telcm",
+   "best_industry_r": 0.8662560395727759,
+   "values_sha": "9dfc913079ecf70e"
+  },
+  {
+   "corpus": "chronos",
+   "subset": "m4_daily",
+   "series": "T003752:target",
+   "length": 314,
+   "r": 0.894401778863468,
+   "r_without_5_extreme_days": 0.8691013480782973,
+   "zero_share": 0.03194888178913738,
+   "span": [
+    "2009-12-21",
+    "2011-03-18"
+   ],
+   "best_industry": "Mach",
+   "best_industry_r": 0.877345479053292,
+   "values_sha": "6bba7031887d985b"
+  },
+  {
+   "corpus": "chronos",
+   "subset": "m4_daily",
+   "series": "T003759:target",
+   "length": 316,
+   "r": 0.8089068085450417,
+   "r_without_5_extreme_days": 0.7934375020188844,
+   "zero_share": 0.06666666666666667,
+   "span": [
+    "2009-09-21",
+    "2010-12-17"
+   ],
+   "best_industry": "Mach",
+   "best_industry_r": 0.8073623711951526,
+   "values_sha": "7992110986935695"
+  },
+  {
+   "corpus": "chronos",
+   "subset": "m4_daily",
+   "series": "T003788:target",
+   "length": 251,
+   "r": 0.8897890242979589,
+   "r_without_5_extreme_days": 0.8773660582844475,
+   "zero_share": 0.012,
+   "span": [
+    "2000-03-20",
+    "2001-03-15"
+   ],
+   "best_industry": "LabEq",
+   "best_industry_r": 0.8352378669254111,
+   "values_sha": "40c18bd215306d5b"
+  },
+  {
+   "corpus": "chronos",
+   "subset": "m4_daily",
+   "series": "T003793:target",
+   "length": 252,
+   "r": 0.8241690908933219,
+   "r_without_5_extreme_days": 0.8049811467944525,
+   "zero_share": 0.00796812749003984,
+   "span": [
+    "1999-12-20",
+    "2000-12-14"
+   ],
+   "best_industry": "BusSv",
+   "best_industry_r": 0.7934636471105363,
+   "values_sha": "36389d97a83fd563"
+  },
+  {
+   "corpus": "chronos",
+   "subset": "m4_daily",
+   "series": "T003794:target",
+   "length": 252,
+   "r": 0.8273425171147981,
+   "r_without_5_extreme_days": 0.8180106241511906,
+   "zero_share": 0.0,
+   "span": [
+    "1999-12-20",
+    "2000-12-14"
+   ],
+   "best_industry": "BusSv",
+   "best_industry_r": 0.7924760029658543,
+   "values_sha": "62f57c16b04e3d37"
+  },
+  {
+   "corpus": "chronos",
+   "subset": "m4_daily",
+   "series": "T003805:target",
+   "length": 251,
+   "r": 0.8605007155643102,
+   "r_without_5_extreme_days": 0.8244400619809998,
+   "zero_share": 0.02,
+   "span": [
+    "1999-09-21",
+    "2000-09-14"
+   ],
+   "best_industry": "BusSv",
+   "best_industry_r": 0.8195130229007521,
+   "values_sha": "3c004957df437cb6"
+  },
+  {
+   "corpus": "chronos",
+   "subset": "m4_daily",
+   "series": "T003807:target",
+   "length": 501,
+   "r": 0.932631617244666,
+   "r_without_5_extreme_days": 0.922847496133242,
+   "zero_share": 0.004,
+   "span": [
+    "2002-12-23",
+    "2004-12-16"
+   ],
+   "best_industry": "Banks",
+   "best_industry_r": 0.8701244918762406,
+   "values_sha": "61a0516badbf5bdf"
+  },
+  {
+   "corpus": "chronos",
+   "subset": "m4_daily",
+   "series": "T003808:target",
+   "length": 501,
+   "r": 0.9206353826766602,
+   "r_without_5_extreme_days": 0.9091032075310351,
+   "zero_share": 0.004,
+   "span": [
+    "2002-12-23",
+    "2004-12-16"
+   ],
+   "best_industry": "BusSv",
+   "best_industry_r": 0.8506954518477843,
+   "values_sha": "cd5da20d77d2774a"
+  },
+  {
+   "corpus": "chronos",
+   "subset": "m4_daily",
+   "series": "T003815:target",
+   "length": 503,
+   "r": 0.8036996005050285,
+   "r_without_5_extreme_days": 0.7694668489136489,
+   "zero_share": 0.01195219123505976,
+   "span": [
+    "1998-06-22",
+    "2000-06-15"
+   ],
+   "best_industry": "BusSv",
+   "best_industry_r": 0.7351555057456747,
+   "values_sha": "8cb04de146e90e05"
+  },
+  {
+   "corpus": "chronos",
+   "subset": "m4_daily",
+   "series": "T003821:target",
+   "length": 255,
+   "r": 0.8924397892924566,
+   "r_without_5_extreme_days": 0.8756457073482129,
+   "zero_share": 0.003937007874015748,
+   "span": [
+    "2002-03-19",
+    "2003-03-20"
+   ],
+   "best_industry": "BusSv",
+   "best_industry_r": 0.868707477490114,
+   "values_sha": "155c4dd6f3eeae1e"
+  },
+  {
+   "corpus": "chronos",
+   "subset": "m4_daily",
+   "series": "T003822:target",
+   "length": 255,
+   "r": 0.9548800098592714,
+   "r_without_5_extreme_days": 0.9495225800080398,
+   "zero_share": 0.011811023622047244,
+   "span": [
+    "2002-03-19",
+    "2003-03-20"
+   ],
+   "best_industry": "BusSv",
+   "best_industry_r": 0.9196810124912479,
+   "values_sha": "7b45a8e7cdc7de18"
+  },
+  {
+   "corpus": "chronos",
+   "subset": "m4_daily",
+   "series": "T003826:target",
+   "length": 502,
+   "r": 0.8094294141292602,
+   "r_without_5_extreme_days": 0.8215021508987244,
+   "zero_share": 0.007984031936127744,
+   "span": [
+    "2000-12-19",
+    "2002-12-19"
+   ],
+   "best_industry": "Fin",
+   "best_industry_r": 0.7429702338180958,
+   "values_sha": "415f09d40f3af86c"
+  },
+  {
+   "corpus": "chronos",
+   "subset": "m4_daily",
+   "series": "T003828:target",
+   "length": 255,
+   "r": 0.9185645533766953,
+   "r_without_5_extreme_days": 0.8954652265390873,
+   "zero_share": 0.003937007874015748,
+   "span": [
+    "2006-09-18",
+    "2007-09-20"
+   ],
+   "best_industry": "BusSv",
+   "best_industry_r": 0.8861691477324091,
+   "values_sha": "f429c4971bdbfcd5"
+  },
+  {
+   "corpus": "chronos",
+   "subset": "m4_daily",
+   "series": "T003831:target",
+   "length": 252,
+   "r": 0.8248227882851046,
+   "r_without_5_extreme_days": 0.8005818180432615,
+   "zero_share": 0.00796812749003984,
+   "span": [
+    "2001-06-18",
+    "2002-06-20"
+   ],
+   "best_industry": "Mach",
+   "best_industry_r": 0.7826966118784952,
+   "values_sha": "ee05759c3b20babe"
+  },
+  {
+   "corpus": "chronos",
+   "subset": "m4_daily",
+   "series": "T003835:target",
+   "length": 498,
+   "r": 0.8372279296483937,
+   "r_without_5_extreme_days": 0.8171776727790211,
+   "zero_share": 0.006036217303822937,
+   "span": [
+    "2000-03-20",
+    "2002-03-14"
+   ],
+   "best_industry": "Fin",
+   "best_industry_r": 0.733125501010461,
+   "values_sha": "152444198ee95ff2"
+  },
+  {
+   "corpus": "chronos",
+   "subset": "m4_daily",
+   "series": "T003836:target",
+   "length": 498,
+   "r": 0.9526505030571236,
+   "r_without_5_extreme_days": 0.9469165296589152,
+   "zero_share": 0.004024144869215292,
+   "span": [
+    "2000-03-20",
+    "2002-03-14"
+   ],
+   "best_industry": "Softw",
+   "best_industry_r": 0.8261452350955582,
+   "values_sha": "8bc071e784839233"
+  },
+  {
+   "corpus": "chronos",
+   "subset": "m4_daily",
+   "series": "T003857:target",
+   "length": 251,
+   "r": 0.8418842370951068,
+   "r_without_5_extreme_days": 0.8128317509473825,
+   "zero_share": 0.008,
+   "span": [
+    "1999-03-23",
+    "2000-03-16"
+   ],
+   "best_industry": "BusSv",
+   "best_industry_r": 0.7587990419839766,
+   "values_sha": "76d291823afe3c51"
+  },
+  {
+   "corpus": "chronos",
+   "subset": "m4_daily",
+   "series": "T003858:target",
+   "length": 252,
+   "r": 0.8073250370902859,
+   "r_without_5_extreme_days": 0.7796700742653122,
+   "zero_share": 0.02390438247011952,
+   "span": [
+    "1993-09-20",
+    "1994-09-15"
+   ],
+   "best_industry": "BusSv",
+   "best_industry_r": 0.7399067776952741,
+   "values_sha": "7f1dc3c077a89780"
+  },
+  {
+   "corpus": "chronos",
+   "subset": "m4_daily",
+   "series": "T003859:target",
+   "length": 252,
+   "r": 0.917059116718517,
+   "r_without_5_extreme_days": 0.8977918199815191,
+   "zero_share": 0.02390438247011952,
+   "span": [
+    "1993-09-20",
+    "1994-09-15"
+   ],
+   "best_industry": "BusSv",
+   "best_industry_r": 0.7943307189180767,
+   "values_sha": "0642310d222ec901"
+  },
+  {
+   "corpus": "chronos",
+   "subset": "m4_daily",
+   "series": "T003870:target",
+   "length": 251,
+   "r": 0.8505295659888309,
+   "r_without_5_extreme_days": 0.8161178335838872,
+   "zero_share": 0.032,
+   "span": [
+    "1994-03-21",
+    "1995-03-16"
+   ],
+   "best_industry": "Mach",
+   "best_industry_r": 0.7726027025745212,
+   "values_sha": "522defdcfd62a9ed"
+  },
+  {
+   "corpus": "chronos",
+   "subset": "m4_daily",
+   "series": "T003873:target",
+   "length": 502,
+   "r": 0.8211335250029019,
+   "r_without_5_extreme_days": 0.7952137338244524,
+   "zero_share": 0.005988023952095809,
+   "span": [
+    "1997-09-22",
+    "1999-09-16"
+   ],
+   "best_industry": "Insur",
+   "best_industry_r": 0.7439814782925256,
+   "values_sha": "09e02607758d9765"
+  },
+  {
+   "corpus": "chronos",
+   "subset": "m4_daily",
+   "series": "T003874:target",
+   "length": 502,
+   "r": 0.9684600906394903,
+   "r_without_5_extreme_days": 0.9610408712762876,
+   "zero_share": 0.005988023952095809,
+   "span": [
+    "1997-09-22",
+    "1999-09-16"
+   ],
+   "best_industry": "Banks",
+   "best_industry_r": 0.8540948310850689,
+   "values_sha": "b5ff16681eb5c87a"
+  },
+  {
+   "corpus": "chronos",
+   "subset": "m4_daily",
+   "series": "T003882:target",
+   "length": 253,
+   "r": 0.832896820797196,
+   "r_without_5_extreme_days": 0.8058562126636438,
+   "zero_share": 0.04365079365079365,
+   "span": [
+    "1993-12-20",
+    "1994-12-16"
+   ],
+   "best_industry": "BusSv",
+   "best_industry_r": 0.7560173530421384,
+   "values_sha": "828dd08b7c17ef3c"
+  },
+  {
+   "corpus": "chronos",
+   "subset": "m4_daily",
+   "series": "T003889:target",
+   "length": 251,
+   "r": 0.8653865441016685,
+   "r_without_5_extreme_days": 0.792157041120098,
+   "zero_share": 0.024,
+   "span": [
+    "1997-09-22",
+    "1998-09-17"
+   ],
+   "best_industry": "BusSv",
+   "best_industry_r": 0.8778291732460867,
+   "values_sha": "c6abce0b97f6baae"
+  },
+  {
+   "corpus": "chronos",
+   "subset": "m4_daily",
+   "series": "T003894:target",
+   "length": 256,
+   "r": 0.8140960061144045,
+   "r_without_5_extreme_days": 0.7793070236567697,
+   "zero_share": 0.00784313725490196,
+   "span": [
+    "1995-09-19",
+    "1996-09-19"
+   ],
+   "best_industry": "LabEq",
+   "best_industry_r": 0.7752125383390982,
+   "values_sha": "19f7bc683d4efb67"
+  },
+  {
+   "corpus": "chronos",
+   "subset": "m4_daily",
+   "series": "T003958:target",
+   "length": 253,
+   "r": 0.946147401294127,
+   "r_without_5_extreme_days": 0.9359812643360215,
+   "zero_share": 0.023809523809523808,
+   "span": [
+    "1988-06-20",
+    "1989-06-16"
+   ],
+   "best_industry": "Rtail",
+   "best_industry_r": 0.8656567483111237,
+   "values_sha": "83129df9c5298d04"
+  },
+  {
+   "corpus": "chronos",
+   "subset": "m4_daily",
+   "series": "T003964:target",
+   "length": 252,
+   "r": 0.9231496446795985,
+   "r_without_5_extreme_days": 0.8992821421581481,
+   "zero_share": 0.01195219123505976,
+   "span": [
+    "1986-03-25",
+    "1987-03-20"
+   ],
+   "best_industry": "Hshld",
+   "best_industry_r": 0.8708044496041087,
+   "values_sha": "e82665bee4ff0755"
+  },
+  {
+   "corpus": "chronos",
+   "subset": "m4_daily",
+   "series": "T003982:target",
+   "length": 337,
+   "r": 0.8139118154270911,
+   "r_without_5_extreme_days": 0.7834738183865299,
+   "zero_share": 0.020833333333333332,
+   "span": [
+    "1984-02-24",
+    "1985-06-21"
+   ],
+   "best_industry": "Fin",
+   "best_industry_r": 0.7808090145570105,
+   "values_sha": "11dc1e5255f58fe1"
+  },
+  {
+   "corpus": "chronos",
+   "subset": "m4_daily",
+   "series": "T003988:target",
+   "length": 252,
+   "r": 0.8591443210414614,
+   "r_without_5_extreme_days": 0.8533301785199738,
+   "zero_share": 0.0199203187250996,
+   "span": [
+    "1982-12-20",
+    "1983-12-14"
+   ],
+   "best_industry": "Hardw",
+   "best_industry_r": 0.8172035062915386,
+   "values_sha": "298aa0e074735ffb"
+  },
+  {
+   "corpus": "chronos",
+   "subset": "m4_daily",
+   "series": "T003993:target",
+   "length": 252,
+   "r": 0.8808587547578064,
+   "r_without_5_extreme_days": 0.8707327302011777,
+   "zero_share": 0.0199203187250996,
+   "span": [
+    "1982-09-21",
+    "1983-09-15"
+   ],
+   "best_industry": "Hardw",
+   "best_industry_r": 0.8921545260103445,
+   "values_sha": "0f72d6c400742a0f"
+  },
+  {
+   "corpus": "chronos",
+   "subset": "m4_daily",
+   "series": "T004044:target",
+   "length": 501,
+   "r": 0.8931183894527441,
+   "r_without_5_extreme_days": 0.8894621283059415,
+   "zero_share": 0.004,
+   "span": [
+    "2003-06-24",
+    "2005-06-16"
+   ],
+   "best_industry": "BusSv",
+   "best_industry_r": 0.8093485630333809,
+   "values_sha": "9325aa5215b204cb"
+  },
+  {
+   "corpus": "chronos",
+   "subset": "m4_daily",
+   "series": "T004045:target",
+   "length": 501,
+   "r": 0.9671922170515251,
+   "r_without_5_extreme_days": 0.9652591142110923,
+   "zero_share": 0.004,
+   "span": [
+    "2003-06-24",
+    "2005-06-16"
+   ],
+   "best_industry": "Banks",
+   "best_industry_r": 0.8645377391534099,
+   "values_sha": "f6971edf91164beb"
+  },
+  {
+   "corpus": "chronos",
+   "subset": "m4_daily",
+   "series": "T004176:target",
+   "length": 251,
+   "r": 0.8510131918974531,
+   "r_without_5_extreme_days": 0.8225914271008176,
+   "zero_share": 0.024,
+   "span": [
+    "2002-12-23",
+    "2003-12-18"
+   ],
+   "best_industry": "BusSv",
+   "best_industry_r": 0.8208755583839125,
+   "values_sha": "f4a54a05966fa20e"
+  },
+  {
+   "corpus": "chronos",
+   "subset": "m4_daily",
+   "series": "T004197:target",
+   "length": 507,
+   "r": 0.9595012160807885,
+   "r_without_5_extreme_days": 0.9545745588842366,
+   "zero_share": 0.0,
+   "span": [
+    "2002-03-18",
+    "2004-03-18"
+   ],
+   "best_industry": "Banks",
+   "best_industry_r": 0.898149249667392,
+   "values_sha": "018ff5bda33fa2d6"
+  },
+  {
+   "corpus": "lotsa",
+   "subset": "m4_daily",
+   "series": "7",
+   "length": 999,
+   "r": 0.9541387793214983,
+   "r_without_5_extreme_days": 0.9496543867869954,
+   "zero_share": 0.002004008016032064,
+   "span": [
+    "2013-03-21",
+    "2017-03-07"
+   ],
+   "best_industry": "BusSv",
+   "best_industry_r": 0.9088353180017352,
+   "values_sha": "828d67fa813558af"
+  },
+  {
+   "corpus": "lotsa",
+   "subset": "m4_daily",
+   "series": "8",
+   "length": 999,
+   "r": 0.9538701594532802,
+   "r_without_5_extreme_days": 0.9493671237518589,
+   "zero_share": 0.002004008016032064,
+   "span": [
+    "2013-03-21",
+    "2017-03-07"
+   ],
+   "best_industry": "BusSv",
+   "best_industry_r": 0.9083873803026518,
+   "values_sha": "3509db5d2830a15e"
+  },
+  {
+   "corpus": "lotsa",
+   "subset": "m4_daily",
+   "series": "454",
+   "length": 994,
+   "r": 0.952512396322631,
+   "r_without_5_extreme_days": 0.9491843893237357,
+   "zero_share": 0.0,
+   "span": [
+    "2013-10-22",
+    "2017-09-29"
+   ],
+   "best_industry": "Fin",
+   "best_industry_r": 0.898264101415444,
+   "values_sha": "1b051299b8960984"
+  },
+  {
+   "corpus": "lotsa",
+   "subset": "m4_daily",
+   "series": "455",
+   "length": 3032,
+   "r": 0.8341180825875915,
+   "r_without_5_extreme_days": 0.8262050382622713,
+   "zero_share": 0.0003299241174529858,
+   "span": [
+    "2005-09-16",
+    "2017-09-29"
+   ],
+   "best_industry": "Banks",
+   "best_industry_r": 0.8831410148173949,
+   "values_sha": "9669161de3dd45a6"
+  },
+  {
+   "corpus": "lotsa",
+   "subset": "m4_daily",
+   "series": "554",
+   "length": 1331,
+   "r": 0.8230165723605124,
+   "r_without_5_extreme_days": 0.8104128351124821,
+   "zero_share": 0.0030075187969924814,
+   "span": [
+    "2012-06-19",
+    "2017-09-29"
+   ],
+   "best_industry": "Chips",
+   "best_industry_r": 0.792371074229592,
+   "values_sha": "2ff9972894992084"
+  },
+  {
+   "corpus": "lotsa",
+   "subset": "m4_daily",
+   "series": "555",
+   "length": 1330,
+   "r": 0.8306549144521319,
+   "r_without_5_extreme_days": 0.8184967392001452,
+   "zero_share": 0.002257336343115124,
+   "span": [
+    "2012-06-20",
+    "2017-09-29"
+   ],
+   "best_industry": "Chips",
+   "best_industry_r": 0.7980576849210355,
+   "values_sha": "59b504e89c725c66"
+  },
+  {
+   "corpus": "lotsa",
+   "subset": "m4_daily",
+   "series": "2049",
+   "length": 301,
+   "r": 0.841239613308984,
+   "r_without_5_extreme_days": 0.8029501374932146,
+   "zero_share": 0.016666666666666666,
+   "span": [
+    "2010-03-22",
+    "2011-05-26"
+   ],
+   "best_industry": "Softw",
+   "best_industry_r": 0.8212537650743369,
+   "values_sha": "2a4183472a45932a"
+  },
+  {
+   "corpus": "lotsa",
+   "subset": "m4_daily",
+   "series": "2050",
+   "length": 301,
+   "r": 0.9372798232714906,
+   "r_without_5_extreme_days": 0.9226467546908703,
+   "zero_share": 0.0,
+   "span": [
+    "2010-03-22",
+    "2011-05-26"
+   ],
+   "best_industry": "Softw",
+   "best_industry_r": 0.931173531819814,
+   "values_sha": "5e12693079085e3d"
+  },
+  {
+   "corpus": "lotsa",
+   "subset": "m4_daily",
+   "series": "2060",
+   "length": 300,
+   "r": 0.939574103234076,
+   "r_without_5_extreme_days": 0.9244087651850603,
+   "zero_share": 0.006688963210702341,
+   "span": [
+    "2011-03-21",
+    "2012-05-24"
+   ],
+   "best_industry": "Softw",
+   "best_industry_r": 0.9527244118160494,
+   "values_sha": "91eada677b962b15"
+  },
+  {
+   "corpus": "lotsa",
+   "subset": "m4_daily",
+   "series": "2065",
+   "length": 303,
+   "r": 0.8308556812238831,
+   "r_without_5_extreme_days": 0.8198071650632353,
+   "zero_share": 0.0,
+   "span": [
+    "2012-03-19",
+    "2013-05-31"
+   ],
+   "best_industry": "Softw",
+   "best_industry_r": 0.8347488283929712,
+   "values_sha": "d528683d263c45a9"
+  },
+  {
+   "corpus": "lotsa",
+   "subset": "m4_daily",
+   "series": "2067",
+   "length": 257,
+   "r": 0.8165215056480613,
+   "r_without_5_extreme_days": 0.7793614858766287,
+   "zero_share": 0.01953125,
+   "span": [
+    "2013-11-25",
+    "2014-12-01"
+   ],
+   "best_industry": "Softw",
+   "best_industry_r": 0.8054763645492337,
+   "values_sha": "fb048053f13ad830"
+  },
+  {
+   "corpus": "lotsa",
+   "subset": "m4_daily",
+   "series": "2070",
+   "length": 304,
+   "r": 0.8499694226361709,
+   "r_without_5_extreme_days": 0.8251988136015257,
+   "zero_share": 0.0033003300330033004,
+   "span": [
+    "2011-09-19",
+    "2012-11-30"
+   ],
+   "best_industry": "Softw",
+   "best_industry_r": 0.8594072382781965,
+   "values_sha": "7dcfac5a655642d1"
+  },
+  {
+   "corpus": "lotsa",
+   "subset": "m4_daily",
+   "series": "2071",
+   "length": 304,
+   "r": 0.9240378726488032,
+   "r_without_5_extreme_days": 0.9127794246290584,
+   "zero_share": 0.0,
+   "span": [
+    "2011-09-19",
+    "2012-11-30"
+   ],
+   "best_industry": "Softw",
+   "best_industry_r": 0.9368634741650993,
+   "values_sha": "4f10551a5c3f4a04"
+  },
+  {
+   "corpus": "lotsa",
+   "subset": "m4_daily",
+   "series": "2666",
+   "length": 4197,
+   "r": 0.8278045858493235,
+   "r_without_5_extreme_days": 0.8198133266868606,
+   "zero_share": 0.0038131553860819827,
+   "span": [
+    "2001-04-02",
+    "2017-12-04"
+   ],
+   "best_industry": "BusSv",
+   "best_industry_r": 0.8071645437922467,
+   "values_sha": "f0176dd224cdb190"
+  },
+  {
+   "corpus": "lotsa",
+   "subset": "m4_daily",
+   "series": "2714",
+   "length": 4197,
+   "r": 0.8046719212905016,
+   "r_without_5_extreme_days": 0.7914142851760361,
+   "zero_share": 0.003098188751191611,
+   "span": [
+    "2001-04-02",
+    "2017-12-04"
+   ],
+   "best_industry": "Rtail",
+   "best_industry_r": 0.812413164060577,
+   "values_sha": "82b21add92ca3079"
+  },
+  {
+   "corpus": "lotsa",
+   "subset": "m4_daily",
+   "series": "2738",
+   "length": 4197,
+   "r": 0.8772474724073416,
+   "r_without_5_extreme_days": 0.8673782420890217,
+   "zero_share": 0.0038131553860819827,
+   "span": [
+    "2001-04-02",
+    "2017-12-04"
+   ],
+   "best_industry": "BusSv",
+   "best_industry_r": 0.8177518870302493,
+   "values_sha": "2b40016b1061c7c1"
+  },
+  {
+   "corpus": "lotsa",
+   "subset": "m4_daily",
+   "series": "3614",
+   "length": 497,
+   "r": 0.9704450532822898,
+   "r_without_5_extreme_days": 0.966933374665632,
+   "zero_share": 0.0020161290322580645,
+   "span": [
+    "2013-03-13",
+    "2015-03-02"
+   ],
+   "best_industry": "BusSv",
+   "best_industry_r": 0.9035306097294813,
+   "values_sha": "8fce01b6cdc8af36"
+  },
+  {
+   "corpus": "lotsa",
+   "subset": "m4_daily",
+   "series": "3615",
+   "length": 490,
+   "r": 0.9785955550425056,
+   "r_without_5_extreme_days": 0.9763084939516982,
+   "zero_share": 0.00408997955010225,
+   "span": [
+    "2013-06-21",
+    "2015-06-01"
+   ],
+   "best_industry": "Whlsl",
+   "best_industry_r": 0.9111337802918577,
+   "values_sha": "8e0d3cd6bab03a8b"
+  },
+  {
+   "corpus": "lotsa",
+   "subset": "m4_daily",
+   "series": "3630",
+   "length": 488,
+   "r": 0.965821044365353,
+   "r_without_5_extreme_days": 0.9639379282133598,
+   "zero_share": 0.008213552361396304,
+   "span": [
+    "2003-09-22",
+    "2005-08-25"
+   ],
+   "best_industry": "Banks",
+   "best_industry_r": 0.8630474932125191,
+   "values_sha": "18a012212850eb33"
+  },
+  {
+   "corpus": "lotsa",
+   "subset": "m4_daily",
+   "series": "3637",
+   "length": 302,
+   "r": 0.9551214351945004,
+   "r_without_5_extreme_days": 0.9444790911108722,
+   "zero_share": 0.0033222591362126247,
+   "span": [
+    "2010-03-22",
+    "2011-05-27"
+   ],
+   "best_industry": "BusSv",
+   "best_industry_r": 0.9524280998184482,
+   "values_sha": "8439eb8d0300bd07"
+  },
+  {
+   "corpus": "lotsa",
+   "subset": "m4_daily",
+   "series": "3655",
+   "length": 318,
+   "r": 0.8679314074601209,
+   "r_without_5_extreme_days": 0.8171207855281983,
+   "zero_share": 0.0031545741324921135,
+   "span": [
+    "1997-05-28",
+    "1998-08-27"
+   ],
+   "best_industry": "Insur",
+   "best_industry_r": 0.8128228443854979,
+   "values_sha": "2781bfcb36aefcd1"
+  },
+  {
+   "corpus": "lotsa",
+   "subset": "m4_daily",
+   "series": "3663",
+   "length": 299,
+   "r": 0.9044960785757695,
+   "r_without_5_extreme_days": 0.8854635564976501,
+   "zero_share": 0.016778523489932886,
+   "span": [
+    "2008-12-22",
+    "2010-03-01"
+   ],
+   "best_industry": "BusSv",
+   "best_industry_r": 0.8948110083403538,
+   "values_sha": "01bfc666d4a9ef0e"
+  },
+  {
+   "corpus": "lotsa",
+   "subset": "m4_daily",
+   "series": "3664",
+   "length": 299,
+   "r": 0.880267745407644,
+   "r_without_5_extreme_days": 0.8563716032061376,
+   "zero_share": 0.040268456375838924,
+   "span": [
+    "2008-12-22",
+    "2010-03-01"
+   ],
+   "best_industry": "BusSv",
+   "best_industry_r": 0.866482367687068,
+   "values_sha": "cfeff53ef04c0f67"
+  },
+  {
+   "corpus": "lotsa",
+   "subset": "m4_daily",
+   "series": "3668",
+   "length": 292,
+   "r": 0.903673357444505,
+   "r_without_5_extreme_days": 0.8888770296813386,
+   "zero_share": 0.024054982817869417,
+   "span": [
+    "1984-01-03",
+    "1985-02-25"
+   ],
+   "best_industry": "Hardw",
+   "best_industry_r": 0.8810055304432639,
+   "values_sha": "cf6f9f56c8363fff"
+  },
+  {
+   "corpus": "lotsa",
+   "subset": "m4_daily",
+   "series": "3686",
+   "length": 301,
+   "r": 0.876556651394561,
+   "r_without_5_extreme_days": 0.8520388245260647,
+   "zero_share": 0.016666666666666666,
+   "span": [
+    "2012-09-21",
+    "2013-12-02"
+   ],
+   "best_industry": "BusSv",
+   "best_industry_r": 0.8716635571758864,
+   "values_sha": "6238319a0c4f10b0"
+  },
+  {
+   "corpus": "lotsa",
+   "subset": "m4_daily",
+   "series": "3688",
+   "length": 302,
+   "r": 0.9542204917156453,
+   "r_without_5_extreme_days": 0.9439640637402212,
+   "zero_share": 0.0033222591362126247,
+   "span": [
+    "2008-03-24",
+    "2009-06-01"
+   ],
+   "best_industry": "BusSv",
+   "best_industry_r": 0.9485237021871412,
+   "values_sha": "e775e4161449a656"
+  },
+  {
+   "corpus": "lotsa",
+   "subset": "m4_daily",
+   "series": "3691",
+   "length": 302,
+   "r": 0.9423762272261967,
+   "r_without_5_extreme_days": 0.9283470959913483,
+   "zero_share": 0.006644518272425249,
+   "span": [
+    "2008-09-22",
+    "2009-11-30"
+   ],
+   "best_industry": "BusSv",
+   "best_industry_r": 0.9388659094619317,
+   "values_sha": "287470d5e04b1e5b"
+  },
+  {
+   "corpus": "lotsa",
+   "subset": "m4_daily",
+   "series": "3692",
+   "length": 302,
+   "r": 0.9541477262039271,
+   "r_without_5_extreme_days": 0.9435417139069151,
+   "zero_share": 0.0,
+   "span": [
+    "2008-09-22",
+    "2009-11-30"
+   ],
+   "best_industry": "BusSv",
+   "best_industry_r": 0.9513638138280335,
+   "values_sha": "12c4d772cf9b1155"
+  },
+  {
+   "corpus": "lotsa",
+   "subset": "m4_daily",
+   "series": "3712",
+   "length": 488,
+   "r": 0.8386458636348708,
+   "r_without_5_extreme_days": 0.8199198550575557,
+   "zero_share": 0.004106776180698152,
+   "span": [
+    "2003-03-24",
+    "2005-02-25"
+   ],
+   "best_industry": "BusSv",
+   "best_industry_r": 0.7651477582816212,
+   "values_sha": "ba551f40531049d5"
+  },
+  {
+   "corpus": "lotsa",
+   "subset": "m4_daily",
+   "series": "3713",
+   "length": 488,
+   "r": 0.9245451202834026,
+   "r_without_5_extreme_days": 0.9156534654515165,
+   "zero_share": 0.004106776180698152,
+   "span": [
+    "2003-03-24",
+    "2005-02-25"
+   ],
+   "best_industry": "Banks",
+   "best_industry_r": 0.8486181290729353,
+   "values_sha": "f6404a2e0bd5fede"
+  },
+  {
+   "corpus": "lotsa",
+   "subset": "m4_daily",
+   "series": "3745",
+   "length": 301,
+   "r": 0.8983926083009236,
+   "r_without_5_extreme_days": 0.8856240348768478,
+   "zero_share": 0.056666666666666664,
+   "span": [
+    "2010-06-21",
+    "2011-08-25"
+   ],
+   "best_industry": "ElcEq",
+   "best_industry_r": 0.8933269538977076,
+   "values_sha": "d91af24ffb7cb48e"
+  },
+  {
+   "corpus": "lotsa",
+   "subset": "m4_daily",
+   "series": "3752",
+   "length": 300,
+   "r": 0.907811200657176,
+   "r_without_5_extreme_days": 0.8844732736684844,
+   "zero_share": 0.026755852842809364,
+   "span": [
+    "2009-12-21",
+    "2011-02-28"
+   ],
+   "best_industry": "BusSv",
+   "best_industry_r": 0.8913206757174391,
+   "values_sha": "71091458ac17c4d2"
+  },
+  {
+   "corpus": "lotsa",
+   "subset": "m4_daily",
+   "series": "3759",
+   "length": 302,
+   "r": 0.8064667747794572,
+   "r_without_5_extreme_days": 0.7902240834926775,
+   "zero_share": 0.0664451827242525,
+   "span": [
+    "2009-09-21",
+    "2010-11-29"
+   ],
+   "best_industry": "Mach",
+   "best_industry_r": 0.8063399335097342,
+   "values_sha": "4ed47397b1660a30"
+  },
+  {
+   "corpus": "lotsa",
+   "subset": "m4_daily",
+   "series": "3807",
+   "length": 487,
+   "r": 0.9361813965150984,
+   "r_without_5_extreme_days": 0.9268001697790115,
+   "zero_share": 0.00205761316872428,
+   "span": [
+    "2002-12-23",
+    "2004-11-26"
+   ],
+   "best_industry": "Banks",
+   "best_industry_r": 0.8747351201999889,
+   "values_sha": "4b8fdf32e140fd3b"
+  },
+  {
+   "corpus": "lotsa",
+   "subset": "m4_daily",
+   "series": "3808",
+   "length": 487,
+   "r": 0.9253998798981203,
+   "r_without_5_extreme_days": 0.9144304994480538,
+   "zero_share": 0.00411522633744856,
+   "span": [
+    "2002-12-23",
+    "2004-11-26"
+   ],
+   "best_industry": "Banks",
+   "best_industry_r": 0.8558152527912458,
+   "values_sha": "775f4dde5931a1d5"
+  },
+  {
+   "corpus": "lotsa",
+   "subset": "m4_daily",
+   "series": "3814",
+   "length": 489,
+   "r": 0.8001570763680911,
+   "r_without_5_extreme_days": 0.7822422646248192,
+   "zero_share": 0.006147540983606557,
+   "span": [
+    "1998-06-22",
+    "2000-05-25"
+   ],
+   "best_industry": "Banks",
+   "best_industry_r": 0.6896738191847724,
+   "values_sha": "704a22bdf041784d"
+  },
+  {
+   "corpus": "lotsa",
+   "subset": "m4_daily",
+   "series": "3815",
+   "length": 489,
+   "r": 0.8179283933088537,
+   "r_without_5_extreme_days": 0.7855283018545488,
+   "zero_share": 0.010245901639344262,
+   "span": [
+    "1998-06-22",
+    "2000-05-25"
+   ],
+   "best_industry": "BusSv",
+   "best_industry_r": 0.7460901524562656,
+   "values_sha": "a1fbf250dc46b5ec"
+  },
+  {
+   "corpus": "lotsa",
+   "subset": "m4_daily",
+   "series": "3826",
+   "length": 488,
+   "r": 0.8140657478861125,
+   "r_without_5_extreme_days": 0.8269491083114147,
+   "zero_share": 0.008213552361396304,
+   "span": [
+    "2000-12-19",
+    "2002-11-29"
+   ],
+   "best_industry": "Fin",
+   "best_industry_r": 0.7461463110856358,
+   "values_sha": "7b25af90ca27cd02"
+  },
+  {
+   "corpus": "lotsa",
+   "subset": "m4_daily",
+   "series": "3835",
+   "length": 484,
+   "r": 0.8414405577662565,
+   "r_without_5_extreme_days": 0.8216837469348316,
+   "zero_share": 0.006211180124223602,
+   "span": [
+    "2000-03-20",
+    "2002-02-22"
+   ],
+   "best_industry": "BusSv",
+   "best_industry_r": 0.7345437185015595,
+   "values_sha": "6e14183f50491fc0"
+  },
+  {
+   "corpus": "lotsa",
+   "subset": "m4_daily",
+   "series": "3836",
+   "length": 484,
+   "r": 0.9521866718265581,
+   "r_without_5_extreme_days": 0.9462682074563421,
+   "zero_share": 0.004140786749482402,
+   "span": [
+    "2000-03-20",
+    "2002-02-22"
+   ],
+   "best_industry": "Softw",
+   "best_industry_r": 0.8258155604342803,
+   "values_sha": "953c91b75113ae76"
+  },
+  {
+   "corpus": "lotsa",
+   "subset": "m4_daily",
+   "series": "3873",
+   "length": 488,
+   "r": 0.8248545320023928,
+   "r_without_5_extreme_days": 0.7990981694060995,
+   "zero_share": 0.006160164271047228,
+   "span": [
+    "1997-09-22",
+    "1999-08-26"
+   ],
+   "best_industry": "Banks",
+   "best_industry_r": 0.7508053503724418,
+   "values_sha": "ca292f5373280e46"
+  },
+  {
+   "corpus": "lotsa",
+   "subset": "m4_daily",
+   "series": "3874",
+   "length": 488,
+   "r": 0.9680810179219317,
+   "r_without_5_extreme_days": 0.9603375486847231,
+   "zero_share": 0.006160164271047228,
+   "span": [
+    "1997-09-22",
+    "1999-08-26"
+   ],
+   "best_industry": "Banks",
+   "best_industry_r": 0.8532153578211092,
+   "values_sha": "c17852ea0e776e03"
+  },
+  {
+   "corpus": "lotsa",
+   "subset": "m4_daily",
+   "series": "3982",
+   "length": 323,
+   "r": 0.8180112927055228,
+   "r_without_5_extreme_days": 0.7877316191245871,
+   "zero_share": 0.018633540372670808,
+   "span": [
+    "1984-02-24",
+    "1985-06-03"
+   ],
+   "best_industry": "Fin",
+   "best_industry_r": 0.7827993771870875,
+   "values_sha": "78a4cd4183862502"
+  },
+  {
+   "corpus": "lotsa",
+   "subset": "m4_daily",
+   "series": "4044",
+   "length": 487,
+   "r": 0.8976519679441742,
+   "r_without_5_extreme_days": 0.894309607205254,
+   "zero_share": 0.00411522633744856,
+   "span": [
+    "2003-06-24",
+    "2005-05-26"
+   ],
+   "best_industry": "BusSv",
+   "best_industry_r": 0.8131635930862187,
+   "values_sha": "7bbe446df597ee61"
+  },
+  {
+   "corpus": "lotsa",
+   "subset": "m4_daily",
+   "series": "4045",
+   "length": 487,
+   "r": 0.9672446658145384,
+   "r_without_5_extreme_days": 0.9652928678120479,
+   "zero_share": 0.00411522633744856,
+   "span": [
+    "2003-06-24",
+    "2005-05-26"
+   ],
+   "best_industry": "Banks",
+   "best_industry_r": 0.8649939039331144,
+   "values_sha": "80c482d3b629f903"
+  },
+  {
+   "corpus": "lotsa",
+   "subset": "m4_daily",
+   "series": "4197",
+   "length": 493,
+   "r": 0.9637956191646385,
+   "r_without_5_extreme_days": 0.9594093718949012,
+   "zero_share": 0.0,
+   "span": [
+    "2002-03-18",
+    "2004-02-27"
+   ],
+   "best_industry": "Banks",
+   "best_industry_r": 0.9007597937320158,
+   "values_sha": "4415e1f34e9f479f"
+  },
+  {
+   "corpus": "time300b",
+   "subset": "energy/wind_farms_with_missing",
+   "series": "11383",
+   "length": 256,
+   "r": 0.8087152210601828,
+   "r_without_5_extreme_days": 0.22701386121738476,
+   "zero_share": 0.17254901960784313,
+   "span": [
+    "1986-10-16",
+    "1987-10-19"
+   ],
+   "best_industry": "Mach",
+   "best_industry_r": 0.8188033876837502,
+   "values_sha": "2ac0452c4d6cf595"
+  },
+  {
+   "corpus": "time300b",
+   "subset": "energy/wind_farms_with_missing",
+   "series": "18232",
+   "length": 256,
+   "r": 0.8140672508438032,
+   "r_without_5_extreme_days": 0.1751255330334,
+   "zero_share": 0.12941176470588237,
+   "span": [
+    "1986-10-16",
+    "1987-10-19"
+   ],
+   "best_industry": "Steel",
+   "best_industry_r": 0.8618976703375473,
+   "values_sha": "cfebb0ca3c2be5f9"
+  },
+  {
+   "corpus": "time300b",
+   "subset": "energy/wind_farms_with_missing",
+   "series": "2738",
+   "length": 256,
+   "r": 0.8084880407477011,
+   "r_without_5_extreme_days": 0.08285558538914917,
+   "zero_share": 0.13725490196078433,
+   "span": [
+    "1986-10-16",
+    "1987-10-19"
+   ],
+   "best_industry": "Steel",
+   "best_industry_r": 0.8563529874302818,
+   "values_sha": "6657f8a17dc257c4"
+  },
+  {
+   "corpus": "time300b",
+   "subset": "energy/wind_farms_with_missing",
+   "series": "2918",
+   "length": 256,
+   "r": 0.8089430386439952,
+   "r_without_5_extreme_days": 0.1187920024916445,
+   "zero_share": 0.13725490196078433,
+   "span": [
+    "1986-10-16",
+    "1987-10-19"
+   ],
+   "best_industry": "Steel",
+   "best_industry_r": 0.8478122097956642,
+   "values_sha": "f66f2899e8513bef"
+  },
+  {
+   "corpus": "time300b",
+   "subset": "energy/wind_farms_with_missing",
+   "series": "3632",
+   "length": 256,
+   "r": 0.8055607825685553,
+   "r_without_5_extreme_days": 0.024745416842332404,
+   "zero_share": 0.01568627450980392,
+   "span": [
+    "1986-10-16",
+    "1987-10-19"
+   ],
+   "best_industry": "Steel",
+   "best_industry_r": 0.8559338657749306,
+   "values_sha": "445a6e66fd7ce3d4"
+  },
+  {
+   "corpus": "time300b",
+   "subset": "energy/wind_farms_with_missing",
+   "series": "9662",
+   "length": 256,
+   "r": 0.8019380674650315,
+   "r_without_5_extreme_days": 0.07449084878653717,
+   "zero_share": 0.14901960784313725,
+   "span": [
+    "1986-10-16",
+    "1987-10-19"
+   ],
+   "best_industry": "Steel",
+   "best_industry_r": 0.8272648081182815,
+   "values_sha": "394d63bda5c34c74"
+  },
+  {
+   "corpus": "time300b",
+   "subset": "energy/wind_farms_with_missing",
+   "series": "11369",
+   "length": 256,
+   "r": 0.8146376432004597,
+   "r_without_5_extreme_days": 0.23072532438719479,
+   "zero_share": 0.10980392156862745,
+   "span": [
+    "1986-10-16",
+    "1987-10-19"
+   ],
+   "best_industry": "Mach",
+   "best_industry_r": 0.8220642150874371,
+   "values_sha": "cb822772056ec49b"
+  },
+  {
+   "corpus": "time300b",
+   "subset": "energy/wind_farms_with_missing",
+   "series": "12278",
+   "length": 256,
+   "r": 0.8323900100520388,
+   "r_without_5_extreme_days": 0.1592180575172366,
+   "zero_share": 0.0784313725490196,
+   "span": [
+    "1986-10-16",
+    "1987-10-19"
+   ],
+   "best_industry": "Steel",
+   "best_industry_r": 0.8640280346237064,
+   "values_sha": "2749c5c8faa214fd"
+  },
+  {
+   "corpus": "time300b",
+   "subset": "other/m4_daily",
+   "series": "7",
+   "length": 999,
+   "r": 0.9541387867867144,
+   "r_without_5_extreme_days": 0.9496543953486959,
+   "zero_share": 0.002004008016032064,
+   "span": [
+    "2013-03-21",
+    "2017-03-07"
+   ],
+   "best_industry": "BusSv",
+   "best_industry_r": 0.9088353168693655,
+   "values_sha": "d9f934ec51fd9563"
+  },
+  {
+   "corpus": "time300b",
+   "subset": "other/m4_daily",
+   "series": "8",
+   "length": 999,
+   "r": 0.9538701601857773,
+   "r_without_5_extreme_days": 0.9493671245002073,
+   "zero_share": 0.002004008016032064,
+   "span": [
+    "2013-03-21",
+    "2017-03-07"
+   ],
+   "best_industry": "BusSv",
+   "best_industry_r": 0.9083873742953937,
+   "values_sha": "d8b9352b03a1197f"
+  },
+  {
+   "corpus": "time300b",
+   "subset": "other/m4_daily",
+   "series": "421",
+   "length": 994,
+   "r": 0.952512396322631,
+   "r_without_5_extreme_days": 0.9491843893237357,
+   "zero_share": 0.0,
+   "span": [
+    "2013-10-22",
+    "2017-09-29"
+   ],
+   "best_industry": "Fin",
+   "best_industry_r": 0.898264101415444,
+   "values_sha": "1b051299b8960984"
+  },
+  {
+   "corpus": "time300b",
+   "subset": "other/m4_daily",
+   "series": "422",
+   "length": 3032,
+   "r": 0.8341180732997534,
+   "r_without_5_extreme_days": 0.8262050274039799,
+   "zero_share": 0.0003299241174529858,
+   "span": [
+    "2005-09-16",
+    "2017-09-29"
+   ],
+   "best_industry": "Banks",
+   "best_industry_r": 0.8831410008372876,
+   "values_sha": "1524b424771135d5"
+  },
+  {
+   "corpus": "time300b",
+   "subset": "other/m4_daily",
+   "series": "521",
+   "length": 1331,
+   "r": 0.8230166030668071,
+   "r_without_5_extreme_days": 0.8104128671739085,
+   "zero_share": 0.0030075187969924814,
+   "span": [
+    "2012-06-19",
+    "2017-09-29"
+   ],
+   "best_industry": "Chips",
+   "best_industry_r": 0.7923711360964834,
+   "values_sha": "3965ae8b4dbbbc9f"
+  },
+  {
+   "corpus": "time300b",
+   "subset": "other/m4_daily",
+   "series": "522",
+   "length": 1330,
+   "r": 0.8306549094117759,
+   "r_without_5_extreme_days": 0.8184967335591685,
+   "zero_share": 0.002257336343115124,
+   "span": [
+    "2012-06-20",
+    "2017-09-29"
+   ],
+   "best_industry": "Chips",
+   "best_industry_r": 0.7980576680094811,
+   "values_sha": "eae035e10e2e04bf"
+  },
+  {
+   "corpus": "time300b",
+   "subset": "other/m4_daily",
+   "series": "2012",
+   "length": 301,
+   "r": 0.841239613308984,
+   "r_without_5_extreme_days": 0.8029501374932146,
+   "zero_share": 0.016666666666666666,
+   "span": [
+    "2010-03-22",
+    "2011-05-26"
+   ],
+   "best_industry": "Softw",
+   "best_industry_r": 0.8212537650743369,
+   "values_sha": "2a4183472a45932a"
+  },
+  {
+   "corpus": "time300b",
+   "subset": "other/m4_daily",
+   "series": "2013",
+   "length": 301,
+   "r": 0.9372798071557065,
+   "r_without_5_extreme_days": 0.9226467354489636,
+   "zero_share": 0.0,
+   "span": [
+    "2010-03-22",
+    "2011-05-26"
+   ],
+   "best_industry": "Softw",
+   "best_industry_r": 0.9311735242186366,
+   "values_sha": "2cf615366fe8c1c9"
+  },
+  {
+   "corpus": "time300b",
+   "subset": "other/m4_daily",
+   "series": "2023",
+   "length": 300,
+   "r": 0.939574103234076,
+   "r_without_5_extreme_days": 0.9244087651850603,
+   "zero_share": 0.006688963210702341,
+   "span": [
+    "2011-03-21",
+    "2012-05-24"
+   ],
+   "best_industry": "Softw",
+   "best_industry_r": 0.9527244118160494,
+   "values_sha": "91eada677b962b15"
+  },
+  {
+   "corpus": "time300b",
+   "subset": "other/m4_daily",
+   "series": "2028",
+   "length": 303,
+   "r": 0.8308556812238831,
+   "r_without_5_extreme_days": 0.8198071650632353,
+   "zero_share": 0.0,
+   "span": [
+    "2012-03-19",
+    "2013-05-31"
+   ],
+   "best_industry": "Softw",
+   "best_industry_r": 0.8347488283929712,
+   "values_sha": "d528683d263c45a9"
+  },
+  {
+   "corpus": "time300b",
+   "subset": "other/m4_daily",
+   "series": "2030",
+   "length": 257,
+   "r": 0.8165215056480613,
+   "r_without_5_extreme_days": 0.7793614858766287,
+   "zero_share": 0.01953125,
+   "span": [
+    "2013-11-25",
+    "2014-12-01"
+   ],
+   "best_industry": "Softw",
+   "best_industry_r": 0.8054763645492337,
+   "values_sha": "fb048053f13ad830"
+  },
+  {
+   "corpus": "time300b",
+   "subset": "other/m4_daily",
+   "series": "2033",
+   "length": 304,
+   "r": 0.8499693091577823,
+   "r_without_5_extreme_days": 0.8251986983063117,
+   "zero_share": 0.0033003300330033004,
+   "span": [
+    "2011-09-19",
+    "2012-11-30"
+   ],
+   "best_industry": "Softw",
+   "best_industry_r": 0.8594072028019608,
+   "values_sha": "53171782d726a028"
+  },
+  {
+   "corpus": "time300b",
+   "subset": "other/m4_daily",
+   "series": "2034",
+   "length": 304,
+   "r": 0.9240378726488032,
+   "r_without_5_extreme_days": 0.9127794246290584,
+   "zero_share": 0.0,
+   "span": [
+    "2011-09-19",
+    "2012-11-30"
+   ],
+   "best_industry": "Softw",
+   "best_industry_r": 0.9368634741650993,
+   "values_sha": "4f10551a5c3f4a04"
+  },
+  {
+   "corpus": "time300b",
+   "subset": "other/m4_daily",
+   "series": "2606",
+   "length": 4197,
+   "r": 0.8278046284209413,
+   "r_without_5_extreme_days": 0.8198133779602785,
+   "zero_share": 0.0038131553860819827,
+   "span": [
+    "2001-04-02",
+    "2017-12-04"
+   ],
+   "best_industry": "BusSv",
+   "best_industry_r": 0.8071645694278643,
+   "values_sha": "b428af4e459a1fda"
+  },
+  {
+   "corpus": "time300b",
+   "subset": "other/m4_daily",
+   "series": "2654",
+   "length": 4197,
+   "r": 0.8046719320088688,
+   "r_without_5_extreme_days": 0.7914143042510113,
+   "zero_share": 0.003098188751191611,
+   "span": [
+    "2001-04-02",
+    "2017-12-04"
+   ],
+   "best_industry": "Rtail",
+   "best_industry_r": 0.8124131551671817,
+   "values_sha": "cf60ba4db5787ed7"
+  },
+  {
+   "corpus": "time300b",
+   "subset": "other/m4_daily",
+   "series": "2678",
+   "length": 4197,
+   "r": 0.87724746223467,
+   "r_without_5_extreme_days": 0.8673782316970535,
+   "zero_share": 0.0038131553860819827,
+   "span": [
+    "2001-04-02",
+    "2017-12-04"
+   ],
+   "best_industry": "BusSv",
+   "best_industry_r": 0.8177518700130425,
+   "values_sha": "845c8273ebcd6850"
+  },
+  {
+   "corpus": "time300b",
+   "subset": "other/m4_daily",
+   "series": "3563",
+   "length": 497,
+   "r": 0.9704450532822898,
+   "r_without_5_extreme_days": 0.966933374665632,
+   "zero_share": 0.0020161290322580645,
+   "span": [
+    "2013-03-13",
+    "2015-03-02"
+   ],
+   "best_industry": "BusSv",
+   "best_industry_r": 0.9035306097294813,
+   "values_sha": "8fce01b6cdc8af36"
+  },
+  {
+   "corpus": "time300b",
+   "subset": "other/m4_daily",
+   "series": "3564",
+   "length": 490,
+   "r": 0.9785955138480444,
+   "r_without_5_extreme_days": 0.9763084484822946,
+   "zero_share": 0.00408997955010225,
+   "span": [
+    "2013-06-21",
+    "2015-06-01"
+   ],
+   "best_industry": "Whlsl",
+   "best_industry_r": 0.9111337951384034,
+   "values_sha": "370a97ce07192297"
+  },
+  {
+   "corpus": "time300b",
+   "subset": "other/m4_daily",
+   "series": "3578",
+   "length": 488,
+   "r": 0.9658210596421999,
+   "r_without_5_extreme_days": 0.9639379425970365,
+   "zero_share": 0.008213552361396304,
+   "span": [
+    "2003-09-22",
+    "2005-08-25"
+   ],
+   "best_industry": "Banks",
+   "best_industry_r": 0.8630474868234908,
+   "values_sha": "7820d16cd7f96088"
+  },
+  {
+   "corpus": "time300b",
+   "subset": "other/m4_daily",
+   "series": "3585",
+   "length": 302,
+   "r": 0.9551214351945004,
+   "r_without_5_extreme_days": 0.9444790911108722,
+   "zero_share": 0.0033222591362126247,
+   "span": [
+    "2010-03-22",
+    "2011-05-27"
+   ],
+   "best_industry": "BusSv",
+   "best_industry_r": 0.9524280998184482,
+   "values_sha": "8439eb8d0300bd07"
+  },
+  {
+   "corpus": "time300b",
+   "subset": "other/m4_daily",
+   "series": "3603",
+   "length": 318,
+   "r": 0.8679314152513832,
+   "r_without_5_extreme_days": 0.817120797289732,
+   "zero_share": 0.0031545741324921135,
+   "span": [
+    "1997-05-28",
+    "1998-08-27"
+   ],
+   "best_industry": "Insur",
+   "best_industry_r": 0.812822853048667,
+   "values_sha": "c94d746715b8bb61"
+  },
+  {
+   "corpus": "time300b",
+   "subset": "other/m4_daily",
+   "series": "3611",
+   "length": 299,
+   "r": 0.9044960785757695,
+   "r_without_5_extreme_days": 0.8854635564976501,
+   "zero_share": 0.016778523489932886,
+   "span": [
+    "2008-12-22",
+    "2010-03-01"
+   ],
+   "best_industry": "BusSv",
+   "best_industry_r": 0.8948110083403538,
+   "values_sha": "01bfc666d4a9ef0e"
+  },
+  {
+   "corpus": "time300b",
+   "subset": "other/m4_daily",
+   "series": "3612",
+   "length": 299,
+   "r": 0.880267745407644,
+   "r_without_5_extreme_days": 0.8563716032061376,
+   "zero_share": 0.040268456375838924,
+   "span": [
+    "2008-12-22",
+    "2010-03-01"
+   ],
+   "best_industry": "BusSv",
+   "best_industry_r": 0.866482367687068,
+   "values_sha": "cfeff53ef04c0f67"
+  },
+  {
+   "corpus": "time300b",
+   "subset": "other/m4_daily",
+   "series": "3616",
+   "length": 292,
+   "r": 0.903673357444505,
+   "r_without_5_extreme_days": 0.8888770296813386,
+   "zero_share": 0.024054982817869417,
+   "span": [
+    "1984-01-03",
+    "1985-02-25"
+   ],
+   "best_industry": "Hardw",
+   "best_industry_r": 0.8810055304432639,
+   "values_sha": "cf6f9f56c8363fff"
+  },
+  {
+   "corpus": "time300b",
+   "subset": "other/m4_daily",
+   "series": "3634",
+   "length": 301,
+   "r": 0.8765566475077934,
+   "r_without_5_extreme_days": 0.8520387766763918,
+   "zero_share": 0.016666666666666666,
+   "span": [
+    "2012-09-21",
+    "2013-12-02"
+   ],
+   "best_industry": "BusSv",
+   "best_industry_r": 0.8716635212362797,
+   "values_sha": "c222dc8dcf0b6396"
+  },
+  {
+   "corpus": "time300b",
+   "subset": "other/m4_daily",
+   "series": "3636",
+   "length": 302,
+   "r": 0.9542205287023494,
+   "r_without_5_extreme_days": 0.9439641168243328,
+   "zero_share": 0.0033222591362126247,
+   "span": [
+    "2008-03-24",
+    "2009-06-01"
+   ],
+   "best_industry": "BusSv",
+   "best_industry_r": 0.9485237333195604,
+   "values_sha": "3547d518d09b7b53"
+  },
+  {
+   "corpus": "time300b",
+   "subset": "other/m4_daily",
+   "series": "3639",
+   "length": 302,
+   "r": 0.9423762272261967,
+   "r_without_5_extreme_days": 0.9283470959913483,
+   "zero_share": 0.006644518272425249,
+   "span": [
+    "2008-09-22",
+    "2009-11-30"
+   ],
+   "best_industry": "BusSv",
+   "best_industry_r": 0.9388659094619317,
+   "values_sha": "287470d5e04b1e5b"
+  },
+  {
+   "corpus": "time300b",
+   "subset": "other/m4_daily",
+   "series": "3640",
+   "length": 302,
+   "r": 0.9541477272707823,
+   "r_without_5_extreme_days": 0.9435417152243785,
+   "zero_share": 0.0,
+   "span": [
+    "2008-09-22",
+    "2009-11-30"
+   ],
+   "best_industry": "BusSv",
+   "best_industry_r": 0.9513638143151766,
+   "values_sha": "384d2bfbbdc74fff"
+  },
+  {
+   "corpus": "time300b",
+   "subset": "other/m4_daily",
+   "series": "3658",
+   "length": 488,
+   "r": 0.8386458636348708,
+   "r_without_5_extreme_days": 0.8199198550575557,
+   "zero_share": 0.004106776180698152,
+   "span": [
+    "2003-03-24",
+    "2005-02-25"
+   ],
+   "best_industry": "BusSv",
+   "best_industry_r": 0.7651477582816212,
+   "values_sha": "ba551f40531049d5"
+  },
+  {
+   "corpus": "time300b",
+   "subset": "other/m4_daily",
+   "series": "3659",
+   "length": 488,
+   "r": 0.9245451306239405,
+   "r_without_5_extreme_days": 0.9156534776382954,
+   "zero_share": 0.004106776180698152,
+   "span": [
+    "2003-03-24",
+    "2005-02-25"
+   ],
+   "best_industry": "Banks",
+   "best_industry_r": 0.8486181112663046,
+   "values_sha": "f65ede00d6356238"
+  },
+  {
+   "corpus": "time300b",
+   "subset": "other/m4_daily",
+   "series": "3688",
+   "length": 301,
+   "r": 0.8983927214051672,
+   "r_without_5_extreme_days": 0.8856240767131904,
+   "zero_share": 0.056666666666666664,
+   "span": [
+    "2010-06-21",
+    "2011-08-25"
+   ],
+   "best_industry": "ElcEq",
+   "best_industry_r": 0.893327069899908,
+   "values_sha": "38962f93eb5ca300"
+  },
+  {
+   "corpus": "time300b",
+   "subset": "other/m4_daily",
+   "series": "3695",
+   "length": 300,
+   "r": 0.907811200657176,
+   "r_without_5_extreme_days": 0.8844732736684844,
+   "zero_share": 0.026755852842809364,
+   "span": [
+    "2009-12-21",
+    "2011-02-28"
+   ],
+   "best_industry": "BusSv",
+   "best_industry_r": 0.8913206757174391,
+   "values_sha": "71091458ac17c4d2"
+  },
+  {
+   "corpus": "time300b",
+   "subset": "other/m4_daily",
+   "series": "3702",
+   "length": 302,
+   "r": 0.8064667747794572,
+   "r_without_5_extreme_days": 0.7902240834926775,
+   "zero_share": 0.0664451827242525,
+   "span": [
+    "2009-09-21",
+    "2010-11-29"
+   ],
+   "best_industry": "Mach",
+   "best_industry_r": 0.8063399335097342,
+   "values_sha": "4ed47397b1660a30"
+  },
+  {
+   "corpus": "time300b",
+   "subset": "other/m4_daily",
+   "series": "3750",
+   "length": 487,
+   "r": 0.9361813965150984,
+   "r_without_5_extreme_days": 0.9268001697790115,
+   "zero_share": 0.00205761316872428,
+   "span": [
+    "2002-12-23",
+    "2004-11-26"
+   ],
+   "best_industry": "Banks",
+   "best_industry_r": 0.8747351201999889,
+   "values_sha": "4b8fdf32e140fd3b"
+  },
+  {
+   "corpus": "time300b",
+   "subset": "other/m4_daily",
+   "series": "3751",
+   "length": 487,
+   "r": 0.9253998858383843,
+   "r_without_5_extreme_days": 0.9144305083070098,
+   "zero_share": 0.00411522633744856,
+   "span": [
+    "2002-12-23",
+    "2004-11-26"
+   ],
+   "best_industry": "Banks",
+   "best_industry_r": 0.8558152528699403,
+   "values_sha": "76ee98e5518f204f"
+  },
+  {
+   "corpus": "time300b",
+   "subset": "other/m4_daily",
+   "series": "3757",
+   "length": 489,
+   "r": 0.8001570763680911,
+   "r_without_5_extreme_days": 0.7822422646248192,
+   "zero_share": 0.006147540983606557,
+   "span": [
+    "1998-06-22",
+    "2000-05-25"
+   ],
+   "best_industry": "Banks",
+   "best_industry_r": 0.6896738191847724,
+   "values_sha": "704a22bdf041784d"
+  },
+  {
+   "corpus": "time300b",
+   "subset": "other/m4_daily",
+   "series": "3758",
+   "length": 489,
+   "r": 0.8179284155018837,
+   "r_without_5_extreme_days": 0.7855283181081038,
+   "zero_share": 0.010245901639344262,
+   "span": [
+    "1998-06-22",
+    "2000-05-25"
+   ],
+   "best_industry": "BusSv",
+   "best_industry_r": 0.7460901812156685,
+   "values_sha": "1597bfffff2e020f"
+  },
+  {
+   "corpus": "time300b",
+   "subset": "other/m4_daily",
+   "series": "3769",
+   "length": 488,
+   "r": 0.8140656444044359,
+   "r_without_5_extreme_days": 0.8269490512294024,
+   "zero_share": 0.008213552361396304,
+   "span": [
+    "2000-12-19",
+    "2002-11-29"
+   ],
+   "best_industry": "Fin",
+   "best_industry_r": 0.7461462042967801,
+   "values_sha": "5873b231a27b2490"
+  },
+  {
+   "corpus": "time300b",
+   "subset": "other/m4_daily",
+   "series": "3778",
+   "length": 484,
+   "r": 0.8414403954121737,
+   "r_without_5_extreme_days": 0.8216835593157226,
+   "zero_share": 0.006211180124223602,
+   "span": [
+    "2000-03-20",
+    "2002-02-22"
+   ],
+   "best_industry": "BusSv",
+   "best_industry_r": 0.7345436070143208,
+   "values_sha": "edc88aea6a246ba2"
+  },
+  {
+   "corpus": "time300b",
+   "subset": "other/m4_daily",
+   "series": "3779",
+   "length": 484,
+   "r": 0.952186629960401,
+   "r_without_5_extreme_days": 0.9462681578899015,
+   "zero_share": 0.004140786749482402,
+   "span": [
+    "2000-03-20",
+    "2002-02-22"
+   ],
+   "best_industry": "Softw",
+   "best_industry_r": 0.8258155325714598,
+   "values_sha": "c49cd6456d47baeb"
+  },
+  {
+   "corpus": "time300b",
+   "subset": "other/m4_daily",
+   "series": "3815",
+   "length": 488,
+   "r": 0.824854533639311,
+   "r_without_5_extreme_days": 0.7990982023649275,
+   "zero_share": 0.006160164271047228,
+   "span": [
+    "1997-09-22",
+    "1999-08-26"
+   ],
+   "best_industry": "Banks",
+   "best_industry_r": 0.7508053948551172,
+   "values_sha": "973bd48028fce406"
+  },
+  {
+   "corpus": "time300b",
+   "subset": "other/m4_daily",
+   "series": "3816",
+   "length": 488,
+   "r": 0.9680810081158255,
+   "r_without_5_extreme_days": 0.9603375361973893,
+   "zero_share": 0.006160164271047228,
+   "span": [
+    "1997-09-22",
+    "1999-08-26"
+   ],
+   "best_industry": "Banks",
+   "best_industry_r": 0.8532153404033933,
+   "values_sha": "771093b685ee8011"
+  },
+  {
+   "corpus": "time300b",
+   "subset": "other/m4_daily",
+   "series": "3924",
+   "length": 323,
+   "r": 0.8180112927055228,
+   "r_without_5_extreme_days": 0.7877316191245871,
+   "zero_share": 0.018633540372670808,
+   "span": [
+    "1984-02-24",
+    "1985-06-03"
+   ],
+   "best_industry": "Fin",
+   "best_industry_r": 0.7827993771870875,
+   "values_sha": "78a4cd4183862502"
+  },
+  {
+   "corpus": "time300b",
+   "subset": "other/m4_daily",
+   "series": "3986",
+   "length": 487,
+   "r": 0.8976519322882732,
+   "r_without_5_extreme_days": 0.8943095803514695,
+   "zero_share": 0.00411522633744856,
+   "span": [
+    "2003-06-24",
+    "2005-05-26"
+   ],
+   "best_industry": "BusSv",
+   "best_industry_r": 0.8131635508407119,
+   "values_sha": "238308f60ca00c5f"
+  },
+  {
+   "corpus": "time300b",
+   "subset": "other/m4_daily",
+   "series": "3987",
+   "length": 487,
+   "r": 0.9672446744885127,
+   "r_without_5_extreme_days": 0.9652928864188381,
+   "zero_share": 0.00411522633744856,
+   "span": [
+    "2003-06-24",
+    "2005-05-26"
+   ],
+   "best_industry": "Banks",
+   "best_industry_r": 0.8649938997852141,
+   "values_sha": "86358ef1ed6f93a5"
+  },
+  {
+   "corpus": "time300b",
+   "subset": "other/m4_daily",
+   "series": "4104",
+   "length": 493,
+   "r": 0.963795630161213,
+   "r_without_5_extreme_days": 0.9594093842116806,
+   "zero_share": 0.0,
+   "span": [
+    "2002-03-18",
+    "2004-02-27"
+   ],
+   "best_industry": "Banks",
+   "best_industry_r": 0.9007598261051393,
+   "values_sha": "7cd7a2d7d153a882"
+  }
+ ]
+}

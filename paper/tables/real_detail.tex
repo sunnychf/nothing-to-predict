@@ -1,0 +1,47 @@
+\begin{tabular}{@{}lccccc@{}}
+\toprule
+ & \multicolumn{2}{c}{\textbf{Sign-randomised}} & \multicolumn{3}{c}{\textbf{Raw daily data}} \\
+\cmidrule(lr){2-3}\cmidrule(lr){4-6}
+\textbf{Model} & \textbf{Mean / $\sigma_r$} & \textbf{Skill} & \textbf{Mean / $\sigma_r$} & \textbf{Skill} & \textbf{Skill} \\
+ & $h$ = 128 & $h$ = 16 & $h$ = 128 & $h$ = 16 & $h$ = 128 \\
+\midrule
+\multicolumn{6}{l}{\textit{FX (380 windows)}} \\
+Chronos-T5 & +1.70\,\textpm\,0.19 & \textminus{}0.092\,\textpm\,0.056 & +1.06\,\textpm\,0.21 & \textminus{}0.181\,\textpm\,0.158 & \textminus{}0.172\,\textpm\,0.100 \\
+Chronos-Bolt & +1.65\,\textpm\,0.08 & \textminus{}0.042\,\textpm\,0.021 & +1.71\,\textpm\,0.25 & \textbf{\textminus{}0.067}\,\textpm\,0.053 & \textbf{\textminus{}0.091}\,\textpm\,0.084 \\
+Chronos-2 & +0.39\,\textpm\,0.09 & \textbf{\textminus{}0.019}\,\textpm\,0.016 & \textminus{}0.03\,\textpm\,0.22 & \textminus{}0.198\,\textpm\,0.129 & \textminus{}0.127\,\textpm\,0.045 \\
+TiRex & +2.11\,\textpm\,0.11 & \textminus{}0.070\,\textpm\,0.016 & +0.76\,\textpm\,0.56 & \textminus{}0.142\,\textpm\,0.056 & \textminus{}0.134\,\textpm\,0.103 \\
+Moirai-1.1 & +2.18\,\textpm\,0.15 & \textminus{}0.156\,\textpm\,0.069 & +1.75\,\textpm\,0.24 & \textminus{}0.259\,\textpm\,0.063 & \textminus{}0.230\,\textpm\,0.110 \\
+Moirai-2.0 & \textminus{}0.04\,\textpm\,0.12 & \textminus{}0.058\,\textpm\,0.020 & \textminus{}0.17\,\textpm\,0.54 & \textminus{}0.184\,\textpm\,0.055 & \textminus{}0.173\,\textpm\,0.073 \\
+TimesFM-2.0 & +0.08\,\textpm\,0.14 & \textminus{}0.091\,\textpm\,0.022 & \textminus{}1.70\,\textpm\,0.64 & \textminus{}0.198\,\textpm\,0.099 & \textminus{}0.260\,\textpm\,0.099 \\
+TimesFM-2.5 & +0.11\,\textpm\,0.09 & \textminus{}0.101\,\textpm\,0.022 & \textminus{}1.31\,\textpm\,0.42 & \textminus{}0.247\,\textpm\,0.100 & \textminus{}0.152\,\textpm\,0.058 \\
+Time-MoE & +0.80\,\textpm\,0.27 & \textminus{}0.987\,\textpm\,0.141 & \textminus{}2.45\,\textpm\,1.01 & \textminus{}1.545\,\textpm\,0.401 & \textminus{}0.809\,\textpm\,0.245 \\
+Sundial & +0.96\,\textpm\,0.14 & \textminus{}0.251\,\textpm\,0.042 & \textminus{}1.51\,\textpm\,0.85 & \textminus{}0.704\,\textpm\,0.264 & \textminus{}0.511\,\textpm\,0.184 \\
+FinCast & \textminus{}0.40\,\textpm\,0.05 & \textminus{}0.058\,\textpm\,0.024 & \textminus{}1.00\,\textpm\,0.19 & \textminus{}0.070\,\textpm\,0.043 & \textminus{}0.101\,\textpm\,0.040 \\
+\midrule
+\multicolumn{6}{l}{\textit{Equities (900 windows)}} \\
+Chronos-T5 & +1.46\,\textpm\,0.08 & \textminus{}0.048\,\textpm\,0.010 & +2.65\,\textpm\,0.25 & \textminus{}0.057\,\textpm\,0.045 & +0.048\,\textpm\,0.058 \\
+Chronos-Bolt & +1.37\,\textpm\,0.13 & \textminus{}0.097\,\textpm\,0.028 & +3.72\,\textpm\,0.42 & \textminus{}0.274\,\textpm\,0.121 & \textbf{+0.129}\,\textpm\,0.110 \\
+Chronos-2 & +0.06\,\textpm\,0.08 & \textbf{\textminus{}0.038}\,\textpm\,0.012 & +1.93\,\textpm\,0.30 & \textminus{}0.045\,\textpm\,0.024 & \textminus{}0.020\,\textpm\,0.050 \\
+TiRex & +1.79\,\textpm\,0.11 & \textminus{}0.051\,\textpm\,0.011 & +2.19\,\textpm\,0.40 & \textminus{}0.076\,\textpm\,0.058 & +0.123\,\textpm\,0.100 \\
+Moirai-1.1 & +2.32\,\textpm\,0.18 & \textminus{}0.210\,\textpm\,0.041 & +2.64\,\textpm\,0.32 & \textminus{}0.119\,\textpm\,0.098 & \textminus{}0.016\,\textpm\,0.075 \\
+Moirai-2.0 & \textminus{}0.15\,\textpm\,0.16 & \textminus{}0.083\,\textpm\,0.014 & +2.08\,\textpm\,0.50 & \textminus{}0.251\,\textpm\,0.105 & \textminus{}0.004\,\textpm\,0.092 \\
+TimesFM-2.0 & +0.65\,\textpm\,0.14 & \textminus{}0.208\,\textpm\,0.071 & +0.50\,\textpm\,0.82 & \textminus{}0.743\,\textpm\,0.639 & \textminus{}0.186\,\textpm\,0.187 \\
+TimesFM-2.5 & +0.18\,\textpm\,0.10 & \textminus{}0.079\,\textpm\,0.013 & +1.22\,\textpm\,0.36 & \textminus{}0.092\,\textpm\,0.047 & \textminus{}0.009\,\textpm\,0.060 \\
+Time-MoE & +2.45\,\textpm\,0.31 & \textminus{}1.244\,\textpm\,0.213 & \textminus{}5.13\,\textpm\,1.23 & \textminus{}1.182\,\textpm\,0.517 & \textminus{}0.891\,\textpm\,0.299 \\
+Sundial & +2.07\,\textpm\,0.26 & \textminus{}0.335\,\textpm\,0.063 & \textminus{}3.85\,\textpm\,0.78 & \textminus{}0.152\,\textpm\,0.136 & \textminus{}0.542\,\textpm\,0.200 \\
+FinCast & \textminus{}0.20\,\textpm\,0.08 & \textminus{}0.065\,\textpm\,0.013 & \textminus{}0.07\,\textpm\,0.24 & \textbf{\textminus{}0.023}\,\textpm\,0.040 & \textminus{}0.001\,\textpm\,0.030 \\
+\midrule
+\multicolumn{6}{l}{\textit{Post-2025 subset (280 windows)}} \\
+Chronos-T5 & +1.51\,\textpm\,0.15 & \textminus{}0.047\,\textpm\,0.016 & +2.29\,\textpm\,0.35 & \textminus{}0.097\,\textpm\,0.095 & \textbf{+0.074}\,\textpm\,0.046 \\
+Chronos-Bolt & +1.80\,\textpm\,0.11 & \textbf{\textminus{}0.019}\,\textpm\,0.029 & +2.98\,\textpm\,0.52 & \textminus{}0.183\,\textpm\,0.086 & \textminus{}0.010\,\textpm\,0.096 \\
+Chronos-2 & +0.11\,\textpm\,0.15 & \textminus{}0.039\,\textpm\,0.016 & +1.70\,\textpm\,0.32 & \textminus{}0.013\,\textpm\,0.033 & +0.070\,\textpm\,0.056 \\
+TiRex & +1.80\,\textpm\,0.09 & \textminus{}0.051\,\textpm\,0.020 & +1.38\,\textpm\,0.50 & \textminus{}0.087\,\textpm\,0.052 & +0.019\,\textpm\,0.052 \\
+Moirai-1.1 & +2.19\,\textpm\,0.22 & \textminus{}0.093\,\textpm\,0.029 & +2.58\,\textpm\,0.41 & \textminus{}0.052\,\textpm\,0.029 & \textminus{}0.133\,\textpm\,0.081 \\
+Moirai-2.0 & \textminus{}0.17\,\textpm\,0.23 & \textminus{}0.104\,\textpm\,0.016 & +1.63\,\textpm\,0.36 & \textminus{}0.123\,\textpm\,0.085 & +0.023\,\textpm\,0.035 \\
+TimesFM-2.0 & +0.16\,\textpm\,0.15 & \textminus{}0.092\,\textpm\,0.037 & +0.52\,\textpm\,0.33 & \textminus{}0.032\,\textpm\,0.075 & \textminus{}0.159\,\textpm\,0.047 \\
+TimesFM-2.5 & \textminus{}0.03\,\textpm\,0.08 & \textminus{}0.068\,\textpm\,0.014 & \textminus{}0.05\,\textpm\,0.30 & \textminus{}0.053\,\textpm\,0.037 & \textminus{}0.096\,\textpm\,0.052 \\
+Time-MoE & +1.19\,\textpm\,0.43 & \textminus{}0.807\,\textpm\,0.247 & \textminus{}6.88\,\textpm\,1.03 & \textminus{}0.843\,\textpm\,0.729 & \textminus{}1.433\,\textpm\,0.492 \\
+Sundial & +1.11\,\textpm\,0.26 & \textminus{}0.267\,\textpm\,0.077 & \textminus{}4.85\,\textpm\,0.71 & \textminus{}0.054\,\textpm\,0.178 & \textminus{}0.871\,\textpm\,0.207 \\
+FinCast & \textminus{}0.38\,\textpm\,0.07 & \textminus{}0.096\,\textpm\,0.017 & \textminus{}1.29\,\textpm\,0.16 & \textbf{+0.018}\,\textpm\,0.089 & \textminus{}0.156\,\textpm\,0.033 \\
+\bottomrule
+\end{tabular}

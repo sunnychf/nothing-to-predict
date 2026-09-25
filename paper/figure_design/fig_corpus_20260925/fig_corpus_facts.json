@@ -1,0 +1,203 @@
+{
+ "runs": {
+  "0.54M|encoder|up|s0": {
+   "mean_dep_h128": 1.5391943872989224,
+   "frac_up_h128": 0.859375,
+   "heldout_skill": 0.5438989762207431
+  },
+  "0.54M|encoder|up|s1": {
+   "mean_dep_h128": 1.5102986813605832,
+   "frac_up_h128": 0.875,
+   "heldout_skill": 0.5468214460773695
+  },
+  "0.54M|encoder|up|s2": {
+   "mean_dep_h128": 1.4199527324260282,
+   "frac_up_h128": 0.84375,
+   "heldout_skill": 0.5455732083863005
+  },
+  "0.54M|encoder|sym|s0": {
+   "mean_dep_h128": 0.1825480879367397,
+   "frac_up_h128": 0.5390625,
+   "heldout_skill": 0.5357592513585889
+  },
+  "0.54M|encoder|sym|s1": {
+   "mean_dep_h128": 0.14834700236926535,
+   "frac_up_h128": 0.5390625,
+   "heldout_skill": 0.5376194517067036
+  },
+  "0.54M|encoder|sym|s2": {
+   "mean_dep_h128": 0.09969685683856466,
+   "frac_up_h128": 0.5078125,
+   "heldout_skill": 0.5350926417582311
+  },
+  "0.54M|decoder|up|s0": {
+   "mean_dep_h128": 2.1806374014438195,
+   "frac_up_h128": 0.8515625,
+   "heldout_skill": 0.5379311854722617
+  },
+  "0.54M|decoder|up|s1": {
+   "mean_dep_h128": 1.7166260005057856,
+   "frac_up_h128": 0.8203125,
+   "heldout_skill": 0.5350080193566196
+  },
+  "0.54M|decoder|up|s2": {
+   "mean_dep_h128": 1.630832207304339,
+   "frac_up_h128": 0.8125,
+   "heldout_skill": 0.5363369070503498
+  },
+  "0.54M|decoder|sym|s0": {
+   "mean_dep_h128": 1.320207667452197,
+   "frac_up_h128": 0.765625,
+   "heldout_skill": 0.5249560244100632
+  },
+  "0.54M|decoder|sym|s1": {
+   "mean_dep_h128": 0.04948776672492483,
+   "frac_up_h128": 0.4921875,
+   "heldout_skill": 0.5242597347838258
+  },
+  "0.54M|decoder|sym|s2": {
+   "mean_dep_h128": 0.994755384427409,
+   "frac_up_h128": 0.6875,
+   "heldout_skill": 0.525497448576425
+  },
+  "3.18M|encoder|up|s0": {
+   "mean_dep_h128": 1.505590421062808,
+   "frac_up_h128": 0.8515625,
+   "heldout_skill": 0.5458358914405321
+  },
+  "3.18M|encoder|up|s1": {
+   "mean_dep_h128": 1.2292550028384732,
+   "frac_up_h128": 0.8046875,
+   "heldout_skill": 0.5445507520216267
+  },
+  "3.18M|encoder|up|s2": {
+   "mean_dep_h128": 1.4313161195338773,
+   "frac_up_h128": 0.8125,
+   "heldout_skill": 0.5464522740747801
+  },
+  "3.18M|encoder|sym|s0": {
+   "mean_dep_h128": 0.2996934176505611,
+   "frac_up_h128": 0.5390625,
+   "heldout_skill": 0.5370700554581764
+  },
+  "3.18M|encoder|sym|s1": {
+   "mean_dep_h128": 0.0702628017486141,
+   "frac_up_h128": 0.5078125,
+   "heldout_skill": 0.5334069347674522
+  },
+  "3.18M|encoder|sym|s2": {
+   "mean_dep_h128": 0.10183284888873556,
+   "frac_up_h128": 0.4921875,
+   "heldout_skill": 0.5361847209472201
+  },
+  "3.18M|decoder|up|s0": {
+   "mean_dep_h128": 2.382863503795962,
+   "frac_up_h128": 0.875,
+   "heldout_skill": 0.5478015853663065
+  },
+  "3.18M|decoder|up|s1": {
+   "mean_dep_h128": 1.682383132082324,
+   "frac_up_h128": 0.8203125,
+   "heldout_skill": 0.5505723094385491
+  },
+  "3.18M|decoder|up|s2": {
+   "mean_dep_h128": 1.728913140398364,
+   "frac_up_h128": 0.8359375,
+   "heldout_skill": 0.5502036016086369
+  },
+  "3.18M|decoder|sym|s0": {
+   "mean_dep_h128": 1.2980791748584317,
+   "frac_up_h128": 0.734375,
+   "heldout_skill": 0.5355423845957239
+  },
+  "3.18M|decoder|sym|s1": {
+   "mean_dep_h128": 0.19330586205134848,
+   "frac_up_h128": 0.53125,
+   "heldout_skill": 0.5381294245930622
+  },
+  "3.18M|decoder|sym|s2": {
+   "mean_dep_h128": 0.36190266619334677,
+   "frac_up_h128": 0.5390625,
+   "heldout_skill": 0.538476888897627
+  }
+ },
+ "means": {
+  "0.54M|encoder|up": {
+   "mean_dep_h128": 1.4898152670285114,
+   "frac_up_h128": 0.859375,
+   "heldout_skill": 0.5454312102281377
+  },
+  "0.54M|encoder|sym": {
+   "mean_dep_h128": 0.1435306490481899,
+   "frac_up_h128": 0.5286458333333334,
+   "heldout_skill": 0.5361571149411746
+  },
+  "0.54M|decoder|up": {
+   "mean_dep_h128": 1.8426985364179813,
+   "frac_up_h128": 0.828125,
+   "heldout_skill": 0.5364253706264104
+  },
+  "0.54M|decoder|sym": {
+   "mean_dep_h128": 0.788150272868177,
+   "frac_up_h128": 0.6484375,
+   "heldout_skill": 0.5249044025901046
+  },
+  "3.18M|encoder|up": {
+   "mean_dep_h128": 1.3887205144783863,
+   "frac_up_h128": 0.8229166666666666,
+   "heldout_skill": 0.545612972512313
+  },
+  "3.18M|encoder|sym": {
+   "mean_dep_h128": 0.15726302276263693,
+   "frac_up_h128": 0.5130208333333334,
+   "heldout_skill": 0.5355539037242829
+  },
+  "3.18M|decoder|up": {
+   "mean_dep_h128": 1.9313865920922162,
+   "frac_up_h128": 0.84375,
+   "heldout_skill": 0.5495258321378308
+  },
+  "3.18M|decoder|sym": {
+   "mean_dep_h128": 0.6177625677010424,
+   "frac_up_h128": 0.6015625,
+   "heldout_skill": 0.5373828993621378
+  }
+ },
+ "panel_labels": [
+  {
+   "text": "(a) Mean departure at $h$ = 128",
+   "centre_offset_pt": 0.0,
+   "top_pt": 9.92,
+   "bottom_pt": 2.0,
+   "x0_pt": 24.765,
+   "x1_pt": 125.565
+  },
+  {
+   "text": "(b) Fraction above the last value",
+   "centre_offset_pt": 0.0,
+   "top_pt": 9.92,
+   "bottom_pt": 2.881,
+   "x0_pt": 154.445,
+   "x1_pt": 261.725
+  },
+  {
+   "text": "(c) Skill on held-out windows",
+   "centre_offset_pt": 0.0,
+   "top_pt": 9.92,
+   "bottom_pt": 2.881,
+   "x0_pt": 294.205,
+   "x1_pt": 387.805
+  }
+ ],
+ "axes": {
+  "b_ylim": [
+   0.4,
+   1.0
+  ],
+  "c_ylim": [
+   0.0,
+   0.7
+  ]
+ },
+ "figure_height_in": 1.5452777777777775
+}

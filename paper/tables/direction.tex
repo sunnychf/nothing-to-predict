@@ -1,0 +1,44 @@
+\begin{tabular}{@{}llcccc@{}}
+\toprule
+\textbf{Model} & \textbf{Input or interface setting} & \multicolumn{2}{c}{\textbf{$h$ = 16}} & \multicolumn{2}{c}{\textbf{$h$ = 128}} \\
+\cmidrule(lr){3-4}\cmidrule(lr){5-6}
+ &  & \textbf{Mean / $\sigma$} & \textbf{Upward fraction} & \textbf{Mean / $\sigma$} & \textbf{Upward fraction} \\
+\midrule
+Chronos-T5 & Level +100 & +0.55 & 0.79 & +3.42 & 0.85 \\
+ & Level +100, mirrored & +1.26 & 0.70 & +6.37 & 0.82 \\
+ & Zero-centred & +0.43 & 0.60 & +2.07 & 0.60 \\
+ & Zero-centred, mirrored & +0.13 & 0.52 & +1.82 & 0.59 \\
+\addlinespace[2pt]
+Chronos-Bolt & Default & +0.72 & 0.80 & +2.25 & 0.79 \\
+\addlinespace[2pt]
+Chronos-2 & Default & +0.08 & 0.60 & +0.61 & 0.70 \\
+\addlinespace[2pt]
+TiRex & Default & +0.57 & 0.81 & +2.88 & 0.85 \\
+\addlinespace[2pt]
+Moirai-1.1 & Patch auto (default) & +0.37 & 0.62 & +2.96 & 0.73 \\
+ & Patch 8 (yearly/quarterly) & +1.22 & 0.82 & +4.79 & 0.84 \\
+ & Patch 16 (weekly/daily) & +0.78 & 0.74 & +3.52 & 0.90 \\
+ & Patch 32 (daily/hourly) & +0.55 & 0.73 & +3.00 & 0.88 \\
+ & Patch 64 (hourly/minute) & \textminus{}0.17 & 0.45 & +0.06 & 0.48 \\
+ & Patch 128 (minute/second) & \textminus{}0.09 & 0.48 & \textminus{}0.11 & 0.46 \\
+\addlinespace[2pt]
+Moirai-2.0 & Default & \textminus{}0.06 & 0.55 & +0.08 & 0.59 \\
+\addlinespace[2pt]
+TimesFM-2.0 & Default (frequency 0) & +0.13 & 0.55 & \textminus{}0.03 & 0.49 \\
+ & Declared daily or faster & +0.00 & 0.52 & \textminus{}0.09 & 0.52 \\
+ & Declared weekly/monthly & \textminus{}0.04 & 0.52 & \textminus{}0.29 & 0.47 \\
+ & Declared quarterly/yearly & +0.03 & 0.45 & +0.06 & 0.49 \\
+\addlinespace[2pt]
+TimesFM-2.5 & Default & +0.07 & 0.51 & +0.11 & 0.52 \\
+ & Flip averaging off & +0.09 & 0.54 & +0.18 & 0.52 \\
+\addlinespace[2pt]
+Time-MoE & Default & \textminus{}0.52 & 0.53 & \textminus{}0.47 & 0.55 \\
+\addlinespace[2pt]
+Sundial & Default & +0.10 & 0.54 & +0.46 & 0.52 \\
+\addlinespace[2pt]
+FinCast & Default & +0.01 & 0.51 & \textminus{}0.53 & 0.40 \\
+ & Declared daily or faster & \textminus{}0.12 & 0.45 & \textminus{}0.47 & 0.38 \\
+ & Declared weekly/monthly & +0.89 & 0.64 & +5.05 & 0.73 \\
+ & Declared yearly & +0.53 & 0.57 & +3.61 & 0.70 \\
+\bottomrule
+\end{tabular}

@@ -1,0 +1,26 @@
+\begin{tabular}{@{}lccccccc@{}}
+\toprule
+ & \multicolumn{6}{c}{\textbf{Smallest decile (equal-weighted)}} & \textbf{\shortstack{Largest decile\\(value-weighted)}} \\
+\cmidrule(lr){2-7}\cmidrule(lr){8-8}
+ & \multicolumn{3}{c}{\textbf{Raw}} & \multicolumn{2}{c}{\textbf{Mirror}} & \textbf{\shortstack{Sign-\\randomised}} & \textbf{Raw} \\
+\cmidrule(lr){2-4}\cmidrule(lr){5-6}
+\textbf{Forecast} & \textbf{Skill} & \textbf{$-$\,drift} & \textbf{AR(1) share} & \textbf{Skill} & \textbf{$\rho_{\rm even}$} & \textbf{Skill} & \textbf{Skill} \\
+\midrule
+Persistence & 0 & NE & 0 & NE & NA & 0 & 0 \\
+Drift (fit) & +0.306\,\textpm\,0.059 & 0 & +0.94 & NE & NE & NE & \textbf{+0.096}\,\textpm\,0.050 \\
+AR(1) (fit) & +0.327\,\textpm\,0.060 & +0.021\,\textpm\,0.016 & 1 & NE & NE & \textminus{}0.031\,\textpm\,0.048 & +0.067\,\textpm\,0.056 \\
+AR(5) (fit) & \textbf{+0.439}\,\textpm\,0.077 & +0.133\,\textpm\,0.059 & \textbf{+1.34} & NE & NE & NE & +0.052\,\textpm\,0.065 \\
+\midrule
+Chronos-T5 & +0.299\,\textpm\,0.103 & \textminus{}0.007\,\textpm\,0.105 & +0.91 & +0.059 & 0.40 & \textminus{}0.087 & +0.048 \\
+Chronos-Bolt & +0.264\,\textpm\,0.125 & \textminus{}0.042\,\textpm\,0.124 & +0.81 & +0.328 & 0.12 & \textminus{}0.116 & \textminus{}0.033 \\
+Chronos-2 & +0.385\,\textpm\,0.112 & +0.079\,\textpm\,0.108 & +1.18 & +0.405 & 0.05 & \textminus{}0.071 & +0.009 \\
+TiRex & +0.354\,\textpm\,0.076 & +0.048\,\textpm\,0.072 & +1.08 & +0.368 & 0.11 & \textminus{}0.084 & \textminus{}0.074 \\
+Moirai-1.1 & +0.259\,\textpm\,0.083 & \textminus{}0.047\,\textpm\,0.062 & +0.79 & \textminus{}0.024 & 1.07 & \textminus{}0.191 & \textminus{}0.189 \\
+Moirai-2.0 & +0.391\,\textpm\,0.070 & +0.084\,\textpm\,0.057 & +1.19 & \textbf{+0.427} & 0.09 & \textminus{}0.101 & \textminus{}0.066 \\
+TimesFM-2.0 & +0.205\,\textpm\,0.083 & \textminus{}0.101\,\textpm\,0.087 & +0.63 & +0.195 & 0.23 & \textminus{}0.189 & \textminus{}4.643 \\
+TimesFM-2.5 & +0.277\,\textpm\,0.135 & \textminus{}0.029\,\textpm\,0.115 & +0.85 & +0.360 & 0.07 & \textminus{}0.066 & \textminus{}0.036 \\
+Time-MoE & \textminus{}5.172\,\textpm\,2.445 & \textminus{}5.478\,\textpm\,2.481 & \textminus{}15.81 & \textminus{}1.691 & 0.31 & \textminus{}0.991 & \textminus{}1.641 \\
+Sundial & \textminus{}0.399\,\textpm\,0.140 & \textminus{}0.705\,\textpm\,0.158 & \textminus{}1.22 & \textminus{}0.273 & 0.21 & \textminus{}0.255 & \textminus{}0.558 \\
+FinCast & +0.036\,\textpm\,0.096 & \textminus{}0.270\,\textpm\,0.094 & +0.11 & \textminus{}0.107 & 0.70 & \textminus{}0.057 & +0.012 \\
+\bottomrule
+\end{tabular}

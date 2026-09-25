@@ -1,0 +1,95 @@
+{
+ "chronos": {
+  "subsets": 26,
+  "series": 66105,
+  "windows": 211590,
+  "rising_median_subset": 0.5081145361899322,
+  "rising_pooled": 0.5717226582605162,
+  "rising_pooled_without_m4": 0.4898496273085844,
+  "subsets_leaning_up": 0.23076923076923078,
+  "subsets_leaning_down": 0.038461538461538464,
+  "median_change_median_subset": 0.0,
+  "clipped_mean_median_subset": 0.05731527486883546,
+  "clipped_mean_pooled": 1.435422300338836,
+  "clipped_mean_pooled_without_m4": -0.009130900617810023,
+  "m4_subsets": [
+   "m4_daily",
+   "m4_hourly",
+   "m4_monthly",
+   "m4_quarterly",
+   "m4_weekly",
+   "m4_yearly"
+  ],
+  "m4_rising": {
+   "m4_daily": 0.5983039221799589,
+   "m4_hourly": 0.5030339805825242,
+   "m4_monthly": 0.7150184998318198,
+   "m4_quarterly": 0.8616279069767442,
+   "m4_weekly": 0.5952380952380952,
+   "m4_yearly": 0.875
+  },
+  "m4_share_of_pooled_clipped_mean": 1.0044365731203342
+ },
+ "lotsa": {
+  "subsets": 71,
+  "series": 64527,
+  "windows": 192116,
+  "rising_median_subset": 0.5004092769440655,
+  "rising_pooled": 0.5749283918770594,
+  "rising_pooled_without_m4": 0.49627820883599305,
+  "subsets_leaning_up": 0.19718309859154928,
+  "subsets_leaning_down": 0.15492957746478872,
+  "median_change_median_subset": 0.0,
+  "clipped_mean_median_subset": 0.059094693992917745,
+  "clipped_mean_pooled": 1.4586904739848596,
+  "clipped_mean_pooled_without_m4": 0.12661203185478176,
+  "m4_subsets": [
+   "m4_daily",
+   "m4_hourly",
+   "m4_monthly",
+   "m4_quarterly",
+   "m4_weekly",
+   "m4_yearly"
+  ],
+  "m4_rising": {
+   "m4_daily": 0.6020491545665976,
+   "m4_hourly": 0.48484848484848486,
+   "m4_monthly": 0.7271753941989487,
+   "m4_quarterly": 0.8276515151515151,
+   "m4_weekly": 0.6022146507666098,
+   "m4_yearly": 0.8529411764705882
+  },
+  "m4_share_of_pooled_clipped_mean": 0.9401045554192126
+ },
+ "time300b": {
+  "subsets": 74,
+  "series": 118798,
+  "windows": 321198,
+  "rising_median_subset": 0.5112288774894387,
+  "rising_pooled": 0.5201875011976447,
+  "rising_pooled_without_m4": 0.4983423284980025,
+  "subsets_leaning_up": 0.28378378378378377,
+  "subsets_leaning_down": 0.0945945945945946,
+  "median_change_median_subset": 0.0165389834935722,
+  "clipped_mean_median_subset": 0.08598738851182255,
+  "clipped_mean_pooled": 0.4318760886648108,
+  "clipped_mean_pooled_without_m4": 0.04789572470214891,
+  "m4_subsets": [
+   "other/m4_daily",
+   "other/m4_hourly",
+   "other/m4_monthly",
+   "other/m4_quarterly",
+   "other/m4_weekly",
+   "other/m4_yearly"
+  ],
+  "m4_rising": {
+   "other/m4_daily": 0.598306798079353,
+   "other/m4_hourly": 0.5099577549788775,
+   "other/m4_monthly": 0.7323613990503578,
+   "other/m4_quarterly": 0.8554960889254838,
+   "other/m4_weekly": 0.6128205128205129,
+   "other/m4_yearly": 0.91
+  },
+  "m4_share_of_pooled_clipped_mean": 0.9008179973125899
+ }
+}

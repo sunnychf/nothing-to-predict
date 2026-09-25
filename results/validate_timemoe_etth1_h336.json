@@ -1,0 +1,72 @@
+{
+ "csv": "ETTh1.csv",
+ "n_rows": 17420,
+ "columns": [
+  "HUFL",
+  "HULL",
+  "MUFL",
+  "MULL",
+  "LUFL",
+  "LULL",
+  "OT"
+ ],
+ "paper_timemoe_large": {
+  "96": [
+   0.35,
+   0.382
+  ],
+  "192": [
+   0.388,
+   0.412
+  ],
+  "336": [
+   0.411,
+   0.43
+  ],
+  "720": [
+   0.427,
+   0.455
+  ],
+  "avg": [
+   0.394,
+   0.419
+  ]
+ },
+ "horizons": {
+  "336": {
+   "context": 2048,
+   "n_windows": 17808,
+   "official_protocol": {
+    "mse": 0.41231030225753784,
+    "mae": 0.43103206157684326,
+    "seconds": 18746
+   },
+   "per_window_normalisation": {
+    "mse": 0.47970446944236755,
+    "mae": 0.47991618514060974,
+    "seconds": 18350
+   },
+   "paper": {
+    "mse": 0.411,
+    "mae": 0.43
+   }
+  }
+ },
+ "average": {
+  "official_protocol": {
+   "mse": 0.41231030225753784,
+   "mae": 0.43103206157684326
+  },
+  "per_window_normalisation": {
+   "mse": 0.47970446944236755,
+   "mae": 0.47991618514060974
+  },
+  "paper": {
+   "mse": 0.394,
+   "mae": 0.419
+  },
+  "horizons": [
+   "336"
+  ]
+ }
+}

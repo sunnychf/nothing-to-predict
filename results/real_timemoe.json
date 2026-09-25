@@ -1,0 +1,9 @@
+{
+ "model": "timemoe",
+ "windows": "real_windows_v2.npz",
+ "n": 1280,
+ "K": 4,
+ "H": 128,
+ "samples": 0,
+ "finished": "2026-09-17 00:12:25"
+}

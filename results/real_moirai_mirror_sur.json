@@ -1,0 +1,10 @@
+{
+ "model": "moirai",
+ "windows": "real_windows_v2.npz",
+ "n": 1280,
+ "K": 4,
+ "H": 128,
+ "mirror_sur": true,
+ "samples": 100,
+ "finished": "2026-09-17 05:00:14"
+}

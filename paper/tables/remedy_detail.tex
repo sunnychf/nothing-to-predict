@@ -1,0 +1,62 @@
+\begin{tabular}{@{}llcccccc@{}}
+\toprule
+ &  & \multicolumn{3}{c}{\textbf{Skill, $h$ = 16}} & \multicolumn{3}{c}{\textbf{Skill, $h$ = 128}} \\
+\cmidrule(lr){3-5}\cmidrule(lr){6-8}
+\textbf{Model} & \textbf{Rung} & \textbf{Raw} & \textbf{Mirror} & \textbf{Sign avg.} & \textbf{Raw} & \textbf{Mirror} & \textbf{Sign avg.} \\
+\midrule
+Chronos-T5 & N1 & \textminus{}0.139\,\textpm\,0.044 & \textbf{\textminus{}0.068}\,\textpm\,0.031 & \textminus{}0.112\,\textpm\,0.042 & \textminus{}0.229\,\textpm\,0.078 & \textbf{\textminus{}0.076}\,\textpm\,0.042 & \textminus{}0.140\,\textpm\,0.056 \\
+ & N2 & \textminus{}0.093\,\textpm\,0.048 & \textbf{\textminus{}0.039}\,\textpm\,0.035 & \textminus{}0.090\,\textpm\,0.051 & \textminus{}0.170\,\textpm\,0.066 & \textbf{\textminus{}0.033}\,\textpm\,0.044 & \textminus{}0.111\,\textpm\,0.061 \\
+ & N3 & \textminus{}0.023\,\textpm\,0.033 & \textbf{\textminus{}0.015}\,\textpm\,0.033 & \textminus{}0.039\,\textpm\,0.043 & \textminus{}0.176\,\textpm\,0.058 & \textbf{\textminus{}0.096}\,\textpm\,0.049 & \textminus{}0.183\,\textpm\,0.063 \\
+ & N4 & \textminus{}0.196\,\textpm\,0.112 & \textbf{\textminus{}0.095}\,\textpm\,0.096 & \textminus{}0.179\,\textpm\,0.116 & \textminus{}0.932\,\textpm\,0.213 & \textbf{\textminus{}0.319}\,\textpm\,0.107 & \textminus{}0.794\,\textpm\,0.159 \\
+\addlinespace[3pt]
+Chronos-Bolt & N1 & \textminus{}0.098\,\textpm\,0.059 & \textminus{}0.060\,\textpm\,0.040 & \textbf{\textminus{}0.058}\,\textpm\,0.053 & \textminus{}0.224\,\textpm\,0.092 & \textbf{\textminus{}0.050}\,\textpm\,0.039 & \textminus{}0.176\,\textpm\,0.064 \\
+ & N2 & \textminus{}0.057\,\textpm\,0.079 & \textbf{+0.009}\,\textpm\,0.042 & \textminus{}0.018\,\textpm\,0.078 & \textminus{}0.247\,\textpm\,0.099 & \textbf{\textminus{}0.040}\,\textpm\,0.041 & \textminus{}0.186\,\textpm\,0.098 \\
+ & N3 & \textminus{}0.072\,\textpm\,0.064 & \textminus{}0.054\,\textpm\,0.044 & \textbf{\textminus{}0.043}\,\textpm\,0.055 & \textminus{}0.137\,\textpm\,0.063 & \textbf{\textminus{}0.100}\,\textpm\,0.040 & \textminus{}0.191\,\textpm\,0.060 \\
+ & N4 & \textminus{}0.122\,\textpm\,0.093 & \textbf{\textminus{}0.017}\,\textpm\,0.067 & \textminus{}0.127\,\textpm\,0.104 & \textminus{}0.617\,\textpm\,0.242 & \textbf{\textminus{}0.096}\,\textpm\,0.089 & \textminus{}0.480\,\textpm\,0.179 \\
+\addlinespace[3pt]
+Chronos-2 & N1 & \textminus{}0.021\,\textpm\,0.024 & \textbf{\textminus{}0.012}\,\textpm\,0.022 & \textminus{}0.043\,\textpm\,0.029 & \textminus{}0.053\,\textpm\,0.037 & \textbf{\textminus{}0.043}\,\textpm\,0.034 & \textminus{}0.047\,\textpm\,0.037 \\
+ & N2 & \textbf{\textminus{}0.013}\,\textpm\,0.036 & \textminus{}0.018\,\textpm\,0.036 & \textbf{\textminus{}0.013}\,\textpm\,0.039 & \textminus{}0.062\,\textpm\,0.058 & \textbf{\textminus{}0.016}\,\textpm\,0.055 & \textminus{}0.062\,\textpm\,0.064 \\
+ & N3 & \textminus{}0.100\,\textpm\,0.105 & \textminus{}0.114\,\textpm\,0.118 & \textbf{\textminus{}0.091}\,\textpm\,0.120 & \textbf{\textminus{}0.022}\,\textpm\,0.075 & \textminus{}0.100\,\textpm\,0.145 & \textminus{}0.090\,\textpm\,0.084 \\
+ & N4 & +0.029\,\textpm\,0.060 & +0.025\,\textpm\,0.059 & \textbf{+0.048}\,\textpm\,0.068 & \textbf{\textminus{}0.018}\,\textpm\,0.046 & \textminus{}0.048\,\textpm\,0.049 & \textminus{}0.142\,\textpm\,0.096 \\
+\addlinespace[3pt]
+TiRex & N1 & \textminus{}0.097\,\textpm\,0.043 & \textbf{\textminus{}0.045}\,\textpm\,0.026 & \textminus{}0.062\,\textpm\,0.039 & \textminus{}0.098\,\textpm\,0.066 & \textbf{+0.005}\,\textpm\,0.038 & \textminus{}0.040\,\textpm\,0.053 \\
+ & N2 & \textminus{}0.066\,\textpm\,0.050 & \textminus{}0.039\,\textpm\,0.030 & \textbf{\textminus{}0.028}\,\textpm\,0.063 & \textminus{}0.170\,\textpm\,0.079 & \textbf{\textminus{}0.021}\,\textpm\,0.047 & \textminus{}0.045\,\textpm\,0.056 \\
+ & N3 & \textminus{}0.051\,\textpm\,0.041 & \textbf{\textminus{}0.023}\,\textpm\,0.029 & \textminus{}0.056\,\textpm\,0.044 & \textminus{}0.097\,\textpm\,0.056 & \textbf{\textminus{}0.064}\,\textpm\,0.042 & \textminus{}0.139\,\textpm\,0.052 \\
+ & N4 & +0.053\,\textpm\,0.065 & \textbf{+0.057}\,\textpm\,0.068 & \textminus{}0.062\,\textpm\,0.106 & \textminus{}0.116\,\textpm\,0.075 & \textbf{\textminus{}0.101}\,\textpm\,0.072 & \textminus{}0.600\,\textpm\,0.176 \\
+\addlinespace[3pt]
+Moirai-1.1 & N1 & \textminus{}0.059\,\textpm\,0.061 & \textminus{}0.048\,\textpm\,0.050 & \textbf{\textminus{}0.018}\,\textpm\,0.071 & \textminus{}0.212\,\textpm\,0.105 & \textbf{\textminus{}0.103}\,\textpm\,0.054 & \textminus{}0.195\,\textpm\,0.102 \\
+ & N2 & \textminus{}0.265\,\textpm\,0.074 & \textbf{\textminus{}0.113}\,\textpm\,0.052 & \textminus{}0.340\,\textpm\,0.090 & \textminus{}0.197\,\textpm\,0.098 & \textbf{\textminus{}0.097}\,\textpm\,0.052 & \textminus{}0.154\,\textpm\,0.084 \\
+ & N3 & \textminus{}0.270\,\textpm\,0.083 & \textbf{\textminus{}0.193}\,\textpm\,0.064 & \textminus{}0.270\,\textpm\,0.092 & \textminus{}0.200\,\textpm\,0.085 & \textbf{\textminus{}0.059}\,\textpm\,0.052 & \textminus{}0.137\,\textpm\,0.075 \\
+ & N4 & \textminus{}0.157\,\textpm\,0.089 & \textbf{\textminus{}0.036}\,\textpm\,0.069 & \textminus{}0.276\,\textpm\,0.138 & \textminus{}0.767\,\textpm\,0.284 & \textbf{\textminus{}0.224}\,\textpm\,0.121 & \textminus{}0.987\,\textpm\,0.307 \\
+\addlinespace[3pt]
+Moirai-2.0 & N1 & \textbf{\textminus{}0.037}\,\textpm\,0.055 & \textminus{}0.045\,\textpm\,0.044 & \textminus{}0.075\,\textpm\,0.060 & \textminus{}0.128\,\textpm\,0.078 & \textbf{\textminus{}0.095}\,\textpm\,0.070 & \textminus{}0.201\,\textpm\,0.093 \\
+ & N2 & \textbf{+0.007}\,\textpm\,0.047 & \textminus{}0.026\,\textpm\,0.040 & \textminus{}0.029\,\textpm\,0.055 & \textminus{}0.123\,\textpm\,0.066 & \textbf{\textminus{}0.052}\,\textpm\,0.059 & \textminus{}0.071\,\textpm\,0.069 \\
+ & N3 & \textminus{}0.166\,\textpm\,0.064 & \textbf{\textminus{}0.110}\,\textpm\,0.045 & \textminus{}0.190\,\textpm\,0.080 & \textminus{}0.218\,\textpm\,0.104 & \textbf{\textminus{}0.090}\,\textpm\,0.063 & \textminus{}0.319\,\textpm\,0.115 \\
+ & N4 & \textminus{}0.010\,\textpm\,0.067 & \textbf{\textminus{}0.008}\,\textpm\,0.067 & \textminus{}0.230\,\textpm\,0.127 & \textminus{}0.058\,\textpm\,0.066 & \textbf{\textminus{}0.051}\,\textpm\,0.061 & \textminus{}0.475\,\textpm\,0.164 \\
+\addlinespace[3pt]
+TimesFM-2.0 & N1 & \textminus{}0.186\,\textpm\,0.179 & \textbf{\textminus{}0.096}\,\textpm\,0.096 & \textminus{}0.232\,\textpm\,0.206 & \textminus{}0.057\,\textpm\,0.058 & \textbf{\textminus{}0.021}\,\textpm\,0.051 & \textminus{}0.087\,\textpm\,0.073 \\
+ & N2 & \textminus{}0.087\,\textpm\,0.056 & \textbf{\textminus{}0.077}\,\textpm\,0.067 & \textminus{}0.141\,\textpm\,0.062 & \textbf{\textminus{}0.224}\,\textpm\,0.099 & \textminus{}0.258\,\textpm\,0.093 & \textminus{}0.239\,\textpm\,0.090 \\
+ & N3 & \textminus{}0.139\,\textpm\,0.068 & \textbf{\textminus{}0.133}\,\textpm\,0.054 & \textminus{}0.162\,\textpm\,0.064 & \textminus{}0.209\,\textpm\,0.083 & \textbf{\textminus{}0.147}\,\textpm\,0.062 & \textminus{}0.280\,\textpm\,0.088 \\
+ & N4 & \textminus{}0.014\,\textpm\,0.075 & \textbf{+0.010}\,\textpm\,0.071 & \textminus{}0.166\,\textpm\,0.114 & \textbf{\textminus{}0.034}\,\textpm\,0.070 & \textminus{}0.058\,\textpm\,0.063 & \textminus{}0.211\,\textpm\,0.108 \\
+\addlinespace[3pt]
+TimesFM-2.5 & N1 & \textbf{\textminus{}0.023}\,\textpm\,0.030 & \textbf{\textminus{}0.023}\,\textpm\,0.030 & \textminus{}0.056\,\textpm\,0.034 & \textbf{\textminus{}0.011}\,\textpm\,0.027 & \textbf{\textminus{}0.011}\,\textpm\,0.028 & \textminus{}0.029\,\textpm\,0.032 \\
+ & N2 & \textminus{}0.020\,\textpm\,0.053 & \textminus{}0.020\,\textpm\,0.054 & \textbf{\textminus{}0.011}\,\textpm\,0.059 & \textbf{\textminus{}0.032}\,\textpm\,0.063 & \textbf{\textminus{}0.032}\,\textpm\,0.064 & \textminus{}0.072\,\textpm\,0.065 \\
+ & N3 & \textminus{}0.057\,\textpm\,0.035 & \textminus{}0.057\,\textpm\,0.036 & \textbf{\textminus{}0.046}\,\textpm\,0.038 & \textbf{\textminus{}0.038}\,\textpm\,0.041 & \textbf{\textminus{}0.038}\,\textpm\,0.041 & \textminus{}0.072\,\textpm\,0.051 \\
+ & N4 & \textbf{+0.040}\,\textpm\,0.065 & \textbf{+0.040}\,\textpm\,0.069 & +0.010\,\textpm\,0.077 & \textbf{\textminus{}0.073}\,\textpm\,0.050 & \textbf{\textminus{}0.073}\,\textpm\,0.051 & \textminus{}0.170\,\textpm\,0.072 \\
+\addlinespace[3pt]
+Time-MoE & N1 & \textminus{}0.554\,\textpm\,0.262 & \textbf{\textminus{}0.511}\,\textpm\,0.251 & \textminus{}0.718\,\textpm\,0.305 & \textminus{}0.723\,\textpm\,0.217 & \textbf{\textminus{}0.722}\,\textpm\,0.220 & \textminus{}0.870\,\textpm\,0.240 \\
+ & N2 & \textminus{}0.495\,\textpm\,0.334 & \textbf{\textminus{}0.471}\,\textpm\,0.323 & \textminus{}0.669\,\textpm\,0.329 & \textminus{}0.718\,\textpm\,0.242 & \textbf{\textminus{}0.685}\,\textpm\,0.230 & \textminus{}0.749\,\textpm\,0.234 \\
+ & N3 & \textminus{}1.717\,\textpm\,0.430 & \textbf{\textminus{}1.420}\,\textpm\,0.338 & \textminus{}2.010\,\textpm\,0.430 & \textminus{}1.296\,\textpm\,0.307 & \textbf{\textminus{}1.206}\,\textpm\,0.268 & \textminus{}1.540\,\textpm\,0.299 \\
+ & N4 & \textminus{}0.243\,\textpm\,0.176 & \textbf{\textminus{}0.190}\,\textpm\,0.150 & \textminus{}1.249\,\textpm\,0.365 & \textminus{}0.782\,\textpm\,0.258 & \textbf{\textminus{}0.717}\,\textpm\,0.232 & \textminus{}2.094\,\textpm\,0.464 \\
+\addlinespace[3pt]
+Sundial & N1 & \textminus{}0.179\,\textpm\,0.089 & \textbf{\textminus{}0.129}\,\textpm\,0.088 & \textminus{}0.207\,\textpm\,0.108 & \textminus{}0.466\,\textpm\,0.158 & \textbf{\textminus{}0.444}\,\textpm\,0.151 & \textminus{}0.569\,\textpm\,0.173 \\
+ & N2 & \textminus{}0.149\,\textpm\,0.111 & \textbf{\textminus{}0.121}\,\textpm\,0.124 & \textminus{}0.245\,\textpm\,0.139 & \textminus{}0.360\,\textpm\,0.172 & \textbf{\textminus{}0.341}\,\textpm\,0.166 & \textminus{}0.402\,\textpm\,0.167 \\
+ & N3 & \textminus{}0.445\,\textpm\,0.100 & \textbf{\textminus{}0.402}\,\textpm\,0.091 & \textminus{}0.485\,\textpm\,0.100 & \textbf{\textminus{}0.652}\,\textpm\,0.170 & \textminus{}0.668\,\textpm\,0.172 & \textminus{}0.828\,\textpm\,0.175 \\
+ & N4 & \textminus{}0.191\,\textpm\,0.127 & \textbf{\textminus{}0.134}\,\textpm\,0.115 & \textminus{}0.824\,\textpm\,0.285 & \textbf{\textminus{}0.577}\,\textpm\,0.198 & \textminus{}0.639\,\textpm\,0.198 & \textminus{}1.728\,\textpm\,0.393 \\
+\addlinespace[3pt]
+FinCast & N1 & \textminus{}0.010\,\textpm\,0.039 & \textbf{+0.009}\,\textpm\,0.027 & \textminus{}0.026\,\textpm\,0.043 & \textbf{\textminus{}0.006}\,\textpm\,0.031 & \textminus{}0.020\,\textpm\,0.022 & \textminus{}0.010\,\textpm\,0.033 \\
+ & N2 & +0.045\,\textpm\,0.041 & \textbf{+0.057}\,\textpm\,0.034 & +0.054\,\textpm\,0.046 & +0.009\,\textpm\,0.037 & \textminus{}0.014\,\textpm\,0.031 & \textbf{+0.014}\,\textpm\,0.040 \\
+ & N3 & \textminus{}0.119\,\textpm\,0.048 & \textbf{\textminus{}0.080}\,\textpm\,0.035 & \textminus{}0.168\,\textpm\,0.059 & \textminus{}0.054\,\textpm\,0.041 & \textbf{\textminus{}0.020}\,\textpm\,0.025 & \textminus{}0.069\,\textpm\,0.047 \\
+ & N4 & +0.018\,\textpm\,0.045 & \textbf{+0.037}\,\textpm\,0.036 & \textminus{}0.130\,\textpm\,0.065 & \textminus{}0.045\,\textpm\,0.046 & \textbf{\textminus{}0.025}\,\textpm\,0.031 & \textminus{}0.128\,\textpm\,0.077 \\
+\bottomrule
+\end{tabular}

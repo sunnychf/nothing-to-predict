@@ -1,0 +1,23 @@
+{
+ "model": "chronos",
+ "windows": "falling_windows.npz",
+ "n": 1850,
+ "H": 128,
+ "mirror": true,
+ "samples": 100,
+ "sharded": [
+  [
+   0,
+   617
+  ],
+  [
+   617,
+   1234
+  ],
+  [
+   1234,
+   1850
+  ]
+ ],
+ "finished": "2026-09-24 02:02:39"
+}

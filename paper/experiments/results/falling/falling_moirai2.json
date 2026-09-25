@@ -1,0 +1,10 @@
+{
+ "model": "moirai2",
+ "windows": "falling_windows.npz",
+ "n": 1850,
+ "K": 1,
+ "sur_from": 0,
+ "H": 128,
+ "samples": 0,
+ "finished": "2026-09-24 00:37:57"
+}

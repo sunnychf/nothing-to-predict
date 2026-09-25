@@ -1,0 +1,6670 @@
+{
+ "windows": [
+  {
+   "i": 0,
+   "asset": "AAPL",
+   "family": "intraday",
+   "t_start_ns": 34200022498425,
+   "t_end_ns": 34270568041855,
+   "n_obs": 528
+  },
+  {
+   "i": 1,
+   "asset": "AAPL",
+   "family": "intraday",
+   "t_start_ns": 34572420872387,
+   "t_end_ns": 34669226352631,
+   "n_obs": 528
+  },
+  {
+   "i": 2,
+   "asset": "AAPL",
+   "family": "intraday",
+   "t_start_ns": 34899345798389,
+   "t_end_ns": 35036015180945,
+   "n_obs": 528
+  },
+  {
+   "i": 3,
+   "asset": "AAPL",
+   "family": "intraday",
+   "t_start_ns": 35271503522142,
+   "t_end_ns": 35401283264755,
+   "n_obs": 528
+  },
+  {
+   "i": 4,
+   "asset": "AAPL",
+   "family": "intraday",
+   "t_start_ns": 35838477082222,
+   "t_end_ns": 36028764446461,
+   "n_obs": 528
+  },
+  {
+   "i": 5,
+   "asset": "AAPL",
+   "family": "intraday",
+   "t_start_ns": 36632876940868,
+   "t_end_ns": 36773549905671,
+   "n_obs": 528
+  },
+  {
+   "i": 6,
+   "asset": "AAPL",
+   "family": "intraday",
+   "t_start_ns": 36999553058465,
+   "t_end_ns": 37199724805864,
+   "n_obs": 528
+  },
+  {
+   "i": 7,
+   "asset": "AAPL",
+   "family": "intraday",
+   "t_start_ns": 37505188848420,
+   "t_end_ns": 37762404743963,
+   "n_obs": 528
+  },
+  {
+   "i": 8,
+   "asset": "AAPL",
+   "family": "intraday",
+   "t_start_ns": 38474127892404,
+   "t_end_ns": 38725422242155,
+   "n_obs": 528
+  },
+  {
+   "i": 9,
+   "asset": "AAPL",
+   "family": "intraday",
+   "t_start_ns": 39746310855818,
+   "t_end_ns": 40014744834761,
+   "n_obs": 528
+  },
+  {
+   "i": 10,
+   "asset": "AAPL",
+   "family": "intraday",
+   "t_start_ns": 40558729078048,
+   "t_end_ns": 40808185496640,
+   "n_obs": 528
+  },
+  {
+   "i": 11,
+   "asset": "AAPL",
+   "family": "intraday",
+   "t_start_ns": 41374666171831,
+   "t_end_ns": 41689177411933,
+   "n_obs": 528
+  },
+  {
+   "i": 12,
+   "asset": "AAPL",
+   "family": "intraday",
+   "t_start_ns": 42454825727146,
+   "t_end_ns": 42788531439037,
+   "n_obs": 528
+  },
+  {
+   "i": 13,
+   "asset": "AAPL",
+   "family": "intraday",
+   "t_start_ns": 43568514006194,
+   "t_end_ns": 43750688088445,
+   "n_obs": 528
+  },
+  {
+   "i": 14,
+   "asset": "AAPL",
+   "family": "intraday",
+   "t_start_ns": 44404626622246,
+   "t_end_ns": 44788842056060,
+   "n_obs": 528
+  },
+  {
+   "i": 15,
+   "asset": "AAPL",
+   "family": "intraday",
+   "t_start_ns": 45622982213219,
+   "t_end_ns": 46059584604921,
+   "n_obs": 528
+  },
+  {
+   "i": 16,
+   "asset": "AAPL",
+   "family": "intraday",
+   "t_start_ns": 47286925489754,
+   "t_end_ns": 47743471640944,
+   "n_obs": 528
+  },
+  {
+   "i": 17,
+   "asset": "AAPL",
+   "family": "intraday",
+   "t_start_ns": 49041060377429,
+   "t_end_ns": 49280169151234,
+   "n_obs": 528
+  },
+  {
+   "i": 18,
+   "asset": "AAPL",
+   "family": "intraday",
+   "t_start_ns": 50083828194378,
+   "t_end_ns": 50502500563595,
+   "n_obs": 528
+  },
+  {
+   "i": 19,
+   "asset": "AAPL",
+   "family": "intraday",
+   "t_start_ns": 51315785973779,
+   "t_end_ns": 51851617057149,
+   "n_obs": 528
+  },
+  {
+   "i": 20,
+   "asset": "AAPL",
+   "family": "intraday",
+   "t_start_ns": 53008128145358,
+   "t_end_ns": 53668232660675,
+   "n_obs": 528
+  },
+  {
+   "i": 21,
+   "asset": "AAPL",
+   "family": "intraday",
+   "t_start_ns": 55190468714444,
+   "t_end_ns": 55599556329472,
+   "n_obs": 528
+  },
+  {
+   "i": 22,
+   "asset": "AAPL",
+   "family": "intraday",
+   "t_start_ns": 56146558100520,
+   "t_end_ns": 56566815399104,
+   "n_obs": 528
+  },
+  {
+   "i": 23,
+   "asset": "AAPL",
+   "family": "intraday",
+   "t_start_ns": 57021085063895,
+   "t_end_ns": 57241410043248,
+   "n_obs": 528
+  },
+  {
+   "i": 24,
+   "asset": "AAPL",
+   "family": "intraday",
+   "t_start_ns": 57566485115902,
+   "t_end_ns": 57599031833694,
+   "n_obs": 528
+  },
+  {
+   "i": 25,
+   "asset": "AMD",
+   "family": "intraday",
+   "t_start_ns": 34200181055303,
+   "t_end_ns": 34367127727466,
+   "n_obs": 528
+  },
+  {
+   "i": 26,
+   "asset": "AMD",
+   "family": "intraday",
+   "t_start_ns": 34587440377221,
+   "t_end_ns": 34743371244484,
+   "n_obs": 528
+  },
+  {
+   "i": 27,
+   "asset": "AMD",
+   "family": "intraday",
+   "t_start_ns": 34743676970236,
+   "t_end_ns": 35024468028760,
+   "n_obs": 528
+  },
+  {
+   "i": 28,
+   "asset": "AMD",
+   "family": "intraday",
+   "t_start_ns": 35162258215795,
+   "t_end_ns": 35235424239031,
+   "n_obs": 528
+  },
+  {
+   "i": 29,
+   "asset": "AMD",
+   "family": "intraday",
+   "t_start_ns": 35235715546545,
+   "t_end_ns": 35356832558569,
+   "n_obs": 528
+  },
+  {
+   "i": 30,
+   "asset": "AMD",
+   "family": "intraday",
+   "t_start_ns": 35486771302825,
+   "t_end_ns": 35683568212863,
+   "n_obs": 528
+  },
+  {
+   "i": 31,
+   "asset": "AMD",
+   "family": "intraday",
+   "t_start_ns": 35908567880829,
+   "t_end_ns": 36079837317449,
+   "n_obs": 528
+  },
+  {
+   "i": 32,
+   "asset": "AMD",
+   "family": "intraday",
+   "t_start_ns": 36079838354835,
+   "t_end_ns": 36404290280178,
+   "n_obs": 528
+  },
+  {
+   "i": 33,
+   "asset": "AMD",
+   "family": "intraday",
+   "t_start_ns": 36663586566994,
+   "t_end_ns": 36885827429438,
+   "n_obs": 528
+  },
+  {
+   "i": 34,
+   "asset": "AMD",
+   "family": "intraday",
+   "t_start_ns": 36890551472666,
+   "t_end_ns": 37236773579062,
+   "n_obs": 528
+  },
+  {
+   "i": 35,
+   "asset": "AMD",
+   "family": "intraday",
+   "t_start_ns": 37537821775803,
+   "t_end_ns": 38080272962886,
+   "n_obs": 528
+  },
+  {
+   "i": 36,
+   "asset": "AMD",
+   "family": "intraday",
+   "t_start_ns": 38080520708024,
+   "t_end_ns": 38500968766544,
+   "n_obs": 528
+  },
+  {
+   "i": 37,
+   "asset": "AMD",
+   "family": "intraday",
+   "t_start_ns": 38981922821503,
+   "t_end_ns": 39746129961593,
+   "n_obs": 528
+  },
+  {
+   "i": 38,
+   "asset": "AMD",
+   "family": "intraday",
+   "t_start_ns": 40265193376231,
+   "t_end_ns": 40797259901110,
+   "n_obs": 528
+  },
+  {
+   "i": 39,
+   "asset": "AMD",
+   "family": "intraday",
+   "t_start_ns": 40797260242699,
+   "t_end_ns": 41286671900727,
+   "n_obs": 528
+  },
+  {
+   "i": 40,
+   "asset": "AMD",
+   "family": "intraday",
+   "t_start_ns": 42001692861964,
+   "t_end_ns": 42706276608348,
+   "n_obs": 528
+  },
+  {
+   "i": 41,
+   "asset": "AMD",
+   "family": "intraday",
+   "t_start_ns": 42706276612095,
+   "t_end_ns": 43693353818912,
+   "n_obs": 528
+  },
+  {
+   "i": 42,
+   "asset": "AMD",
+   "family": "intraday",
+   "t_start_ns": 44625426575100,
+   "t_end_ns": 45548307898080,
+   "n_obs": 528
+  },
+  {
+   "i": 43,
+   "asset": "AMD",
+   "family": "intraday",
+   "t_start_ns": 45550305601654,
+   "t_end_ns": 46341157509231,
+   "n_obs": 528
+  },
+  {
+   "i": 44,
+   "asset": "AMD",
+   "family": "intraday",
+   "t_start_ns": 47355712563193,
+   "t_end_ns": 48143722268331,
+   "n_obs": 528
+  },
+  {
+   "i": 45,
+   "asset": "AMD",
+   "family": "intraday",
+   "t_start_ns": 49501194495206,
+   "t_end_ns": 50699276097822,
+   "n_obs": 528
+  },
+  {
+   "i": 46,
+   "asset": "AMD",
+   "family": "intraday",
+   "t_start_ns": 50700374154578,
+   "t_end_ns": 52170160121503,
+   "n_obs": 528
+  },
+  {
+   "i": 47,
+   "asset": "AMD",
+   "family": "intraday",
+   "t_start_ns": 53093691433584,
+   "t_end_ns": 54258628303671,
+   "n_obs": 528
+  },
+  {
+   "i": 48,
+   "asset": "AMD",
+   "family": "intraday",
+   "t_start_ns": 54258743476975,
+   "t_end_ns": 55656819689311,
+   "n_obs": 528
+  },
+  {
+   "i": 49,
+   "asset": "AMD",
+   "family": "intraday",
+   "t_start_ns": 56763959147318,
+   "t_end_ns": 57298811506924,
+   "n_obs": 528
+  },
+  {
+   "i": 50,
+   "asset": "AMZN",
+   "family": "intraday",
+   "t_start_ns": 34200022080066,
+   "t_end_ns": 34351023371035,
+   "n_obs": 528
+  },
+  {
+   "i": 51,
+   "asset": "AMZN",
+   "family": "intraday",
+   "t_start_ns": 34351023431521,
+   "t_end_ns": 34541827202363,
+   "n_obs": 528
+  },
+  {
+   "i": 52,
+   "asset": "AMZN",
+   "family": "intraday",
+   "t_start_ns": 34684226189509,
+   "t_end_ns": 34878043577890,
+   "n_obs": 528
+  },
+  {
+   "i": 53,
+   "asset": "AMZN",
+   "family": "intraday",
+   "t_start_ns": 34879418690827,
+   "t_end_ns": 35043744113965,
+   "n_obs": 528
+  },
+  {
+   "i": 54,
+   "asset": "AMZN",
+   "family": "intraday",
+   "t_start_ns": 35229935663831,
+   "t_end_ns": 35321172858894,
+   "n_obs": 528
+  },
+  {
+   "i": 55,
+   "asset": "AMZN",
+   "family": "intraday",
+   "t_start_ns": 35321175074013,
+   "t_end_ns": 35408540142629,
+   "n_obs": 528
+  },
+  {
+   "i": 56,
+   "asset": "AMZN",
+   "family": "intraday",
+   "t_start_ns": 35408610890844,
+   "t_end_ns": 35514602869652,
+   "n_obs": 528
+  },
+  {
+   "i": 57,
+   "asset": "AMZN",
+   "family": "intraday",
+   "t_start_ns": 35773466237868,
+   "t_end_ns": 36224003053063,
+   "n_obs": 528
+  },
+  {
+   "i": 58,
+   "asset": "AMZN",
+   "family": "intraday",
+   "t_start_ns": 36224003416253,
+   "t_end_ns": 36625098228084,
+   "n_obs": 528
+  },
+  {
+   "i": 59,
+   "asset": "AMZN",
+   "family": "intraday",
+   "t_start_ns": 36625098582994,
+   "t_end_ns": 37201945720890,
+   "n_obs": 528
+  },
+  {
+   "i": 60,
+   "asset": "AMZN",
+   "family": "intraday",
+   "t_start_ns": 37805449482359,
+   "t_end_ns": 38642121622005,
+   "n_obs": 528
+  },
+  {
+   "i": 61,
+   "asset": "AMZN",
+   "family": "intraday",
+   "t_start_ns": 38644540926333,
+   "t_end_ns": 39650746280755,
+   "n_obs": 528
+  },
+  {
+   "i": 62,
+   "asset": "AMZN",
+   "family": "intraday",
+   "t_start_ns": 39650886354410,
+   "t_end_ns": 40663179679504,
+   "n_obs": 528
+  },
+  {
+   "i": 63,
+   "asset": "AMZN",
+   "family": "intraday",
+   "t_start_ns": 41563977939175,
+   "t_end_ns": 42220649614185,
+   "n_obs": 528
+  },
+  {
+   "i": 64,
+   "asset": "AMZN",
+   "family": "intraday",
+   "t_start_ns": 42220650430615,
+   "t_end_ns": 42854334004320,
+   "n_obs": 528
+  },
+  {
+   "i": 65,
+   "asset": "AMZN",
+   "family": "intraday",
+   "t_start_ns": 43916746767195,
+   "t_end_ns": 44821668361329,
+   "n_obs": 528
+  },
+  {
+   "i": 66,
+   "asset": "AMZN",
+   "family": "intraday",
+   "t_start_ns": 44822591462580,
+   "t_end_ns": 45500040109702,
+   "n_obs": 528
+  },
+  {
+   "i": 67,
+   "asset": "AMZN",
+   "family": "intraday",
+   "t_start_ns": 45501306076141,
+   "t_end_ns": 46803424617791,
+   "n_obs": 528
+  },
+  {
+   "i": 68,
+   "asset": "AMZN",
+   "family": "intraday",
+   "t_start_ns": 48201710807484,
+   "t_end_ns": 49478498747560,
+   "n_obs": 528
+  },
+  {
+   "i": 69,
+   "asset": "AMZN",
+   "family": "intraday",
+   "t_start_ns": 49478499042231,
+   "t_end_ns": 50794030386075,
+   "n_obs": 528
+  },
+  {
+   "i": 70,
+   "asset": "AMZN",
+   "family": "intraday",
+   "t_start_ns": 52435077292498,
+   "t_end_ns": 54070291597992,
+   "n_obs": 528
+  },
+  {
+   "i": 71,
+   "asset": "AMZN",
+   "family": "intraday",
+   "t_start_ns": 54070291621385,
+   "t_end_ns": 55580274437482,
+   "n_obs": 528
+  },
+  {
+   "i": 72,
+   "asset": "AMZN",
+   "family": "intraday",
+   "t_start_ns": 55588200084510,
+   "t_end_ns": 56503226608752,
+   "n_obs": 528
+  },
+  {
+   "i": 73,
+   "asset": "AMZN",
+   "family": "intraday",
+   "t_start_ns": 57052239945395,
+   "t_end_ns": 57426275905399,
+   "n_obs": 528
+  },
+  {
+   "i": 74,
+   "asset": "AMZN",
+   "family": "intraday",
+   "t_start_ns": 57427581622910,
+   "t_end_ns": 57599603335994,
+   "n_obs": 528
+  },
+  {
+   "i": 75,
+   "asset": "BABA",
+   "family": "intraday",
+   "t_start_ns": 34202729948405,
+   "t_end_ns": 34333410975426,
+   "n_obs": 528
+  },
+  {
+   "i": 76,
+   "asset": "BABA",
+   "family": "intraday",
+   "t_start_ns": 34334642738594,
+   "t_end_ns": 34661063425782,
+   "n_obs": 528
+  },
+  {
+   "i": 77,
+   "asset": "BABA",
+   "family": "intraday",
+   "t_start_ns": 34664568738778,
+   "t_end_ns": 35278601984060,
+   "n_obs": 528
+  },
+  {
+   "i": 78,
+   "asset": "BABA",
+   "family": "intraday",
+   "t_start_ns": 35278602019791,
+   "t_end_ns": 35751083716201,
+   "n_obs": 528
+  },
+  {
+   "i": 79,
+   "asset": "BABA",
+   "family": "intraday",
+   "t_start_ns": 35756169192920,
+   "t_end_ns": 36437733972370,
+   "n_obs": 528
+  },
+  {
+   "i": 80,
+   "asset": "BABA",
+   "family": "intraday",
+   "t_start_ns": 36437734010259,
+   "t_end_ns": 37246705129589,
+   "n_obs": 528
+  },
+  {
+   "i": 81,
+   "asset": "BABA",
+   "family": "intraday",
+   "t_start_ns": 37246705145040,
+   "t_end_ns": 37858498153443,
+   "n_obs": 528
+  },
+  {
+   "i": 82,
+   "asset": "BABA",
+   "family": "intraday",
+   "t_start_ns": 37858505981092,
+   "t_end_ns": 38934321322342,
+   "n_obs": 528
+  },
+  {
+   "i": 83,
+   "asset": "BABA",
+   "family": "intraday",
+   "t_start_ns": 38939958506880,
+   "t_end_ns": 40320839736071,
+   "n_obs": 528
+  },
+  {
+   "i": 84,
+   "asset": "BABA",
+   "family": "intraday",
+   "t_start_ns": 40323304761315,
+   "t_end_ns": 41718171117761,
+   "n_obs": 528
+  },
+  {
+   "i": 85,
+   "asset": "BABA",
+   "family": "intraday",
+   "t_start_ns": 41718171338084,
+   "t_end_ns": 43018570288671,
+   "n_obs": 528
+  },
+  {
+   "i": 86,
+   "asset": "BABA",
+   "family": "intraday",
+   "t_start_ns": 43038642777133,
+   "t_end_ns": 44550554089714,
+   "n_obs": 528
+  },
+  {
+   "i": 87,
+   "asset": "BABA",
+   "family": "intraday",
+   "t_start_ns": 44551072162119,
+   "t_end_ns": 46593471165402,
+   "n_obs": 528
+  },
+  {
+   "i": 88,
+   "asset": "BABA",
+   "family": "intraday",
+   "t_start_ns": 46604321712762,
+   "t_end_ns": 48508695176230,
+   "n_obs": 528
+  },
+  {
+   "i": 89,
+   "asset": "BABA",
+   "family": "intraday",
+   "t_start_ns": 48508909949131,
+   "t_end_ns": 50443083335635,
+   "n_obs": 528
+  },
+  {
+   "i": 90,
+   "asset": "BABA",
+   "family": "intraday",
+   "t_start_ns": 50461906617135,
+   "t_end_ns": 52196607711737,
+   "n_obs": 528
+  },
+  {
+   "i": 91,
+   "asset": "BABA",
+   "family": "intraday",
+   "t_start_ns": 52196608043907,
+   "t_end_ns": 53412946528674,
+   "n_obs": 528
+  },
+  {
+   "i": 92,
+   "asset": "BABA",
+   "family": "intraday",
+   "t_start_ns": 53420449252824,
+   "t_end_ns": 55351242521743,
+   "n_obs": 528
+  },
+  {
+   "i": 93,
+   "asset": "BABA",
+   "family": "intraday",
+   "t_start_ns": 55351301758889,
+   "t_end_ns": 56681126198216,
+   "n_obs": 528
+  },
+  {
+   "i": 94,
+   "asset": "BABA",
+   "family": "intraday",
+   "t_start_ns": 56684840025853,
+   "t_end_ns": 57300106873492,
+   "n_obs": 528
+  },
+  {
+   "i": 95,
+   "asset": "BIDU",
+   "family": "intraday",
+   "t_start_ns": 34200985046997,
+   "t_end_ns": 35085929925634,
+   "n_obs": 528
+  },
+  {
+   "i": 96,
+   "asset": "BIDU",
+   "family": "intraday",
+   "t_start_ns": 35085930222913,
+   "t_end_ns": 36296963502384,
+   "n_obs": 528
+  },
+  {
+   "i": 97,
+   "asset": "BIDU",
+   "family": "intraday",
+   "t_start_ns": 36302166427214,
+   "t_end_ns": 37307298592255,
+   "n_obs": 528
+  },
+  {
+   "i": 98,
+   "asset": "BIDU",
+   "family": "intraday",
+   "t_start_ns": 37307298608129,
+   "t_end_ns": 38565438385014,
+   "n_obs": 528
+  },
+  {
+   "i": 99,
+   "asset": "BIDU",
+   "family": "intraday",
+   "t_start_ns": 38565438959069,
+   "t_end_ns": 40223177858396,
+   "n_obs": 528
+  },
+  {
+   "i": 100,
+   "asset": "BIDU",
+   "family": "intraday",
+   "t_start_ns": 40223177876587,
+   "t_end_ns": 42620370054381,
+   "n_obs": 528
+  },
+  {
+   "i": 101,
+   "asset": "BIDU",
+   "family": "intraday",
+   "t_start_ns": 42620370091863,
+   "t_end_ns": 45238936786817,
+   "n_obs": 528
+  },
+  {
+   "i": 102,
+   "asset": "BIDU",
+   "family": "intraday",
+   "t_start_ns": 45238936819190,
+   "t_end_ns": 47552776285121,
+   "n_obs": 528
+  },
+  {
+   "i": 103,
+   "asset": "BIDU",
+   "family": "intraday",
+   "t_start_ns": 47552776371679,
+   "t_end_ns": 50018308083843,
+   "n_obs": 528
+  },
+  {
+   "i": 104,
+   "asset": "BIDU",
+   "family": "intraday",
+   "t_start_ns": 50018308151720,
+   "t_end_ns": 52529426924803,
+   "n_obs": 528
+  },
+  {
+   "i": 105,
+   "asset": "BIDU",
+   "family": "intraday",
+   "t_start_ns": 52556263022771,
+   "t_end_ns": 55182412732026,
+   "n_obs": 528
+  },
+  {
+   "i": 106,
+   "asset": "BIDU",
+   "family": "intraday",
+   "t_start_ns": 55182450377883,
+   "t_end_ns": 56848121077772,
+   "n_obs": 528
+  },
+  {
+   "i": 107,
+   "asset": "BIDU",
+   "family": "intraday",
+   "t_start_ns": 56850020011592,
+   "t_end_ns": 57567188375425,
+   "n_obs": 528
+  },
+  {
+   "i": 108,
+   "asset": "CRWD",
+   "family": "intraday",
+   "t_start_ns": 34200000002760,
+   "t_end_ns": 34796033428108,
+   "n_obs": 528
+  },
+  {
+   "i": 109,
+   "asset": "CRWD",
+   "family": "intraday",
+   "t_start_ns": 34797359432417,
+   "t_end_ns": 35878127273596,
+   "n_obs": 528
+  },
+  {
+   "i": 110,
+   "asset": "CRWD",
+   "family": "intraday",
+   "t_start_ns": 35881175123870,
+   "t_end_ns": 37174479552034,
+   "n_obs": 528
+  },
+  {
+   "i": 111,
+   "asset": "CRWD",
+   "family": "intraday",
+   "t_start_ns": 37174479553599,
+   "t_end_ns": 38279412287565,
+   "n_obs": 528
+  },
+  {
+   "i": 112,
+   "asset": "CRWD",
+   "family": "intraday",
+   "t_start_ns": 38279412391092,
+   "t_end_ns": 39649920001788,
+   "n_obs": 528
+  },
+  {
+   "i": 113,
+   "asset": "CRWD",
+   "family": "intraday",
+   "t_start_ns": 39649920054930,
+   "t_end_ns": 41108012856528,
+   "n_obs": 528
+  },
+  {
+   "i": 114,
+   "asset": "CRWD",
+   "family": "intraday",
+   "t_start_ns": 41108014224265,
+   "t_end_ns": 43314548939133,
+   "n_obs": 528
+  },
+  {
+   "i": 115,
+   "asset": "CRWD",
+   "family": "intraday",
+   "t_start_ns": 43314548949117,
+   "t_end_ns": 45510736369197,
+   "n_obs": 528
+  },
+  {
+   "i": 116,
+   "asset": "CRWD",
+   "family": "intraday",
+   "t_start_ns": 45514881645962,
+   "t_end_ns": 47342171362749,
+   "n_obs": 528
+  },
+  {
+   "i": 117,
+   "asset": "CRWD",
+   "family": "intraday",
+   "t_start_ns": 47350303790095,
+   "t_end_ns": 49045252142609,
+   "n_obs": 528
+  },
+  {
+   "i": 118,
+   "asset": "CRWD",
+   "family": "intraday",
+   "t_start_ns": 49045253321429,
+   "t_end_ns": 49883786238600,
+   "n_obs": 528
+  },
+  {
+   "i": 119,
+   "asset": "CRWD",
+   "family": "intraday",
+   "t_start_ns": 49884764121736,
+   "t_end_ns": 50896063138672,
+   "n_obs": 528
+  },
+  {
+   "i": 120,
+   "asset": "CRWD",
+   "family": "intraday",
+   "t_start_ns": 50900671429033,
+   "t_end_ns": 52721601264263,
+   "n_obs": 528
+  },
+  {
+   "i": 121,
+   "asset": "CRWD",
+   "family": "intraday",
+   "t_start_ns": 52723128019504,
+   "t_end_ns": 55375896346091,
+   "n_obs": 528
+  },
+  {
+   "i": 122,
+   "asset": "CRWD",
+   "family": "intraday",
+   "t_start_ns": 55375896348654,
+   "t_end_ns": 57069426221295,
+   "n_obs": 528
+  },
+  {
+   "i": 123,
+   "asset": "FB",
+   "family": "intraday",
+   "t_start_ns": 34200930271732,
+   "t_end_ns": 34431132746562,
+   "n_obs": 528
+  },
+  {
+   "i": 124,
+   "asset": "FB",
+   "family": "intraday",
+   "t_start_ns": 34635964396468,
+   "t_end_ns": 34771635624549,
+   "n_obs": 528
+  },
+  {
+   "i": 125,
+   "asset": "FB",
+   "family": "intraday",
+   "t_start_ns": 34771945515135,
+   "t_end_ns": 35043688844992,
+   "n_obs": 528
+  },
+  {
+   "i": 126,
+   "asset": "FB",
+   "family": "intraday",
+   "t_start_ns": 35196204823136,
+   "t_end_ns": 35366023241719,
+   "n_obs": 528
+  },
+  {
+   "i": 127,
+   "asset": "FB",
+   "family": "intraday",
+   "t_start_ns": 35366856559894,
+   "t_end_ns": 35464791793854,
+   "n_obs": 528
+  },
+  {
+   "i": 128,
+   "asset": "FB",
+   "family": "intraday",
+   "t_start_ns": 35723646257372,
+   "t_end_ns": 36083627015731,
+   "n_obs": 528
+  },
+  {
+   "i": 129,
+   "asset": "FB",
+   "family": "intraday",
+   "t_start_ns": 36084821412121,
+   "t_end_ns": 36341187974948,
+   "n_obs": 528
+  },
+  {
+   "i": 130,
+   "asset": "FB",
+   "family": "intraday",
+   "t_start_ns": 36746285511041,
+   "t_end_ns": 37222343279058,
+   "n_obs": 528
+  },
+  {
+   "i": 131,
+   "asset": "FB",
+   "family": "intraday",
+   "t_start_ns": 37222343310005,
+   "t_end_ns": 37780905151559,
+   "n_obs": 528
+  },
+  {
+   "i": 132,
+   "asset": "FB",
+   "family": "intraday",
+   "t_start_ns": 38315616616254,
+   "t_end_ns": 38992365997655,
+   "n_obs": 528
+  },
+  {
+   "i": 133,
+   "asset": "FB",
+   "family": "intraday",
+   "t_start_ns": 38992750699177,
+   "t_end_ns": 39783328262716,
+   "n_obs": 528
+  },
+  {
+   "i": 134,
+   "asset": "FB",
+   "family": "intraday",
+   "t_start_ns": 40203116866067,
+   "t_end_ns": 40679392354237,
+   "n_obs": 528
+  },
+  {
+   "i": 135,
+   "asset": "FB",
+   "family": "intraday",
+   "t_start_ns": 40683240111171,
+   "t_end_ns": 41224118729115,
+   "n_obs": 528
+  },
+  {
+   "i": 136,
+   "asset": "FB",
+   "family": "intraday",
+   "t_start_ns": 42071545912608,
+   "t_end_ns": 42609303057314,
+   "n_obs": 528
+  },
+  {
+   "i": 137,
+   "asset": "FB",
+   "family": "intraday",
+   "t_start_ns": 43266116640461,
+   "t_end_ns": 44523122713012,
+   "n_obs": 528
+  },
+  {
+   "i": 138,
+   "asset": "FB",
+   "family": "intraday",
+   "t_start_ns": 44523122729543,
+   "t_end_ns": 44982792148742,
+   "n_obs": 528
+  },
+  {
+   "i": 139,
+   "asset": "FB",
+   "family": "intraday",
+   "t_start_ns": 45689224867620,
+   "t_end_ns": 46394376914240,
+   "n_obs": 528
+  },
+  {
+   "i": 140,
+   "asset": "FB",
+   "family": "intraday",
+   "t_start_ns": 46394376984624,
+   "t_end_ns": 47918652632171,
+   "n_obs": 528
+  },
+  {
+   "i": 141,
+   "asset": "FB",
+   "family": "intraday",
+   "t_start_ns": 49634111938341,
+   "t_end_ns": 50553437676805,
+   "n_obs": 528
+  },
+  {
+   "i": 142,
+   "asset": "FB",
+   "family": "intraday",
+   "t_start_ns": 50554979399787,
+   "t_end_ns": 51696521740333,
+   "n_obs": 528
+  },
+  {
+   "i": 143,
+   "asset": "FB",
+   "family": "intraday",
+   "t_start_ns": 52664867851621,
+   "t_end_ns": 53680271771104,
+   "n_obs": 528
+  },
+  {
+   "i": 144,
+   "asset": "FB",
+   "family": "intraday",
+   "t_start_ns": 53680271802213,
+   "t_end_ns": 54480181226466,
+   "n_obs": 528
+  },
+  {
+   "i": 145,
+   "asset": "FB",
+   "family": "intraday",
+   "t_start_ns": 55870102755844,
+   "t_end_ns": 56463488202785,
+   "n_obs": 528
+  },
+  {
+   "i": 146,
+   "asset": "FB",
+   "family": "intraday",
+   "t_start_ns": 56467400071939,
+   "t_end_ns": 57078108271187,
+   "n_obs": 528
+  },
+  {
+   "i": 147,
+   "asset": "FB",
+   "family": "intraday",
+   "t_start_ns": 57375121488668,
+   "t_end_ns": 57550319642840,
+   "n_obs": 528
+  },
+  {
+   "i": 148,
+   "asset": "GILD",
+   "family": "intraday",
+   "t_start_ns": 34200195541493,
+   "t_end_ns": 35346228676796,
+   "n_obs": 528
+  },
+  {
+   "i": 149,
+   "asset": "GILD",
+   "family": "intraday",
+   "t_start_ns": 35346229095604,
+   "t_end_ns": 36093449542579,
+   "n_obs": 528
+  },
+  {
+   "i": 150,
+   "asset": "GILD",
+   "family": "intraday",
+   "t_start_ns": 36093449545483,
+   "t_end_ns": 36871236369569,
+   "n_obs": 528
+  },
+  {
+   "i": 151,
+   "asset": "GILD",
+   "family": "intraday",
+   "t_start_ns": 36871696468709,
+   "t_end_ns": 38138832578009,
+   "n_obs": 528
+  },
+  {
+   "i": 152,
+   "asset": "GILD",
+   "family": "intraday",
+   "t_start_ns": 38138857000191,
+   "t_end_ns": 39422936203771,
+   "n_obs": 528
+  },
+  {
+   "i": 153,
+   "asset": "GILD",
+   "family": "intraday",
+   "t_start_ns": 39422958148301,
+   "t_end_ns": 40938769749726,
+   "n_obs": 528
+  },
+  {
+   "i": 154,
+   "asset": "GILD",
+   "family": "intraday",
+   "t_start_ns": 40938769750435,
+   "t_end_ns": 42947937785759,
+   "n_obs": 528
+  },
+  {
+   "i": 155,
+   "asset": "GILD",
+   "family": "intraday",
+   "t_start_ns": 42951078487764,
+   "t_end_ns": 45145478712700,
+   "n_obs": 528
+  },
+  {
+   "i": 156,
+   "asset": "GILD",
+   "family": "intraday",
+   "t_start_ns": 45157705222549,
+   "t_end_ns": 48199014156862,
+   "n_obs": 528
+  },
+  {
+   "i": 157,
+   "asset": "GILD",
+   "family": "intraday",
+   "t_start_ns": 48199017941826,
+   "t_end_ns": 50350898245015,
+   "n_obs": 528
+  },
+  {
+   "i": 158,
+   "asset": "GILD",
+   "family": "intraday",
+   "t_start_ns": 50374997749869,
+   "t_end_ns": 53440945442785,
+   "n_obs": 528
+  },
+  {
+   "i": 159,
+   "asset": "GILD",
+   "family": "intraday",
+   "t_start_ns": 53477792048687,
+   "t_end_ns": 56044207486585,
+   "n_obs": 528
+  },
+  {
+   "i": 160,
+   "asset": "GILD",
+   "family": "intraday",
+   "t_start_ns": 56046723499092,
+   "t_end_ns": 57302918589794,
+   "n_obs": 528
+  },
+  {
+   "i": 161,
+   "asset": "GOOG",
+   "family": "intraday",
+   "t_start_ns": 34200147485006,
+   "t_end_ns": 34919501231329,
+   "n_obs": 528
+  },
+  {
+   "i": 162,
+   "asset": "GOOG",
+   "family": "intraday",
+   "t_start_ns": 34919501391839,
+   "t_end_ns": 35407689031548,
+   "n_obs": 528
+  },
+  {
+   "i": 163,
+   "asset": "GOOG",
+   "family": "intraday",
+   "t_start_ns": 35407689196342,
+   "t_end_ns": 36469402303064,
+   "n_obs": 528
+  },
+  {
+   "i": 164,
+   "asset": "GOOG",
+   "family": "intraday",
+   "t_start_ns": 36469402342608,
+   "t_end_ns": 37600524426790,
+   "n_obs": 528
+  },
+  {
+   "i": 165,
+   "asset": "GOOG",
+   "family": "intraday",
+   "t_start_ns": 37600524524143,
+   "t_end_ns": 39000140213520,
+   "n_obs": 528
+  },
+  {
+   "i": 166,
+   "asset": "GOOG",
+   "family": "intraday",
+   "t_start_ns": 39007086105472,
+   "t_end_ns": 40212516769214,
+   "n_obs": 528
+  },
+  {
+   "i": 167,
+   "asset": "GOOG",
+   "family": "intraday",
+   "t_start_ns": 40212517817719,
+   "t_end_ns": 41997087985637,
+   "n_obs": 528
+  },
+  {
+   "i": 168,
+   "asset": "GOOG",
+   "family": "intraday",
+   "t_start_ns": 41998570463838,
+   "t_end_ns": 43325420007183,
+   "n_obs": 528
+  },
+  {
+   "i": 169,
+   "asset": "GOOG",
+   "family": "intraday",
+   "t_start_ns": 43326637444187,
+   "t_end_ns": 44633068280637,
+   "n_obs": 528
+  },
+  {
+   "i": 170,
+   "asset": "GOOG",
+   "family": "intraday",
+   "t_start_ns": 44633068301957,
+   "t_end_ns": 46925241318661,
+   "n_obs": 528
+  },
+  {
+   "i": 171,
+   "asset": "GOOG",
+   "family": "intraday",
+   "t_start_ns": 46925527795266,
+   "t_end_ns": 49451855173872,
+   "n_obs": 528
+  },
+  {
+   "i": 172,
+   "asset": "GOOG",
+   "family": "intraday",
+   "t_start_ns": 49451855190354,
+   "t_end_ns": 51849804865699,
+   "n_obs": 528
+  },
+  {
+   "i": 173,
+   "asset": "GOOG",
+   "family": "intraday",
+   "t_start_ns": 51849804996442,
+   "t_end_ns": 54359991026286,
+   "n_obs": 528
+  },
+  {
+   "i": 174,
+   "asset": "GOOG",
+   "family": "intraday",
+   "t_start_ns": 54359991174473,
+   "t_end_ns": 56544358649984,
+   "n_obs": 528
+  },
+  {
+   "i": 175,
+   "asset": "GOOG",
+   "family": "intraday",
+   "t_start_ns": 56544360105918,
+   "t_end_ns": 57267940712617,
+   "n_obs": 528
+  },
+  {
+   "i": 176,
+   "asset": "GOOG",
+   "family": "intraday",
+   "t_start_ns": 57267985374251,
+   "t_end_ns": 57570727109980,
+   "n_obs": 528
+  },
+  {
+   "i": 177,
+   "asset": "GOOGL",
+   "family": "intraday",
+   "t_start_ns": 34200176384564,
+   "t_end_ns": 34704133762379,
+   "n_obs": 528
+  },
+  {
+   "i": 178,
+   "asset": "GOOGL",
+   "family": "intraday",
+   "t_start_ns": 34708929544830,
+   "t_end_ns": 35335527015812,
+   "n_obs": 528
+  },
+  {
+   "i": 179,
+   "asset": "GOOGL",
+   "family": "intraday",
+   "t_start_ns": 35335527032071,
+   "t_end_ns": 36094374647904,
+   "n_obs": 528
+  },
+  {
+   "i": 180,
+   "asset": "GOOGL",
+   "family": "intraday",
+   "t_start_ns": 36101813667798,
+   "t_end_ns": 36946871971395,
+   "n_obs": 528
+  },
+  {
+   "i": 181,
+   "asset": "GOOGL",
+   "family": "intraday",
+   "t_start_ns": 36946873385246,
+   "t_end_ns": 38516470528410,
+   "n_obs": 528
+  },
+  {
+   "i": 182,
+   "asset": "GOOGL",
+   "family": "intraday",
+   "t_start_ns": 38516880376282,
+   "t_end_ns": 39897502929212,
+   "n_obs": 528
+  },
+  {
+   "i": 183,
+   "asset": "GOOGL",
+   "family": "intraday",
+   "t_start_ns": 39897665570751,
+   "t_end_ns": 41405301977770,
+   "n_obs": 528
+  },
+  {
+   "i": 184,
+   "asset": "GOOGL",
+   "family": "intraday",
+   "t_start_ns": 41405420234978,
+   "t_end_ns": 42915558822568,
+   "n_obs": 528
+  },
+  {
+   "i": 185,
+   "asset": "GOOGL",
+   "family": "intraday",
+   "t_start_ns": 42915559001969,
+   "t_end_ns": 44294299763312,
+   "n_obs": 528
+  },
+  {
+   "i": 186,
+   "asset": "GOOGL",
+   "family": "intraday",
+   "t_start_ns": 44306304156563,
+   "t_end_ns": 46578476277672,
+   "n_obs": 528
+  },
+  {
+   "i": 187,
+   "asset": "GOOGL",
+   "family": "intraday",
+   "t_start_ns": 46578850250823,
+   "t_end_ns": 49198850667786,
+   "n_obs": 528
+  },
+  {
+   "i": 188,
+   "asset": "GOOGL",
+   "family": "intraday",
+   "t_start_ns": 49218364408541,
+   "t_end_ns": 51295246862355,
+   "n_obs": 528
+  },
+  {
+   "i": 189,
+   "asset": "GOOGL",
+   "family": "intraday",
+   "t_start_ns": 51299501689830,
+   "t_end_ns": 53973452463491,
+   "n_obs": 528
+  },
+  {
+   "i": 190,
+   "asset": "GOOGL",
+   "family": "intraday",
+   "t_start_ns": 53982128778873,
+   "t_end_ns": 55936274711183,
+   "n_obs": 528
+  },
+  {
+   "i": 191,
+   "asset": "GOOGL",
+   "family": "intraday",
+   "t_start_ns": 55939279101930,
+   "t_end_ns": 57045446604706,
+   "n_obs": 528
+  },
+  {
+   "i": 192,
+   "asset": "GOOGL",
+   "family": "intraday",
+   "t_start_ns": 57045447598468,
+   "t_end_ns": 57464062095740,
+   "n_obs": 528
+  },
+  {
+   "i": 193,
+   "asset": "HD",
+   "family": "intraday",
+   "t_start_ns": 34206882579170,
+   "t_end_ns": 35370476341482,
+   "n_obs": 528
+  },
+  {
+   "i": 194,
+   "asset": "HD",
+   "family": "intraday",
+   "t_start_ns": 35370476358278,
+   "t_end_ns": 36385141962893,
+   "n_obs": 528
+  },
+  {
+   "i": 195,
+   "asset": "HD",
+   "family": "intraday",
+   "t_start_ns": 36391615701444,
+   "t_end_ns": 37422916856583,
+   "n_obs": 528
+  },
+  {
+   "i": 196,
+   "asset": "HD",
+   "family": "intraday",
+   "t_start_ns": 37422916877556,
+   "t_end_ns": 38744685780955,
+   "n_obs": 528
+  },
+  {
+   "i": 197,
+   "asset": "HD",
+   "family": "intraday",
+   "t_start_ns": 38749752486634,
+   "t_end_ns": 40631180513254,
+   "n_obs": 528
+  },
+  {
+   "i": 198,
+   "asset": "HD",
+   "family": "intraday",
+   "t_start_ns": 40640002870870,
+   "t_end_ns": 42353963722015,
+   "n_obs": 528
+  },
+  {
+   "i": 199,
+   "asset": "HD",
+   "family": "intraday",
+   "t_start_ns": 42354409496840,
+   "t_end_ns": 44501625813903,
+   "n_obs": 528
+  },
+  {
+   "i": 200,
+   "asset": "HD",
+   "family": "intraday",
+   "t_start_ns": 44501625826794,
+   "t_end_ns": 46678033185201,
+   "n_obs": 528
+  },
+  {
+   "i": 201,
+   "asset": "HD",
+   "family": "intraday",
+   "t_start_ns": 46680391198986,
+   "t_end_ns": 49165526253885,
+   "n_obs": 528
+  },
+  {
+   "i": 202,
+   "asset": "HD",
+   "family": "intraday",
+   "t_start_ns": 49177468474238,
+   "t_end_ns": 51597046213302,
+   "n_obs": 528
+  },
+  {
+   "i": 203,
+   "asset": "HD",
+   "family": "intraday",
+   "t_start_ns": 51597046248994,
+   "t_end_ns": 53342590833339,
+   "n_obs": 528
+  },
+  {
+   "i": 204,
+   "asset": "HD",
+   "family": "intraday",
+   "t_start_ns": 53342590858076,
+   "t_end_ns": 55188298748921,
+   "n_obs": 528
+  },
+  {
+   "i": 205,
+   "asset": "HD",
+   "family": "intraday",
+   "t_start_ns": 55188300582008,
+   "t_end_ns": 56469756916919,
+   "n_obs": 528
+  },
+  {
+   "i": 206,
+   "asset": "HD",
+   "family": "intraday",
+   "t_start_ns": 56471057568332,
+   "t_end_ns": 57464392819525,
+   "n_obs": 528
+  },
+  {
+   "i": 207,
+   "asset": "IBB",
+   "family": "intraday",
+   "t_start_ns": 34200364476582,
+   "t_end_ns": 35160689339120,
+   "n_obs": 528
+  },
+  {
+   "i": 208,
+   "asset": "IBB",
+   "family": "intraday",
+   "t_start_ns": 35160689345143,
+   "t_end_ns": 36212027204918,
+   "n_obs": 528
+  },
+  {
+   "i": 209,
+   "asset": "IBB",
+   "family": "intraday",
+   "t_start_ns": 36212701943703,
+   "t_end_ns": 37498737969865,
+   "n_obs": 528
+  },
+  {
+   "i": 210,
+   "asset": "IBB",
+   "family": "intraday",
+   "t_start_ns": 37498738034886,
+   "t_end_ns": 39437699447498,
+   "n_obs": 528
+  },
+  {
+   "i": 211,
+   "asset": "IBB",
+   "family": "intraday",
+   "t_start_ns": 39442905964328,
+   "t_end_ns": 41145544480267,
+   "n_obs": 528
+  },
+  {
+   "i": 212,
+   "asset": "IBB",
+   "family": "intraday",
+   "t_start_ns": 41145544498944,
+   "t_end_ns": 42706937896887,
+   "n_obs": 528
+  },
+  {
+   "i": 213,
+   "asset": "IBB",
+   "family": "intraday",
+   "t_start_ns": 42756433789032,
+   "t_end_ns": 44132953688352,
+   "n_obs": 528
+  },
+  {
+   "i": 214,
+   "asset": "IBB",
+   "family": "intraday",
+   "t_start_ns": 44137233142059,
+   "t_end_ns": 45932057336766,
+   "n_obs": 528
+  },
+  {
+   "i": 215,
+   "asset": "IBB",
+   "family": "intraday",
+   "t_start_ns": 45944242695563,
+   "t_end_ns": 48599511881095,
+   "n_obs": 528
+  },
+  {
+   "i": 216,
+   "asset": "IBB",
+   "family": "intraday",
+   "t_start_ns": 48599512305283,
+   "t_end_ns": 50145812314016,
+   "n_obs": 528
+  },
+  {
+   "i": 217,
+   "asset": "IBB",
+   "family": "intraday",
+   "t_start_ns": 50150290911284,
+   "t_end_ns": 52239077998328,
+   "n_obs": 528
+  },
+  {
+   "i": 218,
+   "asset": "IBB",
+   "family": "intraday",
+   "t_start_ns": 52304469837728,
+   "t_end_ns": 54977641594011,
+   "n_obs": 528
+  },
+  {
+   "i": 219,
+   "asset": "IBB",
+   "family": "intraday",
+   "t_start_ns": 54979264172878,
+   "t_end_ns": 56534049266136,
+   "n_obs": 528
+  },
+  {
+   "i": 220,
+   "asset": "IBB",
+   "family": "intraday",
+   "t_start_ns": 56562716016336,
+   "t_end_ns": 57554472921516,
+   "n_obs": 528
+  },
+  {
+   "i": 221,
+   "asset": "INTC",
+   "family": "intraday",
+   "t_start_ns": 34200655408884,
+   "t_end_ns": 34467405281024,
+   "n_obs": 528
+  },
+  {
+   "i": 222,
+   "asset": "INTC",
+   "family": "intraday",
+   "t_start_ns": 34469237944968,
+   "t_end_ns": 34793222789541,
+   "n_obs": 528
+  },
+  {
+   "i": 223,
+   "asset": "INTC",
+   "family": "intraday",
+   "t_start_ns": 34793452212372,
+   "t_end_ns": 35326195767163,
+   "n_obs": 528
+  },
+  {
+   "i": 224,
+   "asset": "INTC",
+   "family": "intraday",
+   "t_start_ns": 35326196152413,
+   "t_end_ns": 35863807831274,
+   "n_obs": 528
+  },
+  {
+   "i": 225,
+   "asset": "INTC",
+   "family": "intraday",
+   "t_start_ns": 35863807950854,
+   "t_end_ns": 36479134741948,
+   "n_obs": 528
+  },
+  {
+   "i": 226,
+   "asset": "INTC",
+   "family": "intraday",
+   "t_start_ns": 36483333673684,
+   "t_end_ns": 37039156977618,
+   "n_obs": 528
+  },
+  {
+   "i": 227,
+   "asset": "INTC",
+   "family": "intraday",
+   "t_start_ns": 37039157137714,
+   "t_end_ns": 37843188531381,
+   "n_obs": 528
+  },
+  {
+   "i": 228,
+   "asset": "INTC",
+   "family": "intraday",
+   "t_start_ns": 37843188917955,
+   "t_end_ns": 38942226200065,
+   "n_obs": 528
+  },
+  {
+   "i": 229,
+   "asset": "INTC",
+   "family": "intraday",
+   "t_start_ns": 38942250317554,
+   "t_end_ns": 40090749656356,
+   "n_obs": 528
+  },
+  {
+   "i": 230,
+   "asset": "INTC",
+   "family": "intraday",
+   "t_start_ns": 40095373242772,
+   "t_end_ns": 41483273144278,
+   "n_obs": 528
+  },
+  {
+   "i": 231,
+   "asset": "INTC",
+   "family": "intraday",
+   "t_start_ns": 41483273279386,
+   "t_end_ns": 42617230834887,
+   "n_obs": 528
+  },
+  {
+   "i": 232,
+   "asset": "INTC",
+   "family": "intraday",
+   "t_start_ns": 42619532020276,
+   "t_end_ns": 44938593433061,
+   "n_obs": 528
+  },
+  {
+   "i": 233,
+   "asset": "INTC",
+   "family": "intraday",
+   "t_start_ns": 44939936771219,
+   "t_end_ns": 47322896257006,
+   "n_obs": 528
+  },
+  {
+   "i": 234,
+   "asset": "INTC",
+   "family": "intraday",
+   "t_start_ns": 47322896258544,
+   "t_end_ns": 49389577781264,
+   "n_obs": 528
+  },
+  {
+   "i": 235,
+   "asset": "INTC",
+   "family": "intraday",
+   "t_start_ns": 49389579019116,
+   "t_end_ns": 51041763275829,
+   "n_obs": 528
+  },
+  {
+   "i": 236,
+   "asset": "INTC",
+   "family": "intraday",
+   "t_start_ns": 51041763280994,
+   "t_end_ns": 52309942856467,
+   "n_obs": 528
+  },
+  {
+   "i": 237,
+   "asset": "INTC",
+   "family": "intraday",
+   "t_start_ns": 52309942858008,
+   "t_end_ns": 55094922638697,
+   "n_obs": 528
+  },
+  {
+   "i": 238,
+   "asset": "INTC",
+   "family": "intraday",
+   "t_start_ns": 55094923667142,
+   "t_end_ns": 56929002106630,
+   "n_obs": 528
+  },
+  {
+   "i": 239,
+   "asset": "INTC",
+   "family": "intraday",
+   "t_start_ns": 56931502164906,
+   "t_end_ns": 57505698542560,
+   "n_obs": 528
+  },
+  {
+   "i": 240,
+   "asset": "IWM",
+   "family": "intraday",
+   "t_start_ns": 34200000377199,
+   "t_end_ns": 34466431275822,
+   "n_obs": 528
+  },
+  {
+   "i": 241,
+   "asset": "IWM",
+   "family": "intraday",
+   "t_start_ns": 34466671022365,
+   "t_end_ns": 34846911721200,
+   "n_obs": 528
+  },
+  {
+   "i": 242,
+   "asset": "IWM",
+   "family": "intraday",
+   "t_start_ns": 34847420010971,
+   "t_end_ns": 35102894295558,
+   "n_obs": 528
+  },
+  {
+   "i": 243,
+   "asset": "IWM",
+   "family": "intraday",
+   "t_start_ns": 35103114222011,
+   "t_end_ns": 35336963510309,
+   "n_obs": 528
+  },
+  {
+   "i": 244,
+   "asset": "IWM",
+   "family": "intraday",
+   "t_start_ns": 35337390392458,
+   "t_end_ns": 35886839339279,
+   "n_obs": 528
+  },
+  {
+   "i": 245,
+   "asset": "IWM",
+   "family": "intraday",
+   "t_start_ns": 35888967477965,
+   "t_end_ns": 36446507943207,
+   "n_obs": 528
+  },
+  {
+   "i": 246,
+   "asset": "IWM",
+   "family": "intraday",
+   "t_start_ns": 36449425281887,
+   "t_end_ns": 36955006620807,
+   "n_obs": 528
+  },
+  {
+   "i": 247,
+   "asset": "IWM",
+   "family": "intraday",
+   "t_start_ns": 36955150213938,
+   "t_end_ns": 37511153473592,
+   "n_obs": 528
+  },
+  {
+   "i": 248,
+   "asset": "IWM",
+   "family": "intraday",
+   "t_start_ns": 37517074036117,
+   "t_end_ns": 38093514261074,
+   "n_obs": 528
+  },
+  {
+   "i": 249,
+   "asset": "IWM",
+   "family": "intraday",
+   "t_start_ns": 38094040217897,
+   "t_end_ns": 38642305733168,
+   "n_obs": 528
+  },
+  {
+   "i": 250,
+   "asset": "IWM",
+   "family": "intraday",
+   "t_start_ns": 38643931004832,
+   "t_end_ns": 39511284730717,
+   "n_obs": 528
+  },
+  {
+   "i": 251,
+   "asset": "IWM",
+   "family": "intraday",
+   "t_start_ns": 39511288627090,
+   "t_end_ns": 40387562552104,
+   "n_obs": 528
+  },
+  {
+   "i": 252,
+   "asset": "IWM",
+   "family": "intraday",
+   "t_start_ns": 40387562587189,
+   "t_end_ns": 41211052487878,
+   "n_obs": 528
+  },
+  {
+   "i": 253,
+   "asset": "IWM",
+   "family": "intraday",
+   "t_start_ns": 41211764153507,
+   "t_end_ns": 42035354920058,
+   "n_obs": 528
+  },
+  {
+   "i": 254,
+   "asset": "IWM",
+   "family": "intraday",
+   "t_start_ns": 42035481975301,
+   "t_end_ns": 43273049269632,
+   "n_obs": 528
+  },
+  {
+   "i": 255,
+   "asset": "IWM",
+   "family": "intraday",
+   "t_start_ns": 43273049275566,
+   "t_end_ns": 44463772086990,
+   "n_obs": 528
+  },
+  {
+   "i": 256,
+   "asset": "IWM",
+   "family": "intraday",
+   "t_start_ns": 44469247999037,
+   "t_end_ns": 45666958712046,
+   "n_obs": 528
+  },
+  {
+   "i": 257,
+   "asset": "IWM",
+   "family": "intraday",
+   "t_start_ns": 45666959019627,
+   "t_end_ns": 47659261996580,
+   "n_obs": 528
+  },
+  {
+   "i": 258,
+   "asset": "IWM",
+   "family": "intraday",
+   "t_start_ns": 47659263920426,
+   "t_end_ns": 49938186622079,
+   "n_obs": 528
+  },
+  {
+   "i": 259,
+   "asset": "IWM",
+   "family": "intraday",
+   "t_start_ns": 49941211183988,
+   "t_end_ns": 51886069330133,
+   "n_obs": 528
+  },
+  {
+   "i": 260,
+   "asset": "IWM",
+   "family": "intraday",
+   "t_start_ns": 51887828967901,
+   "t_end_ns": 53959820945830,
+   "n_obs": 528
+  },
+  {
+   "i": 261,
+   "asset": "IWM",
+   "family": "intraday",
+   "t_start_ns": 53961183376532,
+   "t_end_ns": 55477359470834,
+   "n_obs": 528
+  },
+  {
+   "i": 262,
+   "asset": "IWM",
+   "family": "intraday",
+   "t_start_ns": 55489435142814,
+   "t_end_ns": 56844246109389,
+   "n_obs": 528
+  },
+  {
+   "i": 263,
+   "asset": "IWM",
+   "family": "intraday",
+   "t_start_ns": 56847331683260,
+   "t_end_ns": 57510692200545,
+   "n_obs": 528
+  },
+  {
+   "i": 264,
+   "asset": "JPM",
+   "family": "intraday",
+   "t_start_ns": 34204392256087,
+   "t_end_ns": 34906527370764,
+   "n_obs": 528
+  },
+  {
+   "i": 265,
+   "asset": "JPM",
+   "family": "intraday",
+   "t_start_ns": 34909981642321,
+   "t_end_ns": 35936785136945,
+   "n_obs": 528
+  },
+  {
+   "i": 266,
+   "asset": "JPM",
+   "family": "intraday",
+   "t_start_ns": 35939208872937,
+   "t_end_ns": 36850744775315,
+   "n_obs": 528
+  },
+  {
+   "i": 267,
+   "asset": "JPM",
+   "family": "intraday",
+   "t_start_ns": 36851181163641,
+   "t_end_ns": 37944740979377,
+   "n_obs": 528
+  },
+  {
+   "i": 268,
+   "asset": "JPM",
+   "family": "intraday",
+   "t_start_ns": 37950192893480,
+   "t_end_ns": 39486536935193,
+   "n_obs": 528
+  },
+  {
+   "i": 269,
+   "asset": "JPM",
+   "family": "intraday",
+   "t_start_ns": 39487935174954,
+   "t_end_ns": 40980235633110,
+   "n_obs": 528
+  },
+  {
+   "i": 270,
+   "asset": "JPM",
+   "family": "intraday",
+   "t_start_ns": 40980235656716,
+   "t_end_ns": 42681128153902,
+   "n_obs": 528
+  },
+  {
+   "i": 271,
+   "asset": "JPM",
+   "family": "intraday",
+   "t_start_ns": 42689627485912,
+   "t_end_ns": 45113568731720,
+   "n_obs": 528
+  },
+  {
+   "i": 272,
+   "asset": "JPM",
+   "family": "intraday",
+   "t_start_ns": 45118110560710,
+   "t_end_ns": 48122047403434,
+   "n_obs": 528
+  },
+  {
+   "i": 273,
+   "asset": "JPM",
+   "family": "intraday",
+   "t_start_ns": 48134339317390,
+   "t_end_ns": 50617106459956,
+   "n_obs": 528
+  },
+  {
+   "i": 274,
+   "asset": "JPM",
+   "family": "intraday",
+   "t_start_ns": 50631161307189,
+   "t_end_ns": 52953043212951,
+   "n_obs": 528
+  },
+  {
+   "i": 275,
+   "asset": "JPM",
+   "family": "intraday",
+   "t_start_ns": 52961804233538,
+   "t_end_ns": 55123394044801,
+   "n_obs": 528
+  },
+  {
+   "i": 276,
+   "asset": "JPM",
+   "family": "intraday",
+   "t_start_ns": 55132012452039,
+   "t_end_ns": 56681113502980,
+   "n_obs": 528
+  },
+  {
+   "i": 277,
+   "asset": "JPM",
+   "family": "intraday",
+   "t_start_ns": 56687547516480,
+   "t_end_ns": 57528537800924,
+   "n_obs": 528
+  },
+  {
+   "i": 278,
+   "asset": "LEN",
+   "family": "intraday",
+   "t_start_ns": 34201511746685,
+   "t_end_ns": 37009787957276,
+   "n_obs": 528
+  },
+  {
+   "i": 279,
+   "asset": "LEN",
+   "family": "intraday",
+   "t_start_ns": 37009788178895,
+   "t_end_ns": 39257864522271,
+   "n_obs": 528
+  },
+  {
+   "i": 280,
+   "asset": "LEN",
+   "family": "intraday",
+   "t_start_ns": 39274417800016,
+   "t_end_ns": 41776543116742,
+   "n_obs": 528
+  },
+  {
+   "i": 281,
+   "asset": "LEN",
+   "family": "intraday",
+   "t_start_ns": 41782759887135,
+   "t_end_ns": 43920971188233,
+   "n_obs": 528
+  },
+  {
+   "i": 282,
+   "asset": "LEN",
+   "family": "intraday",
+   "t_start_ns": 43920971223894,
+   "t_end_ns": 44992696829460,
+   "n_obs": 528
+  },
+  {
+   "i": 283,
+   "asset": "LEN",
+   "family": "intraday",
+   "t_start_ns": 45006726821518,
+   "t_end_ns": 45983751947784,
+   "n_obs": 528
+  },
+  {
+   "i": 284,
+   "asset": "LEN",
+   "family": "intraday",
+   "t_start_ns": 45983751952940,
+   "t_end_ns": 46944931109472,
+   "n_obs": 528
+  },
+  {
+   "i": 285,
+   "asset": "LEN",
+   "family": "intraday",
+   "t_start_ns": 46947168721874,
+   "t_end_ns": 47985008676402,
+   "n_obs": 528
+  },
+  {
+   "i": 286,
+   "asset": "LEN",
+   "family": "intraday",
+   "t_start_ns": 47985008730080,
+   "t_end_ns": 49210687422852,
+   "n_obs": 528
+  },
+  {
+   "i": 287,
+   "asset": "LEN",
+   "family": "intraday",
+   "t_start_ns": 49214293433597,
+   "t_end_ns": 50317531818525,
+   "n_obs": 528
+  },
+  {
+   "i": 288,
+   "asset": "LEN",
+   "family": "intraday",
+   "t_start_ns": 50317532596879,
+   "t_end_ns": 51619041622725,
+   "n_obs": 528
+  },
+  {
+   "i": 289,
+   "asset": "LEN",
+   "family": "intraday",
+   "t_start_ns": 51620874114133,
+   "t_end_ns": 52663723126940,
+   "n_obs": 528
+  },
+  {
+   "i": 290,
+   "asset": "LEN",
+   "family": "intraday",
+   "t_start_ns": 52664869152434,
+   "t_end_ns": 53874830767642,
+   "n_obs": 528
+  },
+  {
+   "i": 291,
+   "asset": "LEN",
+   "family": "intraday",
+   "t_start_ns": 53874830789692,
+   "t_end_ns": 55077009302403,
+   "n_obs": 528
+  },
+  {
+   "i": 292,
+   "asset": "LEN",
+   "family": "intraday",
+   "t_start_ns": 55083317741251,
+   "t_end_ns": 56310375891877,
+   "n_obs": 528
+  },
+  {
+   "i": 293,
+   "asset": "LEN",
+   "family": "intraday",
+   "t_start_ns": 56310375970240,
+   "t_end_ns": 57593670755159,
+   "n_obs": 528
+  },
+  {
+   "i": 294,
+   "asset": "LK",
+   "family": "intraday",
+   "t_start_ns": 34200854871016,
+   "t_end_ns": 34771788707131,
+   "n_obs": 528
+  },
+  {
+   "i": 295,
+   "asset": "LK",
+   "family": "intraday",
+   "t_start_ns": 34771788741220,
+   "t_end_ns": 35165443873315,
+   "n_obs": 528
+  },
+  {
+   "i": 296,
+   "asset": "LK",
+   "family": "intraday",
+   "t_start_ns": 35165443878491,
+   "t_end_ns": 35457331361531,
+   "n_obs": 528
+  },
+  {
+   "i": 297,
+   "asset": "LK",
+   "family": "intraday",
+   "t_start_ns": 35457333892262,
+   "t_end_ns": 35585865366977,
+   "n_obs": 528
+  },
+  {
+   "i": 298,
+   "asset": "LK",
+   "family": "intraday",
+   "t_start_ns": 35586909654250,
+   "t_end_ns": 35848689394029,
+   "n_obs": 528
+  },
+  {
+   "i": 299,
+   "asset": "LK",
+   "family": "intraday",
+   "t_start_ns": 36201506942815,
+   "t_end_ns": 36577955678826,
+   "n_obs": 528
+  },
+  {
+   "i": 300,
+   "asset": "LK",
+   "family": "intraday",
+   "t_start_ns": 36577955702330,
+   "t_end_ns": 36854417895356,
+   "n_obs": 528
+  },
+  {
+   "i": 301,
+   "asset": "LK",
+   "family": "intraday",
+   "t_start_ns": 36857052839014,
+   "t_end_ns": 37390933523087,
+   "n_obs": 528
+  },
+  {
+   "i": 302,
+   "asset": "LK",
+   "family": "intraday",
+   "t_start_ns": 37393836437644,
+   "t_end_ns": 37876832882628,
+   "n_obs": 528
+  },
+  {
+   "i": 303,
+   "asset": "LK",
+   "family": "intraday",
+   "t_start_ns": 37882647370639,
+   "t_end_ns": 38875334136411,
+   "n_obs": 528
+  },
+  {
+   "i": 304,
+   "asset": "LK",
+   "family": "intraday",
+   "t_start_ns": 38875368642997,
+   "t_end_ns": 39958314752062,
+   "n_obs": 528
+  },
+  {
+   "i": 305,
+   "asset": "LK",
+   "family": "intraday",
+   "t_start_ns": 39958314785800,
+   "t_end_ns": 40982806238635,
+   "n_obs": 528
+  },
+  {
+   "i": 306,
+   "asset": "LK",
+   "family": "intraday",
+   "t_start_ns": 41971542323587,
+   "t_end_ns": 43451788019756,
+   "n_obs": 528
+  },
+  {
+   "i": 307,
+   "asset": "LK",
+   "family": "intraday",
+   "t_start_ns": 43451807468877,
+   "t_end_ns": 44317965566087,
+   "n_obs": 528
+  },
+  {
+   "i": 308,
+   "asset": "LK",
+   "family": "intraday",
+   "t_start_ns": 44317965570825,
+   "t_end_ns": 45428523136033,
+   "n_obs": 528
+  },
+  {
+   "i": 309,
+   "asset": "LK",
+   "family": "intraday",
+   "t_start_ns": 45428523186221,
+   "t_end_ns": 46416610658984,
+   "n_obs": 528
+  },
+  {
+   "i": 310,
+   "asset": "LK",
+   "family": "intraday",
+   "t_start_ns": 46416610682773,
+   "t_end_ns": 46959502556646,
+   "n_obs": 528
+  },
+  {
+   "i": 311,
+   "asset": "LK",
+   "family": "intraday",
+   "t_start_ns": 46959502607377,
+   "t_end_ns": 47697957988554,
+   "n_obs": 528
+  },
+  {
+   "i": 312,
+   "asset": "LK",
+   "family": "intraday",
+   "t_start_ns": 47697958074277,
+   "t_end_ns": 48828920339692,
+   "n_obs": 528
+  },
+  {
+   "i": 313,
+   "asset": "LK",
+   "family": "intraday",
+   "t_start_ns": 48828921548435,
+   "t_end_ns": 49737880976311,
+   "n_obs": 528
+  },
+  {
+   "i": 314,
+   "asset": "LK",
+   "family": "intraday",
+   "t_start_ns": 49737880980357,
+   "t_end_ns": 50920133756285,
+   "n_obs": 528
+  },
+  {
+   "i": 315,
+   "asset": "LK",
+   "family": "intraday",
+   "t_start_ns": 51754466298053,
+   "t_end_ns": 52813735681133,
+   "n_obs": 528
+  },
+  {
+   "i": 316,
+   "asset": "LK",
+   "family": "intraday",
+   "t_start_ns": 52813735685712,
+   "t_end_ns": 54634133676389,
+   "n_obs": 528
+  },
+  {
+   "i": 317,
+   "asset": "LK",
+   "family": "intraday",
+   "t_start_ns": 54634133686936,
+   "t_end_ns": 56385212189064,
+   "n_obs": 528
+  },
+  {
+   "i": 318,
+   "asset": "LK",
+   "family": "intraday",
+   "t_start_ns": 56385212194820,
+   "t_end_ns": 57261813382189,
+   "n_obs": 528
+  },
+  {
+   "i": 319,
+   "asset": "LYFT",
+   "family": "intraday",
+   "t_start_ns": 34200404437335,
+   "t_end_ns": 35258468414986,
+   "n_obs": 528
+  },
+  {
+   "i": 320,
+   "asset": "LYFT",
+   "family": "intraday",
+   "t_start_ns": 35258468463216,
+   "t_end_ns": 35923327993953,
+   "n_obs": 528
+  },
+  {
+   "i": 321,
+   "asset": "LYFT",
+   "family": "intraday",
+   "t_start_ns": 35923328038126,
+   "t_end_ns": 36613448872795,
+   "n_obs": 528
+  },
+  {
+   "i": 322,
+   "asset": "LYFT",
+   "family": "intraday",
+   "t_start_ns": 36613448874567,
+   "t_end_ns": 37303308344567,
+   "n_obs": 528
+  },
+  {
+   "i": 323,
+   "asset": "LYFT",
+   "family": "intraday",
+   "t_start_ns": 37303639574863,
+   "t_end_ns": 38220666424084,
+   "n_obs": 528
+  },
+  {
+   "i": 324,
+   "asset": "LYFT",
+   "family": "intraday",
+   "t_start_ns": 38225643573456,
+   "t_end_ns": 39430286719484,
+   "n_obs": 528
+  },
+  {
+   "i": 325,
+   "asset": "LYFT",
+   "family": "intraday",
+   "t_start_ns": 39431034717448,
+   "t_end_ns": 39907064882829,
+   "n_obs": 528
+  },
+  {
+   "i": 326,
+   "asset": "LYFT",
+   "family": "intraday",
+   "t_start_ns": 39907200205280,
+   "t_end_ns": 40347714740286,
+   "n_obs": 528
+  },
+  {
+   "i": 327,
+   "asset": "LYFT",
+   "family": "intraday",
+   "t_start_ns": 40349215641690,
+   "t_end_ns": 41287223349208,
+   "n_obs": 528
+  },
+  {
+   "i": 328,
+   "asset": "LYFT",
+   "family": "intraday",
+   "t_start_ns": 41289757669404,
+   "t_end_ns": 42075223094890,
+   "n_obs": 528
+  },
+  {
+   "i": 329,
+   "asset": "LYFT",
+   "family": "intraday",
+   "t_start_ns": 42077682590839,
+   "t_end_ns": 43244790863538,
+   "n_obs": 528
+  },
+  {
+   "i": 330,
+   "asset": "LYFT",
+   "family": "intraday",
+   "t_start_ns": 43244807210555,
+   "t_end_ns": 44779875897658,
+   "n_obs": 528
+  },
+  {
+   "i": 331,
+   "asset": "LYFT",
+   "family": "intraday",
+   "t_start_ns": 44785369381218,
+   "t_end_ns": 47044317768779,
+   "n_obs": 528
+  },
+  {
+   "i": 332,
+   "asset": "LYFT",
+   "family": "intraday",
+   "t_start_ns": 47044317802215,
+   "t_end_ns": 49497653247083,
+   "n_obs": 528
+  },
+  {
+   "i": 333,
+   "asset": "LYFT",
+   "family": "intraday",
+   "t_start_ns": 49498290450921,
+   "t_end_ns": 52016052247990,
+   "n_obs": 528
+  },
+  {
+   "i": 334,
+   "asset": "LYFT",
+   "family": "intraday",
+   "t_start_ns": 52084898364891,
+   "t_end_ns": 54774339981946,
+   "n_obs": 528
+  },
+  {
+   "i": 335,
+   "asset": "LYFT",
+   "family": "intraday",
+   "t_start_ns": 54775349258872,
+   "t_end_ns": 56968303207044,
+   "n_obs": 528
+  },
+  {
+   "i": 336,
+   "asset": "LYFT",
+   "family": "intraday",
+   "t_start_ns": 56975149636166,
+   "t_end_ns": 57572024189889,
+   "n_obs": 528
+  },
+  {
+   "i": 337,
+   "asset": "MIK",
+   "family": "intraday",
+   "t_start_ns": 34201085710405,
+   "t_end_ns": 34543806255575,
+   "n_obs": 528
+  },
+  {
+   "i": 338,
+   "asset": "MIK",
+   "family": "intraday",
+   "t_start_ns": 34543806300780,
+   "t_end_ns": 34872221346832,
+   "n_obs": 528
+  },
+  {
+   "i": 339,
+   "asset": "MIK",
+   "family": "intraday",
+   "t_start_ns": 34874081808140,
+   "t_end_ns": 35206827947364,
+   "n_obs": 528
+  },
+  {
+   "i": 340,
+   "asset": "MIK",
+   "family": "intraday",
+   "t_start_ns": 35207244695128,
+   "t_end_ns": 35571168874559,
+   "n_obs": 528
+  },
+  {
+   "i": 341,
+   "asset": "MIK",
+   "family": "intraday",
+   "t_start_ns": 35571168952160,
+   "t_end_ns": 36064454207588,
+   "n_obs": 528
+  },
+  {
+   "i": 342,
+   "asset": "MIK",
+   "family": "intraday",
+   "t_start_ns": 36074267058638,
+   "t_end_ns": 36906121329863,
+   "n_obs": 528
+  },
+  {
+   "i": 343,
+   "asset": "MIK",
+   "family": "intraday",
+   "t_start_ns": 36906121648210,
+   "t_end_ns": 38296088539148,
+   "n_obs": 528
+  },
+  {
+   "i": 344,
+   "asset": "MIK",
+   "family": "intraday",
+   "t_start_ns": 38296088794865,
+   "t_end_ns": 39838158603917,
+   "n_obs": 528
+  },
+  {
+   "i": 345,
+   "asset": "MIK",
+   "family": "intraday",
+   "t_start_ns": 39893052890984,
+   "t_end_ns": 43455669037726,
+   "n_obs": 528
+  },
+  {
+   "i": 346,
+   "asset": "MIK",
+   "family": "intraday",
+   "t_start_ns": 43455669088560,
+   "t_end_ns": 46059943700131,
+   "n_obs": 528
+  },
+  {
+   "i": 347,
+   "asset": "MIK",
+   "family": "intraday",
+   "t_start_ns": 46059944337494,
+   "t_end_ns": 49981747349631,
+   "n_obs": 528
+  },
+  {
+   "i": 348,
+   "asset": "MIK",
+   "family": "intraday",
+   "t_start_ns": 49981918875428,
+   "t_end_ns": 54977207280840,
+   "n_obs": 528
+  },
+  {
+   "i": 349,
+   "asset": "MIK",
+   "family": "intraday",
+   "t_start_ns": 54977217768768,
+   "t_end_ns": 57194623420048,
+   "n_obs": 528
+  },
+  {
+   "i": 350,
+   "asset": "MSFT",
+   "family": "intraday",
+   "t_start_ns": 34200003923966,
+   "t_end_ns": 34322017967281,
+   "n_obs": 528
+  },
+  {
+   "i": 351,
+   "asset": "MSFT",
+   "family": "intraday",
+   "t_start_ns": 34560979705563,
+   "t_end_ns": 34692321390019,
+   "n_obs": 528
+  },
+  {
+   "i": 352,
+   "asset": "MSFT",
+   "family": "intraday",
+   "t_start_ns": 34692784642391,
+   "t_end_ns": 34872125153180,
+   "n_obs": 528
+  },
+  {
+   "i": 353,
+   "asset": "MSFT",
+   "family": "intraday",
+   "t_start_ns": 35050052023987,
+   "t_end_ns": 35179650395038,
+   "n_obs": 528
+  },
+  {
+   "i": 354,
+   "asset": "MSFT",
+   "family": "intraday",
+   "t_start_ns": 35344582203179,
+   "t_end_ns": 35500154559987,
+   "n_obs": 528
+  },
+  {
+   "i": 355,
+   "asset": "MSFT",
+   "family": "intraday",
+   "t_start_ns": 35767880120768,
+   "t_end_ns": 36040365405328,
+   "n_obs": 528
+  },
+  {
+   "i": 356,
+   "asset": "MSFT",
+   "family": "intraday",
+   "t_start_ns": 36040887775563,
+   "t_end_ns": 36280801381389,
+   "n_obs": 528
+  },
+  {
+   "i": 357,
+   "asset": "MSFT",
+   "family": "intraday",
+   "t_start_ns": 36614810310098,
+   "t_end_ns": 36901186402914,
+   "n_obs": 528
+  },
+  {
+   "i": 358,
+   "asset": "MSFT",
+   "family": "intraday",
+   "t_start_ns": 37227690065100,
+   "t_end_ns": 37622029051534,
+   "n_obs": 528
+  },
+  {
+   "i": 359,
+   "asset": "MSFT",
+   "family": "intraday",
+   "t_start_ns": 37622029075879,
+   "t_end_ns": 38087518926410,
+   "n_obs": 528
+  },
+  {
+   "i": 360,
+   "asset": "MSFT",
+   "family": "intraday",
+   "t_start_ns": 38515382293346,
+   "t_end_ns": 39130918037647,
+   "n_obs": 528
+  },
+  {
+   "i": 361,
+   "asset": "MSFT",
+   "family": "intraday",
+   "t_start_ns": 39703698622108,
+   "t_end_ns": 40298741523597,
+   "n_obs": 528
+  },
+  {
+   "i": 362,
+   "asset": "MSFT",
+   "family": "intraday",
+   "t_start_ns": 40299214898499,
+   "t_end_ns": 40924508741861,
+   "n_obs": 528
+  },
+  {
+   "i": 363,
+   "asset": "MSFT",
+   "family": "intraday",
+   "t_start_ns": 41755809412473,
+   "t_end_ns": 42504658563244,
+   "n_obs": 528
+  },
+  {
+   "i": 364,
+   "asset": "MSFT",
+   "family": "intraday",
+   "t_start_ns": 43169859732397,
+   "t_end_ns": 43707031657153,
+   "n_obs": 528
+  },
+  {
+   "i": 365,
+   "asset": "MSFT",
+   "family": "intraday",
+   "t_start_ns": 44354408822473,
+   "t_end_ns": 45351532952622,
+   "n_obs": 528
+  },
+  {
+   "i": 366,
+   "asset": "MSFT",
+   "family": "intraday",
+   "t_start_ns": 45356461447528,
+   "t_end_ns": 46209578681618,
+   "n_obs": 528
+  },
+  {
+   "i": 367,
+   "asset": "MSFT",
+   "family": "intraday",
+   "t_start_ns": 47290172109254,
+   "t_end_ns": 48574656053378,
+   "n_obs": 528
+  },
+  {
+   "i": 368,
+   "asset": "MSFT",
+   "family": "intraday",
+   "t_start_ns": 49926959640082,
+   "t_end_ns": 50897989601252,
+   "n_obs": 528
+  },
+  {
+   "i": 369,
+   "asset": "MSFT",
+   "family": "intraday",
+   "t_start_ns": 50897991062435,
+   "t_end_ns": 52011998239888,
+   "n_obs": 528
+  },
+  {
+   "i": 370,
+   "asset": "MSFT",
+   "family": "intraday",
+   "t_start_ns": 52873471428923,
+   "t_end_ns": 54014793569331,
+   "n_obs": 528
+  },
+  {
+   "i": 371,
+   "asset": "MSFT",
+   "family": "intraday",
+   "t_start_ns": 54784493206056,
+   "t_end_ns": 55864512423641,
+   "n_obs": 528
+  },
+  {
+   "i": 372,
+   "asset": "MSFT",
+   "family": "intraday",
+   "t_start_ns": 56575041170603,
+   "t_end_ns": 57007297491697,
+   "n_obs": 528
+  },
+  {
+   "i": 373,
+   "asset": "MSFT",
+   "family": "intraday",
+   "t_start_ns": 57007830073878,
+   "t_end_ns": 57297574991386,
+   "n_obs": 528
+  },
+  {
+   "i": 374,
+   "asset": "MSFT",
+   "family": "intraday",
+   "t_start_ns": 57480011392637,
+   "t_end_ns": 57580505515430,
+   "n_obs": 528
+  },
+  {
+   "i": 375,
+   "asset": "MU",
+   "family": "intraday",
+   "t_start_ns": 34200299901092,
+   "t_end_ns": 34389852548595,
+   "n_obs": 528
+  },
+  {
+   "i": 376,
+   "asset": "MU",
+   "family": "intraday",
+   "t_start_ns": 34390574944648,
+   "t_end_ns": 34559650931850,
+   "n_obs": 528
+  },
+  {
+   "i": 377,
+   "asset": "MU",
+   "family": "intraday",
+   "t_start_ns": 34559651291661,
+   "t_end_ns": 34706881151200,
+   "n_obs": 528
+  },
+  {
+   "i": 378,
+   "asset": "MU",
+   "family": "intraday",
+   "t_start_ns": 34706881317584,
+   "t_end_ns": 34896504354576,
+   "n_obs": 528
+  },
+  {
+   "i": 379,
+   "asset": "MU",
+   "family": "intraday",
+   "t_start_ns": 34898810515525,
+   "t_end_ns": 35086991016979,
+   "n_obs": 528
+  },
+  {
+   "i": 380,
+   "asset": "MU",
+   "family": "intraday",
+   "t_start_ns": 35087179778050,
+   "t_end_ns": 35294399872375,
+   "n_obs": 528
+  },
+  {
+   "i": 381,
+   "asset": "MU",
+   "family": "intraday",
+   "t_start_ns": 35295822605836,
+   "t_end_ns": 35619683313761,
+   "n_obs": 528
+  },
+  {
+   "i": 382,
+   "asset": "MU",
+   "family": "intraday",
+   "t_start_ns": 35619704237588,
+   "t_end_ns": 36016660926947,
+   "n_obs": 528
+  },
+  {
+   "i": 383,
+   "asset": "MU",
+   "family": "intraday",
+   "t_start_ns": 36016661135266,
+   "t_end_ns": 36377739733100,
+   "n_obs": 528
+  },
+  {
+   "i": 384,
+   "asset": "MU",
+   "family": "intraday",
+   "t_start_ns": 36377740271715,
+   "t_end_ns": 36882983925325,
+   "n_obs": 528
+  },
+  {
+   "i": 385,
+   "asset": "MU",
+   "family": "intraday",
+   "t_start_ns": 36882983928364,
+   "t_end_ns": 37264153827626,
+   "n_obs": 528
+  },
+  {
+   "i": 386,
+   "asset": "MU",
+   "family": "intraday",
+   "t_start_ns": 37264153859525,
+   "t_end_ns": 37995370016459,
+   "n_obs": 528
+  },
+  {
+   "i": 387,
+   "asset": "MU",
+   "family": "intraday",
+   "t_start_ns": 37997515136167,
+   "t_end_ns": 38947581697231,
+   "n_obs": 528
+  },
+  {
+   "i": 388,
+   "asset": "MU",
+   "family": "intraday",
+   "t_start_ns": 39805198574499,
+   "t_end_ns": 41183442898246,
+   "n_obs": 528
+  },
+  {
+   "i": 389,
+   "asset": "MU",
+   "family": "intraday",
+   "t_start_ns": 41183442925617,
+   "t_end_ns": 42725575251382,
+   "n_obs": 528
+  },
+  {
+   "i": 390,
+   "asset": "MU",
+   "family": "intraday",
+   "t_start_ns": 42725576781397,
+   "t_end_ns": 44605387031738,
+   "n_obs": 528
+  },
+  {
+   "i": 391,
+   "asset": "MU",
+   "family": "intraday",
+   "t_start_ns": 44605487454853,
+   "t_end_ns": 46591175023709,
+   "n_obs": 528
+  },
+  {
+   "i": 392,
+   "asset": "MU",
+   "family": "intraday",
+   "t_start_ns": 46591268036072,
+   "t_end_ns": 48959963977665,
+   "n_obs": 528
+  },
+  {
+   "i": 393,
+   "asset": "MU",
+   "family": "intraday",
+   "t_start_ns": 48959965107379,
+   "t_end_ns": 51225529935561,
+   "n_obs": 528
+  },
+  {
+   "i": 394,
+   "asset": "MU",
+   "family": "intraday",
+   "t_start_ns": 51225531279638,
+   "t_end_ns": 52347070122898,
+   "n_obs": 528
+  },
+  {
+   "i": 395,
+   "asset": "MU",
+   "family": "intraday",
+   "t_start_ns": 52347630883757,
+   "t_end_ns": 53654968713611,
+   "n_obs": 528
+  },
+  {
+   "i": 396,
+   "asset": "MU",
+   "family": "intraday",
+   "t_start_ns": 53659920559334,
+   "t_end_ns": 55085515512961,
+   "n_obs": 528
+  },
+  {
+   "i": 397,
+   "asset": "MU",
+   "family": "intraday",
+   "t_start_ns": 55085515513458,
+   "t_end_ns": 56302736937609,
+   "n_obs": 528
+  },
+  {
+   "i": 398,
+   "asset": "MU",
+   "family": "intraday",
+   "t_start_ns": 56302736939202,
+   "t_end_ns": 57240315304257,
+   "n_obs": 528
+  },
+  {
+   "i": 399,
+   "asset": "MU",
+   "family": "intraday",
+   "t_start_ns": 57240315403808,
+   "t_end_ns": 57582396308609,
+   "n_obs": 528
+  },
+  {
+   "i": 400,
+   "asset": "NFLX",
+   "family": "intraday",
+   "t_start_ns": 34200424237407,
+   "t_end_ns": 34589289324034,
+   "n_obs": 528
+  },
+  {
+   "i": 401,
+   "asset": "NFLX",
+   "family": "intraday",
+   "t_start_ns": 34589289340081,
+   "t_end_ns": 35182568466913,
+   "n_obs": 528
+  },
+  {
+   "i": 402,
+   "asset": "NFLX",
+   "family": "intraday",
+   "t_start_ns": 35186663040967,
+   "t_end_ns": 35621503469342,
+   "n_obs": 528
+  },
+  {
+   "i": 403,
+   "asset": "NFLX",
+   "family": "intraday",
+   "t_start_ns": 35621536954006,
+   "t_end_ns": 36302575822845,
+   "n_obs": 528
+  },
+  {
+   "i": 404,
+   "asset": "NFLX",
+   "family": "intraday",
+   "t_start_ns": 36303576750161,
+   "t_end_ns": 37283408732033,
+   "n_obs": 528
+  },
+  {
+   "i": 405,
+   "asset": "NFLX",
+   "family": "intraday",
+   "t_start_ns": 37283408755550,
+   "t_end_ns": 38169229337102,
+   "n_obs": 528
+  },
+  {
+   "i": 406,
+   "asset": "NFLX",
+   "family": "intraday",
+   "t_start_ns": 38169229371989,
+   "t_end_ns": 39188039140177,
+   "n_obs": 528
+  },
+  {
+   "i": 407,
+   "asset": "NFLX",
+   "family": "intraday",
+   "t_start_ns": 39188039158781,
+   "t_end_ns": 40201344771851,
+   "n_obs": 528
+  },
+  {
+   "i": 408,
+   "asset": "NFLX",
+   "family": "intraday",
+   "t_start_ns": 40202259671727,
+   "t_end_ns": 41778391548850,
+   "n_obs": 528
+  },
+  {
+   "i": 409,
+   "asset": "NFLX",
+   "family": "intraday",
+   "t_start_ns": 41780638967021,
+   "t_end_ns": 42733706824708,
+   "n_obs": 528
+  },
+  {
+   "i": 410,
+   "asset": "NFLX",
+   "family": "intraday",
+   "t_start_ns": 42745534685642,
+   "t_end_ns": 44032409460464,
+   "n_obs": 528
+  },
+  {
+   "i": 411,
+   "asset": "NFLX",
+   "family": "intraday",
+   "t_start_ns": 44032409482865,
+   "t_end_ns": 45673465375980,
+   "n_obs": 528
+  },
+  {
+   "i": 412,
+   "asset": "NFLX",
+   "family": "intraday",
+   "t_start_ns": 45673466489466,
+   "t_end_ns": 47199453116194,
+   "n_obs": 528
+  },
+  {
+   "i": 413,
+   "asset": "NFLX",
+   "family": "intraday",
+   "t_start_ns": 47199453119754,
+   "t_end_ns": 49181391441674,
+   "n_obs": 528
+  },
+  {
+   "i": 414,
+   "asset": "NFLX",
+   "family": "intraday",
+   "t_start_ns": 49215034327868,
+   "t_end_ns": 51066198550895,
+   "n_obs": 528
+  },
+  {
+   "i": 415,
+   "asset": "NFLX",
+   "family": "intraday",
+   "t_start_ns": 51074815773914,
+   "t_end_ns": 52451610176422,
+   "n_obs": 528
+  },
+  {
+   "i": 416,
+   "asset": "NFLX",
+   "family": "intraday",
+   "t_start_ns": 52462358251468,
+   "t_end_ns": 53889049591983,
+   "n_obs": 528
+  },
+  {
+   "i": 417,
+   "asset": "NFLX",
+   "family": "intraday",
+   "t_start_ns": 53889060818470,
+   "t_end_ns": 55148806442148,
+   "n_obs": 528
+  },
+  {
+   "i": 418,
+   "asset": "NFLX",
+   "family": "intraday",
+   "t_start_ns": 55148813559993,
+   "t_end_ns": 56125331837193,
+   "n_obs": 528
+  },
+  {
+   "i": 419,
+   "asset": "NFLX",
+   "family": "intraday",
+   "t_start_ns": 56125364676648,
+   "t_end_ns": 57043079974598,
+   "n_obs": 528
+  },
+  {
+   "i": 420,
+   "asset": "NFLX",
+   "family": "intraday",
+   "t_start_ns": 57043119929883,
+   "t_end_ns": 57432034107119,
+   "n_obs": 528
+  },
+  {
+   "i": 421,
+   "asset": "NIO",
+   "family": "intraday",
+   "t_start_ns": 34200003769566,
+   "t_end_ns": 34310928768784,
+   "n_obs": 528
+  },
+  {
+   "i": 422,
+   "asset": "NIO",
+   "family": "intraday",
+   "t_start_ns": 34562897610913,
+   "t_end_ns": 34711575669865,
+   "n_obs": 528
+  },
+  {
+   "i": 423,
+   "asset": "NIO",
+   "family": "intraday",
+   "t_start_ns": 35200749011243,
+   "t_end_ns": 35603025590942,
+   "n_obs": 528
+  },
+  {
+   "i": 424,
+   "asset": "NIO",
+   "family": "intraday",
+   "t_start_ns": 36240100020099,
+   "t_end_ns": 36714177677665,
+   "n_obs": 528
+  },
+  {
+   "i": 425,
+   "asset": "NIO",
+   "family": "intraday",
+   "t_start_ns": 37566907622247,
+   "t_end_ns": 38113568159199,
+   "n_obs": 528
+  },
+  {
+   "i": 426,
+   "asset": "NIO",
+   "family": "intraday",
+   "t_start_ns": 39438868670033,
+   "t_end_ns": 40343465580226,
+   "n_obs": 528
+  },
+  {
+   "i": 427,
+   "asset": "NIO",
+   "family": "intraday",
+   "t_start_ns": 42331454815860,
+   "t_end_ns": 42866211436980,
+   "n_obs": 528
+  },
+  {
+   "i": 428,
+   "asset": "NIO",
+   "family": "intraday",
+   "t_start_ns": 43925262705321,
+   "t_end_ns": 44180058365037,
+   "n_obs": 528
+  },
+  {
+   "i": 429,
+   "asset": "NIO",
+   "family": "intraday",
+   "t_start_ns": 44574520833711,
+   "t_end_ns": 44904893168864,
+   "n_obs": 528
+  },
+  {
+   "i": 430,
+   "asset": "NIO",
+   "family": "intraday",
+   "t_start_ns": 45419965313980,
+   "t_end_ns": 45549471879255,
+   "n_obs": 528
+  },
+  {
+   "i": 431,
+   "asset": "NIO",
+   "family": "intraday",
+   "t_start_ns": 46222275689944,
+   "t_end_ns": 46628471188333,
+   "n_obs": 528
+  },
+  {
+   "i": 432,
+   "asset": "NIO",
+   "family": "intraday",
+   "t_start_ns": 47248968658498,
+   "t_end_ns": 47465787285705,
+   "n_obs": 528
+  },
+  {
+   "i": 433,
+   "asset": "NIO",
+   "family": "intraday",
+   "t_start_ns": 47644381567063,
+   "t_end_ns": 47697668309165,
+   "n_obs": 528
+  },
+  {
+   "i": 434,
+   "asset": "NIO",
+   "family": "intraday",
+   "t_start_ns": 47794211970270,
+   "t_end_ns": 47954662996379,
+   "n_obs": 528
+  },
+  {
+   "i": 435,
+   "asset": "NIO",
+   "family": "intraday",
+   "t_start_ns": 48267905800724,
+   "t_end_ns": 48354478780975,
+   "n_obs": 528
+  },
+  {
+   "i": 436,
+   "asset": "NIO",
+   "family": "intraday",
+   "t_start_ns": 48518628619581,
+   "t_end_ns": 48592967883767,
+   "n_obs": 528
+  },
+  {
+   "i": 437,
+   "asset": "NIO",
+   "family": "intraday",
+   "t_start_ns": 48966962524450,
+   "t_end_ns": 49184319938552,
+   "n_obs": 528
+  },
+  {
+   "i": 438,
+   "asset": "NIO",
+   "family": "intraday",
+   "t_start_ns": 49541274120487,
+   "t_end_ns": 50013532458583,
+   "n_obs": 528
+  },
+  {
+   "i": 439,
+   "asset": "NIO",
+   "family": "intraday",
+   "t_start_ns": 50624107058736,
+   "t_end_ns": 50888167444794,
+   "n_obs": 528
+  },
+  {
+   "i": 440,
+   "asset": "NIO",
+   "family": "intraday",
+   "t_start_ns": 51162711215270,
+   "t_end_ns": 51445782430758,
+   "n_obs": 528
+  },
+  {
+   "i": 441,
+   "asset": "NIO",
+   "family": "intraday",
+   "t_start_ns": 52084320748673,
+   "t_end_ns": 52467596389184,
+   "n_obs": 528
+  },
+  {
+   "i": 442,
+   "asset": "NIO",
+   "family": "intraday",
+   "t_start_ns": 53284569143015,
+   "t_end_ns": 53928698367037,
+   "n_obs": 528
+  },
+  {
+   "i": 443,
+   "asset": "NIO",
+   "family": "intraday",
+   "t_start_ns": 54575954299555,
+   "t_end_ns": 55009728319719,
+   "n_obs": 528
+  },
+  {
+   "i": 444,
+   "asset": "NIO",
+   "family": "intraday",
+   "t_start_ns": 55859712117122,
+   "t_end_ns": 56252245988103,
+   "n_obs": 528
+  },
+  {
+   "i": 445,
+   "asset": "NIO",
+   "family": "intraday",
+   "t_start_ns": 57185618922239,
+   "t_end_ns": 57596484347652,
+   "n_obs": 528
+  },
+  {
+   "i": 446,
+   "asset": "NUGT",
+   "family": "intraday",
+   "t_start_ns": 34200108576242,
+   "t_end_ns": 34726074933201,
+   "n_obs": 528
+  },
+  {
+   "i": 447,
+   "asset": "NUGT",
+   "family": "intraday",
+   "t_start_ns": 34726555521650,
+   "t_end_ns": 35029313004889,
+   "n_obs": 528
+  },
+  {
+   "i": 448,
+   "asset": "NUGT",
+   "family": "intraday",
+   "t_start_ns": 35029362000950,
+   "t_end_ns": 35395544966181,
+   "n_obs": 528
+  },
+  {
+   "i": 449,
+   "asset": "NUGT",
+   "family": "intraday",
+   "t_start_ns": 35395545278608,
+   "t_end_ns": 35890706570389,
+   "n_obs": 528
+  },
+  {
+   "i": 450,
+   "asset": "NUGT",
+   "family": "intraday",
+   "t_start_ns": 35891007923919,
+   "t_end_ns": 36269735573684,
+   "n_obs": 528
+  },
+  {
+   "i": 451,
+   "asset": "NUGT",
+   "family": "intraday",
+   "t_start_ns": 36270214291869,
+   "t_end_ns": 36662693594851,
+   "n_obs": 528
+  },
+  {
+   "i": 452,
+   "asset": "NUGT",
+   "family": "intraday",
+   "t_start_ns": 36663665270061,
+   "t_end_ns": 37015740130457,
+   "n_obs": 528
+  },
+  {
+   "i": 453,
+   "asset": "NUGT",
+   "family": "intraday",
+   "t_start_ns": 37018179467166,
+   "t_end_ns": 37503757090244,
+   "n_obs": 528
+  },
+  {
+   "i": 454,
+   "asset": "NUGT",
+   "family": "intraday",
+   "t_start_ns": 37503757915936,
+   "t_end_ns": 38051548314733,
+   "n_obs": 528
+  },
+  {
+   "i": 455,
+   "asset": "NUGT",
+   "family": "intraday",
+   "t_start_ns": 38051549079976,
+   "t_end_ns": 38507082864224,
+   "n_obs": 528
+  },
+  {
+   "i": 456,
+   "asset": "NUGT",
+   "family": "intraday",
+   "t_start_ns": 38508637789823,
+   "t_end_ns": 39152870342782,
+   "n_obs": 528
+  },
+  {
+   "i": 457,
+   "asset": "NUGT",
+   "family": "intraday",
+   "t_start_ns": 39154328007390,
+   "t_end_ns": 39671383459379,
+   "n_obs": 528
+  },
+  {
+   "i": 458,
+   "asset": "NUGT",
+   "family": "intraday",
+   "t_start_ns": 39684854902523,
+   "t_end_ns": 40634864025557,
+   "n_obs": 528
+  },
+  {
+   "i": 459,
+   "asset": "NUGT",
+   "family": "intraday",
+   "t_start_ns": 40636666093863,
+   "t_end_ns": 41730656268110,
+   "n_obs": 528
+  },
+  {
+   "i": 460,
+   "asset": "NUGT",
+   "family": "intraday",
+   "t_start_ns": 41735606853920,
+   "t_end_ns": 43384256793902,
+   "n_obs": 528
+  },
+  {
+   "i": 461,
+   "asset": "NUGT",
+   "family": "intraday",
+   "t_start_ns": 43384256800110,
+   "t_end_ns": 45280097247009,
+   "n_obs": 528
+  },
+  {
+   "i": 462,
+   "asset": "NUGT",
+   "family": "intraday",
+   "t_start_ns": 45282471871390,
+   "t_end_ns": 47733933467541,
+   "n_obs": 528
+  },
+  {
+   "i": 463,
+   "asset": "NUGT",
+   "family": "intraday",
+   "t_start_ns": 47736333344146,
+   "t_end_ns": 49714718112584,
+   "n_obs": 528
+  },
+  {
+   "i": 464,
+   "asset": "NUGT",
+   "family": "intraday",
+   "t_start_ns": 49716851220787,
+   "t_end_ns": 52083681181044,
+   "n_obs": 528
+  },
+  {
+   "i": 465,
+   "asset": "NUGT",
+   "family": "intraday",
+   "t_start_ns": 52083685168659,
+   "t_end_ns": 53696309995748,
+   "n_obs": 528
+  },
+  {
+   "i": 466,
+   "asset": "NUGT",
+   "family": "intraday",
+   "t_start_ns": 53696310409033,
+   "t_end_ns": 55266719830724,
+   "n_obs": 528
+  },
+  {
+   "i": 467,
+   "asset": "NUGT",
+   "family": "intraday",
+   "t_start_ns": 55282964687130,
+   "t_end_ns": 56512483151822,
+   "n_obs": 528
+  },
+  {
+   "i": 468,
+   "asset": "NUGT",
+   "family": "intraday",
+   "t_start_ns": 56512483175821,
+   "t_end_ns": 57405222025337,
+   "n_obs": 528
+  },
+  {
+   "i": 469,
+   "asset": "NVDA",
+   "family": "intraday",
+   "t_start_ns": 34200007638538,
+   "t_end_ns": 34455952708162,
+   "n_obs": 528
+  },
+  {
+   "i": 470,
+   "asset": "NVDA",
+   "family": "intraday",
+   "t_start_ns": 34455954329443,
+   "t_end_ns": 34662369765064,
+   "n_obs": 528
+  },
+  {
+   "i": 471,
+   "asset": "NVDA",
+   "family": "intraday",
+   "t_start_ns": 34662369832365,
+   "t_end_ns": 34991320652025,
+   "n_obs": 528
+  },
+  {
+   "i": 472,
+   "asset": "NVDA",
+   "family": "intraday",
+   "t_start_ns": 35289889398061,
+   "t_end_ns": 35655757665986,
+   "n_obs": 528
+  },
+  {
+   "i": 473,
+   "asset": "NVDA",
+   "family": "intraday",
+   "t_start_ns": 35655759027958,
+   "t_end_ns": 36145594663379,
+   "n_obs": 528
+  },
+  {
+   "i": 474,
+   "asset": "NVDA",
+   "family": "intraday",
+   "t_start_ns": 36148038243669,
+   "t_end_ns": 36794276340747,
+   "n_obs": 528
+  },
+  {
+   "i": 475,
+   "asset": "NVDA",
+   "family": "intraday",
+   "t_start_ns": 37233614358366,
+   "t_end_ns": 37795669000920,
+   "n_obs": 528
+  },
+  {
+   "i": 476,
+   "asset": "NVDA",
+   "family": "intraday",
+   "t_start_ns": 37795669036025,
+   "t_end_ns": 38471692147725,
+   "n_obs": 528
+  },
+  {
+   "i": 477,
+   "asset": "NVDA",
+   "family": "intraday",
+   "t_start_ns": 38471692154461,
+   "t_end_ns": 39206729128540,
+   "n_obs": 528
+  },
+  {
+   "i": 478,
+   "asset": "NVDA",
+   "family": "intraday",
+   "t_start_ns": 39206729155446,
+   "t_end_ns": 40021251471576,
+   "n_obs": 528
+  },
+  {
+   "i": 479,
+   "asset": "NVDA",
+   "family": "intraday",
+   "t_start_ns": 40021256798803,
+   "t_end_ns": 40762655149566,
+   "n_obs": 528
+  },
+  {
+   "i": 480,
+   "asset": "NVDA",
+   "family": "intraday",
+   "t_start_ns": 41652112029940,
+   "t_end_ns": 42912794414708,
+   "n_obs": 528
+  },
+  {
+   "i": 481,
+   "asset": "NVDA",
+   "family": "intraday",
+   "t_start_ns": 42914066323028,
+   "t_end_ns": 44055580641372,
+   "n_obs": 528
+  },
+  {
+   "i": 482,
+   "asset": "NVDA",
+   "family": "intraday",
+   "t_start_ns": 44055585412763,
+   "t_end_ns": 44836738178600,
+   "n_obs": 528
+  },
+  {
+   "i": 483,
+   "asset": "NVDA",
+   "family": "intraday",
+   "t_start_ns": 46170716565621,
+   "t_end_ns": 47413689672784,
+   "n_obs": 528
+  },
+  {
+   "i": 484,
+   "asset": "NVDA",
+   "family": "intraday",
+   "t_start_ns": 47413689722604,
+   "t_end_ns": 48587376477031,
+   "n_obs": 528
+  },
+  {
+   "i": 485,
+   "asset": "NVDA",
+   "family": "intraday",
+   "t_start_ns": 48588911892729,
+   "t_end_ns": 50331137043998,
+   "n_obs": 528
+  },
+  {
+   "i": 486,
+   "asset": "NVDA",
+   "family": "intraday",
+   "t_start_ns": 50331988079224,
+   "t_end_ns": 50854797503692,
+   "n_obs": 528
+  },
+  {
+   "i": 487,
+   "asset": "NVDA",
+   "family": "intraday",
+   "t_start_ns": 50863005881673,
+   "t_end_ns": 51917169471520,
+   "n_obs": 528
+  },
+  {
+   "i": 488,
+   "asset": "NVDA",
+   "family": "intraday",
+   "t_start_ns": 52923214346339,
+   "t_end_ns": 54133027875289,
+   "n_obs": 528
+  },
+  {
+   "i": 489,
+   "asset": "NVDA",
+   "family": "intraday",
+   "t_start_ns": 54143262969183,
+   "t_end_ns": 55271940517680,
+   "n_obs": 528
+  },
+  {
+   "i": 490,
+   "asset": "NVDA",
+   "family": "intraday",
+   "t_start_ns": 55277198907377,
+   "t_end_ns": 56082943535271,
+   "n_obs": 528
+  },
+  {
+   "i": 491,
+   "asset": "NVDA",
+   "family": "intraday",
+   "t_start_ns": 56784466063514,
+   "t_end_ns": 57214724907416,
+   "n_obs": 528
+  },
+  {
+   "i": 492,
+   "asset": "NVDA",
+   "family": "intraday",
+   "t_start_ns": 57216107747262,
+   "t_end_ns": 57450939247649,
+   "n_obs": 528
+  },
+  {
+   "i": 493,
+   "asset": "NVDA",
+   "family": "intraday",
+   "t_start_ns": 57451203286413,
+   "t_end_ns": 57596600326360,
+   "n_obs": 528
+  },
+  {
+   "i": 494,
+   "asset": "PYPL",
+   "family": "intraday",
+   "t_start_ns": 34200220388576,
+   "t_end_ns": 34814051081339,
+   "n_obs": 528
+  },
+  {
+   "i": 495,
+   "asset": "PYPL",
+   "family": "intraday",
+   "t_start_ns": 34814051095133,
+   "t_end_ns": 35346269995023,
+   "n_obs": 528
+  },
+  {
+   "i": 496,
+   "asset": "PYPL",
+   "family": "intraday",
+   "t_start_ns": 35346359710300,
+   "t_end_ns": 36092472292607,
+   "n_obs": 528
+  },
+  {
+   "i": 497,
+   "asset": "PYPL",
+   "family": "intraday",
+   "t_start_ns": 36093273418487,
+   "t_end_ns": 37503503967156,
+   "n_obs": 528
+  },
+  {
+   "i": 498,
+   "asset": "PYPL",
+   "family": "intraday",
+   "t_start_ns": 37504150986385,
+   "t_end_ns": 39716305598357,
+   "n_obs": 528
+  },
+  {
+   "i": 499,
+   "asset": "PYPL",
+   "family": "intraday",
+   "t_start_ns": 39748919012841,
+   "t_end_ns": 41946722308916,
+   "n_obs": 528
+  },
+  {
+   "i": 500,
+   "asset": "PYPL",
+   "family": "intraday",
+   "t_start_ns": 41946777084995,
+   "t_end_ns": 43826405909941,
+   "n_obs": 528
+  },
+  {
+   "i": 501,
+   "asset": "PYPL",
+   "family": "intraday",
+   "t_start_ns": 43826706862284,
+   "t_end_ns": 46581730330155,
+   "n_obs": 528
+  },
+  {
+   "i": 502,
+   "asset": "PYPL",
+   "family": "intraday",
+   "t_start_ns": 46594799239155,
+   "t_end_ns": 49047797765748,
+   "n_obs": 528
+  },
+  {
+   "i": 503,
+   "asset": "PYPL",
+   "family": "intraday",
+   "t_start_ns": 49075180871666,
+   "t_end_ns": 51151783008326,
+   "n_obs": 528
+  },
+  {
+   "i": 504,
+   "asset": "PYPL",
+   "family": "intraday",
+   "t_start_ns": 51151783686966,
+   "t_end_ns": 53238512470864,
+   "n_obs": 528
+  },
+  {
+   "i": 505,
+   "asset": "PYPL",
+   "family": "intraday",
+   "t_start_ns": 53238560900198,
+   "t_end_ns": 54947209422930,
+   "n_obs": 528
+  },
+  {
+   "i": 506,
+   "asset": "PYPL",
+   "family": "intraday",
+   "t_start_ns": 54947209473754,
+   "t_end_ns": 56647154860441,
+   "n_obs": 528
+  },
+  {
+   "i": 507,
+   "asset": "PYPL",
+   "family": "intraday",
+   "t_start_ns": 56647154885888,
+   "t_end_ns": 57315586604660,
+   "n_obs": 528
+  },
+  {
+   "i": 508,
+   "asset": "PYPL",
+   "family": "intraday",
+   "t_start_ns": 57315586703794,
+   "t_end_ns": 57599009449196,
+   "n_obs": 528
+  },
+  {
+   "i": 509,
+   "asset": "QCOM",
+   "family": "intraday",
+   "t_start_ns": 34200010782062,
+   "t_end_ns": 34841348347320,
+   "n_obs": 528
+  },
+  {
+   "i": 510,
+   "asset": "QCOM",
+   "family": "intraday",
+   "t_start_ns": 34848038610814,
+   "t_end_ns": 35104273557108,
+   "n_obs": 528
+  },
+  {
+   "i": 511,
+   "asset": "QCOM",
+   "family": "intraday",
+   "t_start_ns": 35104273583414,
+   "t_end_ns": 35537042943657,
+   "n_obs": 528
+  },
+  {
+   "i": 512,
+   "asset": "QCOM",
+   "family": "intraday",
+   "t_start_ns": 35537043236368,
+   "t_end_ns": 36085210754383,
+   "n_obs": 528
+  },
+  {
+   "i": 513,
+   "asset": "QCOM",
+   "family": "intraday",
+   "t_start_ns": 36085522854980,
+   "t_end_ns": 36816051486556,
+   "n_obs": 528
+  },
+  {
+   "i": 514,
+   "asset": "QCOM",
+   "family": "intraday",
+   "t_start_ns": 36816055760508,
+   "t_end_ns": 37677194364874,
+   "n_obs": 528
+  },
+  {
+   "i": 515,
+   "asset": "QCOM",
+   "family": "intraday",
+   "t_start_ns": 37677194376250,
+   "t_end_ns": 38593521881320,
+   "n_obs": 528
+  },
+  {
+   "i": 516,
+   "asset": "QCOM",
+   "family": "intraday",
+   "t_start_ns": 38593522084735,
+   "t_end_ns": 39388528379526,
+   "n_obs": 528
+  },
+  {
+   "i": 517,
+   "asset": "QCOM",
+   "family": "intraday",
+   "t_start_ns": 39388528471683,
+   "t_end_ns": 40089558154104,
+   "n_obs": 528
+  },
+  {
+   "i": 518,
+   "asset": "QCOM",
+   "family": "intraday",
+   "t_start_ns": 40090705973777,
+   "t_end_ns": 41571037773255,
+   "n_obs": 528
+  },
+  {
+   "i": 519,
+   "asset": "QCOM",
+   "family": "intraday",
+   "t_start_ns": 41572970550762,
+   "t_end_ns": 43793865828791,
+   "n_obs": 528
+  },
+  {
+   "i": 520,
+   "asset": "QCOM",
+   "family": "intraday",
+   "t_start_ns": 43793865980475,
+   "t_end_ns": 45179570645122,
+   "n_obs": 528
+  },
+  {
+   "i": 521,
+   "asset": "QCOM",
+   "family": "intraday",
+   "t_start_ns": 45179570835883,
+   "t_end_ns": 47193689832660,
+   "n_obs": 528
+  },
+  {
+   "i": 522,
+   "asset": "QCOM",
+   "family": "intraday",
+   "t_start_ns": 47194027720697,
+   "t_end_ns": 49684235908306,
+   "n_obs": 528
+  },
+  {
+   "i": 523,
+   "asset": "QCOM",
+   "family": "intraday",
+   "t_start_ns": 49684241400971,
+   "t_end_ns": 51866347077209,
+   "n_obs": 528
+  },
+  {
+   "i": 524,
+   "asset": "QCOM",
+   "family": "intraday",
+   "t_start_ns": 51866878722961,
+   "t_end_ns": 53766909161582,
+   "n_obs": 528
+  },
+  {
+   "i": 525,
+   "asset": "QCOM",
+   "family": "intraday",
+   "t_start_ns": 53773242549175,
+   "t_end_ns": 55172245842752,
+   "n_obs": 528
+  },
+  {
+   "i": 526,
+   "asset": "QCOM",
+   "family": "intraday",
+   "t_start_ns": 55172245843257,
+   "t_end_ns": 56701359754798,
+   "n_obs": 528
+  },
+  {
+   "i": 527,
+   "asset": "QCOM",
+   "family": "intraday",
+   "t_start_ns": 56703180088309,
+   "t_end_ns": 57393465447628,
+   "n_obs": 528
+  },
+  {
+   "i": 528,
+   "asset": "QQQ",
+   "family": "intraday",
+   "t_start_ns": 34200184812955,
+   "t_end_ns": 34466973091541,
+   "n_obs": 528
+  },
+  {
+   "i": 529,
+   "asset": "QQQ",
+   "family": "intraday",
+   "t_start_ns": 34467208244967,
+   "t_end_ns": 34716860406359,
+   "n_obs": 528
+  },
+  {
+   "i": 530,
+   "asset": "QQQ",
+   "family": "intraday",
+   "t_start_ns": 34717489263584,
+   "t_end_ns": 35045317208511,
+   "n_obs": 528
+  },
+  {
+   "i": 531,
+   "asset": "QQQ",
+   "family": "intraday",
+   "t_start_ns": 35343899160818,
+   "t_end_ns": 35568594655692,
+   "n_obs": 528
+  },
+  {
+   "i": 532,
+   "asset": "QQQ",
+   "family": "intraday",
+   "t_start_ns": 35568594656640,
+   "t_end_ns": 35977099921200,
+   "n_obs": 528
+  },
+  {
+   "i": 533,
+   "asset": "QQQ",
+   "family": "intraday",
+   "t_start_ns": 35979002197113,
+   "t_end_ns": 36308250192634,
+   "n_obs": 528
+  },
+  {
+   "i": 534,
+   "asset": "QQQ",
+   "family": "intraday",
+   "t_start_ns": 36308250272648,
+   "t_end_ns": 36697723934954,
+   "n_obs": 528
+  },
+  {
+   "i": 535,
+   "asset": "QQQ",
+   "family": "intraday",
+   "t_start_ns": 36698757303704,
+   "t_end_ns": 36891746160828,
+   "n_obs": 528
+  },
+  {
+   "i": 536,
+   "asset": "QQQ",
+   "family": "intraday",
+   "t_start_ns": 36892432635301,
+   "t_end_ns": 37250334248401,
+   "n_obs": 528
+  },
+  {
+   "i": 537,
+   "asset": "QQQ",
+   "family": "intraday",
+   "t_start_ns": 37251208241098,
+   "t_end_ns": 37795142918111,
+   "n_obs": 528
+  },
+  {
+   "i": 538,
+   "asset": "QQQ",
+   "family": "intraday",
+   "t_start_ns": 38436884696534,
+   "t_end_ns": 39099064475396,
+   "n_obs": 528
+  },
+  {
+   "i": 539,
+   "asset": "QQQ",
+   "family": "intraday",
+   "t_start_ns": 39099064479312,
+   "t_end_ns": 39972840499214,
+   "n_obs": 528
+  },
+  {
+   "i": 540,
+   "asset": "QQQ",
+   "family": "intraday",
+   "t_start_ns": 39972840519313,
+   "t_end_ns": 40889504222353,
+   "n_obs": 528
+  },
+  {
+   "i": 541,
+   "asset": "QQQ",
+   "family": "intraday",
+   "t_start_ns": 40889731686549,
+   "t_end_ns": 41793826030724,
+   "n_obs": 528
+  },
+  {
+   "i": 542,
+   "asset": "QQQ",
+   "family": "intraday",
+   "t_start_ns": 41799319559526,
+   "t_end_ns": 43030744092917,
+   "n_obs": 528
+  },
+  {
+   "i": 543,
+   "asset": "QQQ",
+   "family": "intraday",
+   "t_start_ns": 44104934426900,
+   "t_end_ns": 45297300638542,
+   "n_obs": 528
+  },
+  {
+   "i": 544,
+   "asset": "QQQ",
+   "family": "intraday",
+   "t_start_ns": 45297300649337,
+   "t_end_ns": 46868235734644,
+   "n_obs": 528
+  },
+  {
+   "i": 545,
+   "asset": "QQQ",
+   "family": "intraday",
+   "t_start_ns": 46871193196119,
+   "t_end_ns": 48051881714884,
+   "n_obs": 528
+  },
+  {
+   "i": 546,
+   "asset": "QQQ",
+   "family": "intraday",
+   "t_start_ns": 48059520428185,
+   "t_end_ns": 49668254022836,
+   "n_obs": 528
+  },
+  {
+   "i": 547,
+   "asset": "QQQ",
+   "family": "intraday",
+   "t_start_ns": 49668254142077,
+   "t_end_ns": 50616476076929,
+   "n_obs": 528
+  },
+  {
+   "i": 548,
+   "asset": "QQQ",
+   "family": "intraday",
+   "t_start_ns": 50616477563014,
+   "t_end_ns": 52198017721554,
+   "n_obs": 528
+  },
+  {
+   "i": 549,
+   "asset": "QQQ",
+   "family": "intraday",
+   "t_start_ns": 52198017903691,
+   "t_end_ns": 53672662763182,
+   "n_obs": 528
+  },
+  {
+   "i": 550,
+   "asset": "QQQ",
+   "family": "intraday",
+   "t_start_ns": 54925357324965,
+   "t_end_ns": 56036530453132,
+   "n_obs": 528
+  },
+  {
+   "i": 551,
+   "asset": "QQQ",
+   "family": "intraday",
+   "t_start_ns": 56037706864152,
+   "t_end_ns": 56926502168067,
+   "n_obs": 528
+  },
+  {
+   "i": 552,
+   "asset": "QQQ",
+   "family": "intraday",
+   "t_start_ns": 56927999624914,
+   "t_end_ns": 57397284103237,
+   "n_obs": 528
+  },
+  {
+   "i": 553,
+   "asset": "RAD",
+   "family": "intraday",
+   "t_start_ns": 34200284280478,
+   "t_end_ns": 34334337578448,
+   "n_obs": 528
+  },
+  {
+   "i": 554,
+   "asset": "RAD",
+   "family": "intraday",
+   "t_start_ns": 34334337660809,
+   "t_end_ns": 34524048217460,
+   "n_obs": 528
+  },
+  {
+   "i": 555,
+   "asset": "RAD",
+   "family": "intraday",
+   "t_start_ns": 34524048224271,
+   "t_end_ns": 34758000101890,
+   "n_obs": 528
+  },
+  {
+   "i": 556,
+   "asset": "RAD",
+   "family": "intraday",
+   "t_start_ns": 34759316430925,
+   "t_end_ns": 35111982933361,
+   "n_obs": 528
+  },
+  {
+   "i": 557,
+   "asset": "RAD",
+   "family": "intraday",
+   "t_start_ns": 35111983002062,
+   "t_end_ns": 35540008267382,
+   "n_obs": 528
+  },
+  {
+   "i": 558,
+   "asset": "RAD",
+   "family": "intraday",
+   "t_start_ns": 35541000835501,
+   "t_end_ns": 36509716103671,
+   "n_obs": 528
+  },
+  {
+   "i": 559,
+   "asset": "RAD",
+   "family": "intraday",
+   "t_start_ns": 36511578830047,
+   "t_end_ns": 37624189942926,
+   "n_obs": 528
+  },
+  {
+   "i": 560,
+   "asset": "RAD",
+   "family": "intraday",
+   "t_start_ns": 37624192846463,
+   "t_end_ns": 38800151416932,
+   "n_obs": 528
+  },
+  {
+   "i": 561,
+   "asset": "RAD",
+   "family": "intraday",
+   "t_start_ns": 38800172264920,
+   "t_end_ns": 39647870820973,
+   "n_obs": 528
+  },
+  {
+   "i": 562,
+   "asset": "RAD",
+   "family": "intraday",
+   "t_start_ns": 39647870843783,
+   "t_end_ns": 40650105982824,
+   "n_obs": 528
+  },
+  {
+   "i": 563,
+   "asset": "RAD",
+   "family": "intraday",
+   "t_start_ns": 40650106329254,
+   "t_end_ns": 42029293037752,
+   "n_obs": 528
+  },
+  {
+   "i": 564,
+   "asset": "RAD",
+   "family": "intraday",
+   "t_start_ns": 42029294432948,
+   "t_end_ns": 43981400048690,
+   "n_obs": 528
+  },
+  {
+   "i": 565,
+   "asset": "RAD",
+   "family": "intraday",
+   "t_start_ns": 43981400083560,
+   "t_end_ns": 47556039363304,
+   "n_obs": 528
+  },
+  {
+   "i": 566,
+   "asset": "RAD",
+   "family": "intraday",
+   "t_start_ns": 47556039677864,
+   "t_end_ns": 50916704833286,
+   "n_obs": 528
+  },
+  {
+   "i": 567,
+   "asset": "RAD",
+   "family": "intraday",
+   "t_start_ns": 50927573146134,
+   "t_end_ns": 54188397604382,
+   "n_obs": 528
+  },
+  {
+   "i": 568,
+   "asset": "RAD",
+   "family": "intraday",
+   "t_start_ns": 54188586807777,
+   "t_end_ns": 56097719705010,
+   "n_obs": 528
+  },
+  {
+   "i": 569,
+   "asset": "RAD",
+   "family": "intraday",
+   "t_start_ns": 56097719736338,
+   "t_end_ns": 57277382907182,
+   "n_obs": 528
+  },
+  {
+   "i": 570,
+   "asset": "ROKU",
+   "family": "intraday",
+   "t_start_ns": 34200000697235,
+   "t_end_ns": 34452843556494,
+   "n_obs": 528
+  },
+  {
+   "i": 571,
+   "asset": "ROKU",
+   "family": "intraday",
+   "t_start_ns": 34452846772735,
+   "t_end_ns": 34646171478362,
+   "n_obs": 528
+  },
+  {
+   "i": 572,
+   "asset": "ROKU",
+   "family": "intraday",
+   "t_start_ns": 34878836127480,
+   "t_end_ns": 35081439385625,
+   "n_obs": 528
+  },
+  {
+   "i": 573,
+   "asset": "ROKU",
+   "family": "intraday",
+   "t_start_ns": 35082741278516,
+   "t_end_ns": 35281652512341,
+   "n_obs": 528
+  },
+  {
+   "i": 574,
+   "asset": "ROKU",
+   "family": "intraday",
+   "t_start_ns": 35449942622366,
+   "t_end_ns": 35669682612066,
+   "n_obs": 528
+  },
+  {
+   "i": 575,
+   "asset": "ROKU",
+   "family": "intraday",
+   "t_start_ns": 35669682671382,
+   "t_end_ns": 35971419332790,
+   "n_obs": 528
+  },
+  {
+   "i": 576,
+   "asset": "ROKU",
+   "family": "intraday",
+   "t_start_ns": 35971419351310,
+   "t_end_ns": 36153748446175,
+   "n_obs": 528
+  },
+  {
+   "i": 577,
+   "asset": "ROKU",
+   "family": "intraday",
+   "t_start_ns": 36466506762303,
+   "t_end_ns": 36848374378797,
+   "n_obs": 528
+  },
+  {
+   "i": 578,
+   "asset": "ROKU",
+   "family": "intraday",
+   "t_start_ns": 36848868275510,
+   "t_end_ns": 37657528672639,
+   "n_obs": 528
+  },
+  {
+   "i": 579,
+   "asset": "ROKU",
+   "family": "intraday",
+   "t_start_ns": 38658839329816,
+   "t_end_ns": 39047696818193,
+   "n_obs": 528
+  },
+  {
+   "i": 580,
+   "asset": "ROKU",
+   "family": "intraday",
+   "t_start_ns": 39047698037712,
+   "t_end_ns": 39708747669570,
+   "n_obs": 528
+  },
+  {
+   "i": 581,
+   "asset": "ROKU",
+   "family": "intraday",
+   "t_start_ns": 40109559064256,
+   "t_end_ns": 41017515681206,
+   "n_obs": 528
+  },
+  {
+   "i": 582,
+   "asset": "ROKU",
+   "family": "intraday",
+   "t_start_ns": 41018610296737,
+   "t_end_ns": 42134246153567,
+   "n_obs": 528
+  },
+  {
+   "i": 583,
+   "asset": "ROKU",
+   "family": "intraday",
+   "t_start_ns": 42134246176426,
+   "t_end_ns": 43458566841144,
+   "n_obs": 528
+  },
+  {
+   "i": 584,
+   "asset": "ROKU",
+   "family": "intraday",
+   "t_start_ns": 44348604780262,
+   "t_end_ns": 44625174236737,
+   "n_obs": 528
+  },
+  {
+   "i": 585,
+   "asset": "ROKU",
+   "family": "intraday",
+   "t_start_ns": 44625175052256,
+   "t_end_ns": 45087853323248,
+   "n_obs": 528
+  },
+  {
+   "i": 586,
+   "asset": "ROKU",
+   "family": "intraday",
+   "t_start_ns": 45910190523778,
+   "t_end_ns": 47049609373909,
+   "n_obs": 528
+  },
+  {
+   "i": 587,
+   "asset": "ROKU",
+   "family": "intraday",
+   "t_start_ns": 47049609452792,
+   "t_end_ns": 48379581806132,
+   "n_obs": 528
+  },
+  {
+   "i": 588,
+   "asset": "ROKU",
+   "family": "intraday",
+   "t_start_ns": 49067970895161,
+   "t_end_ns": 49829757847694,
+   "n_obs": 528
+  },
+  {
+   "i": 589,
+   "asset": "ROKU",
+   "family": "intraday",
+   "t_start_ns": 49829759158615,
+   "t_end_ns": 51127035689510,
+   "n_obs": 528
+  },
+  {
+   "i": 590,
+   "asset": "ROKU",
+   "family": "intraday",
+   "t_start_ns": 51127035714802,
+   "t_end_ns": 52321619077444,
+   "n_obs": 528
+  },
+  {
+   "i": 591,
+   "asset": "ROKU",
+   "family": "intraday",
+   "t_start_ns": 53171706664533,
+   "t_end_ns": 54243126770470,
+   "n_obs": 528
+  },
+  {
+   "i": 592,
+   "asset": "ROKU",
+   "family": "intraday",
+   "t_start_ns": 54244659785813,
+   "t_end_ns": 55317643734628,
+   "n_obs": 528
+  },
+  {
+   "i": 593,
+   "asset": "ROKU",
+   "family": "intraday",
+   "t_start_ns": 56345822241603,
+   "t_end_ns": 57052278320703,
+   "n_obs": 528
+  },
+  {
+   "i": 594,
+   "asset": "ROKU",
+   "family": "intraday",
+   "t_start_ns": 57052288760225,
+   "t_end_ns": 57454514600104,
+   "n_obs": 528
+  },
+  {
+   "i": 595,
+   "asset": "SAVA",
+   "family": "intraday",
+   "t_start_ns": 34201079589023,
+   "t_end_ns": 34500011381700,
+   "n_obs": 528
+  },
+  {
+   "i": 596,
+   "asset": "SAVA",
+   "family": "intraday",
+   "t_start_ns": 34500209237040,
+   "t_end_ns": 34674628257153,
+   "n_obs": 528
+  },
+  {
+   "i": 597,
+   "asset": "SAVA",
+   "family": "intraday",
+   "t_start_ns": 34674931582825,
+   "t_end_ns": 34847958142074,
+   "n_obs": 528
+  },
+  {
+   "i": 598,
+   "asset": "SAVA",
+   "family": "intraday",
+   "t_start_ns": 34848051980467,
+   "t_end_ns": 35161956179603,
+   "n_obs": 528
+  },
+  {
+   "i": 599,
+   "asset": "SAVA",
+   "family": "intraday",
+   "t_start_ns": 35162059422714,
+   "t_end_ns": 35577580952213,
+   "n_obs": 528
+  },
+  {
+   "i": 600,
+   "asset": "SAVA",
+   "family": "intraday",
+   "t_start_ns": 35577581433659,
+   "t_end_ns": 35791010435225,
+   "n_obs": 528
+  },
+  {
+   "i": 601,
+   "asset": "SAVA",
+   "family": "intraday",
+   "t_start_ns": 35791745620738,
+   "t_end_ns": 36284125854502,
+   "n_obs": 528
+  },
+  {
+   "i": 602,
+   "asset": "SAVA",
+   "family": "intraday",
+   "t_start_ns": 36286607406931,
+   "t_end_ns": 36776580439352,
+   "n_obs": 528
+  },
+  {
+   "i": 603,
+   "asset": "SAVA",
+   "family": "intraday",
+   "t_start_ns": 36776663860811,
+   "t_end_ns": 37771590514745,
+   "n_obs": 528
+  },
+  {
+   "i": 604,
+   "asset": "SAVA",
+   "family": "intraday",
+   "t_start_ns": 37771599232736,
+   "t_end_ns": 38830879024811,
+   "n_obs": 528
+  },
+  {
+   "i": 605,
+   "asset": "SAVA",
+   "family": "intraday",
+   "t_start_ns": 38830882098393,
+   "t_end_ns": 40605886896753,
+   "n_obs": 528
+  },
+  {
+   "i": 606,
+   "asset": "SAVA",
+   "family": "intraday",
+   "t_start_ns": 40605887518046,
+   "t_end_ns": 43105684188292,
+   "n_obs": 528
+  },
+  {
+   "i": 607,
+   "asset": "SAVA",
+   "family": "intraday",
+   "t_start_ns": 43145835144634,
+   "t_end_ns": 46287857781406,
+   "n_obs": 528
+  },
+  {
+   "i": 608,
+   "asset": "SAVA",
+   "family": "intraday",
+   "t_start_ns": 46288110092298,
+   "t_end_ns": 54337735712231,
+   "n_obs": 528
+  },
+  {
+   "i": 609,
+   "asset": "SAVA",
+   "family": "intraday",
+   "t_start_ns": 54342090749936,
+   "t_end_ns": 57288393371056,
+   "n_obs": 528
+  },
+  {
+   "i": 610,
+   "asset": "SBUX",
+   "family": "intraday",
+   "t_start_ns": 34200849797042,
+   "t_end_ns": 35067391002003,
+   "n_obs": 528
+  },
+  {
+   "i": 611,
+   "asset": "SBUX",
+   "family": "intraday",
+   "t_start_ns": 35072420111990,
+   "t_end_ns": 35714900588162,
+   "n_obs": 528
+  },
+  {
+   "i": 612,
+   "asset": "SBUX",
+   "family": "intraday",
+   "t_start_ns": 35715226209267,
+   "t_end_ns": 36468996958234,
+   "n_obs": 528
+  },
+  {
+   "i": 613,
+   "asset": "SBUX",
+   "family": "intraday",
+   "t_start_ns": 36469125059567,
+   "t_end_ns": 37333039439760,
+   "n_obs": 528
+  },
+  {
+   "i": 614,
+   "asset": "SBUX",
+   "family": "intraday",
+   "t_start_ns": 37336416652346,
+   "t_end_ns": 38615101290989,
+   "n_obs": 528
+  },
+  {
+   "i": 615,
+   "asset": "SBUX",
+   "family": "intraday",
+   "t_start_ns": 38619587932976,
+   "t_end_ns": 40249304203962,
+   "n_obs": 528
+  },
+  {
+   "i": 616,
+   "asset": "SBUX",
+   "family": "intraday",
+   "t_start_ns": 40250127377874,
+   "t_end_ns": 42375697139402,
+   "n_obs": 528
+  },
+  {
+   "i": 617,
+   "asset": "SBUX",
+   "family": "intraday",
+   "t_start_ns": 42415614727431,
+   "t_end_ns": 44974780445642,
+   "n_obs": 528
+  },
+  {
+   "i": 618,
+   "asset": "SBUX",
+   "family": "intraday",
+   "t_start_ns": 44974780448245,
+   "t_end_ns": 48348895761228,
+   "n_obs": 528
+  },
+  {
+   "i": 619,
+   "asset": "SBUX",
+   "family": "intraday",
+   "t_start_ns": 48348895767873,
+   "t_end_ns": 51427728427730,
+   "n_obs": 528
+  },
+  {
+   "i": 620,
+   "asset": "SBUX",
+   "family": "intraday",
+   "t_start_ns": 51427728544064,
+   "t_end_ns": 54194172333498,
+   "n_obs": 528
+  },
+  {
+   "i": 621,
+   "asset": "SBUX",
+   "family": "intraday",
+   "t_start_ns": 54194197543088,
+   "t_end_ns": 56394399496348,
+   "n_obs": 528
+  },
+  {
+   "i": 622,
+   "asset": "SBUX",
+   "family": "intraday",
+   "t_start_ns": 56394399959963,
+   "t_end_ns": 57437652580283,
+   "n_obs": 528
+  },
+  {
+   "i": 623,
+   "asset": "SPY",
+   "family": "intraday",
+   "t_start_ns": 34200002289858,
+   "t_end_ns": 34407425008587,
+   "n_obs": 528
+  },
+  {
+   "i": 624,
+   "asset": "SPY",
+   "family": "intraday",
+   "t_start_ns": 34579622241921,
+   "t_end_ns": 34720685063015,
+   "n_obs": 528
+  },
+  {
+   "i": 625,
+   "asset": "SPY",
+   "family": "intraday",
+   "t_start_ns": 34906529164229,
+   "t_end_ns": 35109338646493,
+   "n_obs": 528
+  },
+  {
+   "i": 626,
+   "asset": "SPY",
+   "family": "intraday",
+   "t_start_ns": 35275681203497,
+   "t_end_ns": 35469574743728,
+   "n_obs": 528
+  },
+  {
+   "i": 627,
+   "asset": "SPY",
+   "family": "intraday",
+   "t_start_ns": 35755951939779,
+   "t_end_ns": 36042934989206,
+   "n_obs": 528
+  },
+  {
+   "i": 628,
+   "asset": "SPY",
+   "family": "intraday",
+   "t_start_ns": 36668926082874,
+   "t_end_ns": 36816074584177,
+   "n_obs": 528
+  },
+  {
+   "i": 629,
+   "asset": "SPY",
+   "family": "intraday",
+   "t_start_ns": 36938565731007,
+   "t_end_ns": 37083076618611,
+   "n_obs": 528
+  },
+  {
+   "i": 630,
+   "asset": "SPY",
+   "family": "intraday",
+   "t_start_ns": 37354130110859,
+   "t_end_ns": 37673976952008,
+   "n_obs": 528
+  },
+  {
+   "i": 631,
+   "asset": "SPY",
+   "family": "intraday",
+   "t_start_ns": 37976023242600,
+   "t_end_ns": 38266480845851,
+   "n_obs": 528
+  },
+  {
+   "i": 632,
+   "asset": "SPY",
+   "family": "intraday",
+   "t_start_ns": 38591529258989,
+   "t_end_ns": 39124270314798,
+   "n_obs": 528
+  },
+  {
+   "i": 633,
+   "asset": "SPY",
+   "family": "intraday",
+   "t_start_ns": 39579469594684,
+   "t_end_ns": 39951861396369,
+   "n_obs": 528
+  },
+  {
+   "i": 634,
+   "asset": "SPY",
+   "family": "intraday",
+   "t_start_ns": 40291642872991,
+   "t_end_ns": 40822028638930,
+   "n_obs": 528
+  },
+  {
+   "i": 635,
+   "asset": "SPY",
+   "family": "intraday",
+   "t_start_ns": 41934289021618,
+   "t_end_ns": 42349173552125,
+   "n_obs": 528
+  },
+  {
+   "i": 636,
+   "asset": "SPY",
+   "family": "intraday",
+   "t_start_ns": 42965775813464,
+   "t_end_ns": 43649921654127,
+   "n_obs": 528
+  },
+  {
+   "i": 637,
+   "asset": "SPY",
+   "family": "intraday",
+   "t_start_ns": 44150698337961,
+   "t_end_ns": 44863356293906,
+   "n_obs": 528
+  },
+  {
+   "i": 638,
+   "asset": "SPY",
+   "family": "intraday",
+   "t_start_ns": 45665930794151,
+   "t_end_ns": 46599226450268,
+   "n_obs": 528
+  },
+  {
+   "i": 639,
+   "asset": "SPY",
+   "family": "intraday",
+   "t_start_ns": 47199953428337,
+   "t_end_ns": 48050704972409,
+   "n_obs": 528
+  },
+  {
+   "i": 640,
+   "asset": "SPY",
+   "family": "intraday",
+   "t_start_ns": 49068057654548,
+   "t_end_ns": 50098319521253,
+   "n_obs": 528
+  },
+  {
+   "i": 641,
+   "asset": "SPY",
+   "family": "intraday",
+   "t_start_ns": 50616472297547,
+   "t_end_ns": 51287296950417,
+   "n_obs": 528
+  },
+  {
+   "i": 642,
+   "asset": "SPY",
+   "family": "intraday",
+   "t_start_ns": 52170156654077,
+   "t_end_ns": 52785699236949,
+   "n_obs": 528
+  },
+  {
+   "i": 643,
+   "asset": "SPY",
+   "family": "intraday",
+   "t_start_ns": 53560368259058,
+   "t_end_ns": 54256964658143,
+   "n_obs": 528
+  },
+  {
+   "i": 644,
+   "asset": "SPY",
+   "family": "intraday",
+   "t_start_ns": 55522310365242,
+   "t_end_ns": 56127881678290,
+   "n_obs": 528
+  },
+  {
+   "i": 645,
+   "asset": "SPY",
+   "family": "intraday",
+   "t_start_ns": 56581078964589,
+   "t_end_ns": 56901409722685,
+   "n_obs": 528
+  },
+  {
+   "i": 646,
+   "asset": "SPY",
+   "family": "intraday",
+   "t_start_ns": 57106468691381,
+   "t_end_ns": 57327293770060,
+   "n_obs": 528
+  },
+  {
+   "i": 647,
+   "asset": "SPY",
+   "family": "intraday",
+   "t_start_ns": 57528904461061,
+   "t_end_ns": 57585014705614,
+   "n_obs": 528
+  },
+  {
+   "i": 648,
+   "asset": "SVRA",
+   "family": "intraday",
+   "t_start_ns": 34201042449820,
+   "t_end_ns": 34227717296236,
+   "n_obs": 528
+  },
+  {
+   "i": 649,
+   "asset": "SVRA",
+   "family": "intraday",
+   "t_start_ns": 34281886132760,
+   "t_end_ns": 34324404279764,
+   "n_obs": 528
+  },
+  {
+   "i": 650,
+   "asset": "SVRA",
+   "family": "intraday",
+   "t_start_ns": 34324626939785,
+   "t_end_ns": 34447320943419,
+   "n_obs": 528
+  },
+  {
+   "i": 651,
+   "asset": "SVRA",
+   "family": "intraday",
+   "t_start_ns": 34447324053778,
+   "t_end_ns": 34598705940094,
+   "n_obs": 528
+  },
+  {
+   "i": 652,
+   "asset": "SVRA",
+   "family": "intraday",
+   "t_start_ns": 34753694145157,
+   "t_end_ns": 34883681161485,
+   "n_obs": 528
+  },
+  {
+   "i": 653,
+   "asset": "SVRA",
+   "family": "intraday",
+   "t_start_ns": 34924436935291,
+   "t_end_ns": 35059219515550,
+   "n_obs": 528
+  },
+  {
+   "i": 654,
+   "asset": "SVRA",
+   "family": "intraday",
+   "t_start_ns": 35059237967192,
+   "t_end_ns": 35226785780908,
+   "n_obs": 528
+  },
+  {
+   "i": 655,
+   "asset": "SVRA",
+   "family": "intraday",
+   "t_start_ns": 35226789598155,
+   "t_end_ns": 35484632617490,
+   "n_obs": 528
+  },
+  {
+   "i": 656,
+   "asset": "SVRA",
+   "family": "intraday",
+   "t_start_ns": 35812813160898,
+   "t_end_ns": 36011023040748,
+   "n_obs": 528
+  },
+  {
+   "i": 657,
+   "asset": "SVRA",
+   "family": "intraday",
+   "t_start_ns": 36117141974557,
+   "t_end_ns": 36426660699842,
+   "n_obs": 528
+  },
+  {
+   "i": 658,
+   "asset": "SVRA",
+   "family": "intraday",
+   "t_start_ns": 36428238064923,
+   "t_end_ns": 36741623674191,
+   "n_obs": 528
+  },
+  {
+   "i": 659,
+   "asset": "SVRA",
+   "family": "intraday",
+   "t_start_ns": 36741628676499,
+   "t_end_ns": 37043579313661,
+   "n_obs": 528
+  },
+  {
+   "i": 660,
+   "asset": "SVRA",
+   "family": "intraday",
+   "t_start_ns": 37331857924614,
+   "t_end_ns": 37887551939139,
+   "n_obs": 528
+  },
+  {
+   "i": 661,
+   "asset": "SVRA",
+   "family": "intraday",
+   "t_start_ns": 38637670737860,
+   "t_end_ns": 39674399839267,
+   "n_obs": 528
+  },
+  {
+   "i": 662,
+   "asset": "SVRA",
+   "family": "intraday",
+   "t_start_ns": 39674843410970,
+   "t_end_ns": 40675775081423,
+   "n_obs": 528
+  },
+  {
+   "i": 663,
+   "asset": "SVRA",
+   "family": "intraday",
+   "t_start_ns": 40675792589630,
+   "t_end_ns": 42076654394783,
+   "n_obs": 528
+  },
+  {
+   "i": 664,
+   "asset": "SVRA",
+   "family": "intraday",
+   "t_start_ns": 43728785093638,
+   "t_end_ns": 47347844020276,
+   "n_obs": 528
+  },
+  {
+   "i": 665,
+   "asset": "SVRA",
+   "family": "intraday",
+   "t_start_ns": 48671913174121,
+   "t_end_ns": 51901825441971,
+   "n_obs": 528
+  },
+  {
+   "i": 666,
+   "asset": "SVRA",
+   "family": "intraday",
+   "t_start_ns": 51901830777756,
+   "t_end_ns": 54942395394030,
+   "n_obs": 528
+  },
+  {
+   "i": 667,
+   "asset": "SVRA",
+   "family": "intraday",
+   "t_start_ns": 54942395563036,
+   "t_end_ns": 55491892515651,
+   "n_obs": 528
+  },
+  {
+   "i": 668,
+   "asset": "SVRA",
+   "family": "intraday",
+   "t_start_ns": 55936835164537,
+   "t_end_ns": 56257068940732,
+   "n_obs": 528
+  },
+  {
+   "i": 669,
+   "asset": "SVRA",
+   "family": "intraday",
+   "t_start_ns": 56638781768504,
+   "t_end_ns": 56829492705823,
+   "n_obs": 528
+  },
+  {
+   "i": 670,
+   "asset": "SVRA",
+   "family": "intraday",
+   "t_start_ns": 56829492724623,
+   "t_end_ns": 57037483479423,
+   "n_obs": 528
+  },
+  {
+   "i": 671,
+   "asset": "SVRA",
+   "family": "intraday",
+   "t_start_ns": 57037748748980,
+   "t_end_ns": 57229296638708,
+   "n_obs": 528
+  },
+  {
+   "i": 672,
+   "asset": "SVRA",
+   "family": "intraday",
+   "t_start_ns": 57360679248969,
+   "t_end_ns": 57598592540356,
+   "n_obs": 528
+  },
+  {
+   "i": 673,
+   "asset": "TQQQ",
+   "family": "intraday",
+   "t_start_ns": 34200123727586,
+   "t_end_ns": 34500051139510,
+   "n_obs": 528
+  },
+  {
+   "i": 674,
+   "asset": "TQQQ",
+   "family": "intraday",
+   "t_start_ns": 34500051197038,
+   "t_end_ns": 34731277420406,
+   "n_obs": 528
+  },
+  {
+   "i": 675,
+   "asset": "TQQQ",
+   "family": "intraday",
+   "t_start_ns": 34732542895391,
+   "t_end_ns": 35145576610952,
+   "n_obs": 528
+  },
+  {
+   "i": 676,
+   "asset": "TQQQ",
+   "family": "intraday",
+   "t_start_ns": 35145830732873,
+   "t_end_ns": 35435719266933,
+   "n_obs": 528
+  },
+  {
+   "i": 677,
+   "asset": "TQQQ",
+   "family": "intraday",
+   "t_start_ns": 35435719288624,
+   "t_end_ns": 35769349735528,
+   "n_obs": 528
+  },
+  {
+   "i": 678,
+   "asset": "TQQQ",
+   "family": "intraday",
+   "t_start_ns": 35769349740053,
+   "t_end_ns": 36268521016336,
+   "n_obs": 528
+  },
+  {
+   "i": 679,
+   "asset": "TQQQ",
+   "family": "intraday",
+   "t_start_ns": 36268521100433,
+   "t_end_ns": 36767922080079,
+   "n_obs": 528
+  },
+  {
+   "i": 680,
+   "asset": "TQQQ",
+   "family": "intraday",
+   "t_start_ns": 36768219315692,
+   "t_end_ns": 36951607249571,
+   "n_obs": 528
+  },
+  {
+   "i": 681,
+   "asset": "TQQQ",
+   "family": "intraday",
+   "t_start_ns": 36952085765897,
+   "t_end_ns": 37561509299386,
+   "n_obs": 528
+  },
+  {
+   "i": 682,
+   "asset": "TQQQ",
+   "family": "intraday",
+   "t_start_ns": 37561509324725,
+   "t_end_ns": 37982956355602,
+   "n_obs": 528
+  },
+  {
+   "i": 683,
+   "asset": "TQQQ",
+   "family": "intraday",
+   "t_start_ns": 37983152019764,
+   "t_end_ns": 38818361752843,
+   "n_obs": 528
+  },
+  {
+   "i": 684,
+   "asset": "TQQQ",
+   "family": "intraday",
+   "t_start_ns": 38829027221374,
+   "t_end_ns": 40042262609400,
+   "n_obs": 528
+  },
+  {
+   "i": 685,
+   "asset": "TQQQ",
+   "family": "intraday",
+   "t_start_ns": 40042262647593,
+   "t_end_ns": 41000439097747,
+   "n_obs": 528
+  },
+  {
+   "i": 686,
+   "asset": "TQQQ",
+   "family": "intraday",
+   "t_start_ns": 41000445375208,
+   "t_end_ns": 42174122251933,
+   "n_obs": 528
+  },
+  {
+   "i": 687,
+   "asset": "TQQQ",
+   "family": "intraday",
+   "t_start_ns": 42179039543419,
+   "t_end_ns": 43486996896780,
+   "n_obs": 528
+  },
+  {
+   "i": 688,
+   "asset": "TQQQ",
+   "family": "intraday",
+   "t_start_ns": 43486996941324,
+   "t_end_ns": 45265604080529,
+   "n_obs": 528
+  },
+  {
+   "i": 689,
+   "asset": "TQQQ",
+   "family": "intraday",
+   "t_start_ns": 45269294832072,
+   "t_end_ns": 47084652421765,
+   "n_obs": 528
+  },
+  {
+   "i": 690,
+   "asset": "TQQQ",
+   "family": "intraday",
+   "t_start_ns": 47085110974860,
+   "t_end_ns": 49232764246347,
+   "n_obs": 528
+  },
+  {
+   "i": 691,
+   "asset": "TQQQ",
+   "family": "intraday",
+   "t_start_ns": 49232765933679,
+   "t_end_ns": 51243908516085,
+   "n_obs": 528
+  },
+  {
+   "i": 692,
+   "asset": "TQQQ",
+   "family": "intraday",
+   "t_start_ns": 51252067009538,
+   "t_end_ns": 53456003693934,
+   "n_obs": 528
+  },
+  {
+   "i": 693,
+   "asset": "TQQQ",
+   "family": "intraday",
+   "t_start_ns": 53462021728672,
+   "t_end_ns": 55807585417656,
+   "n_obs": 528
+  },
+  {
+   "i": 694,
+   "asset": "TQQQ",
+   "family": "intraday",
+   "t_start_ns": 55809752082357,
+   "t_end_ns": 57003874653133,
+   "n_obs": 528
+  },
+  {
+   "i": 695,
+   "asset": "TQQQ",
+   "family": "intraday",
+   "t_start_ns": 57003961669808,
+   "t_end_ns": 57553270667575,
+   "n_obs": 528
+  },
+  {
+   "i": 696,
+   "asset": "TSLA",
+   "family": "intraday",
+   "t_start_ns": 34200006062708,
+   "t_end_ns": 34332143709457,
+   "n_obs": 528
+  },
+  {
+   "i": 697,
+   "asset": "TSLA",
+   "family": "intraday",
+   "t_start_ns": 34511092495848,
+   "t_end_ns": 34562000439319,
+   "n_obs": 528
+  },
+  {
+   "i": 698,
+   "asset": "TSLA",
+   "family": "intraday",
+   "t_start_ns": 34722889657075,
+   "t_end_ns": 34798654053253,
+   "n_obs": 528
+  },
+  {
+   "i": 699,
+   "asset": "TSLA",
+   "family": "intraday",
+   "t_start_ns": 34955414352230,
+   "t_end_ns": 35011490871682,
+   "n_obs": 528
+  },
+  {
+   "i": 700,
+   "asset": "TSLA",
+   "family": "intraday",
+   "t_start_ns": 35133508020585,
+   "t_end_ns": 35203141812266,
+   "n_obs": 528
+  },
+  {
+   "i": 701,
+   "asset": "TSLA",
+   "family": "intraday",
+   "t_start_ns": 35333905039542,
+   "t_end_ns": 35437555146133,
+   "n_obs": 528
+  },
+  {
+   "i": 702,
+   "asset": "TSLA",
+   "family": "intraday",
+   "t_start_ns": 35634035545018,
+   "t_end_ns": 35762846120008,
+   "n_obs": 528
+  },
+  {
+   "i": 703,
+   "asset": "TSLA",
+   "family": "intraday",
+   "t_start_ns": 36051724084388,
+   "t_end_ns": 36214777939478,
+   "n_obs": 528
+  },
+  {
+   "i": 704,
+   "asset": "TSLA",
+   "family": "intraday",
+   "t_start_ns": 36528435938731,
+   "t_end_ns": 36690151430190,
+   "n_obs": 528
+  },
+  {
+   "i": 705,
+   "asset": "TSLA",
+   "family": "intraday",
+   "t_start_ns": 37085508103523,
+   "t_end_ns": 37336750462984,
+   "n_obs": 528
+  },
+  {
+   "i": 706,
+   "asset": "TSLA",
+   "family": "intraday",
+   "t_start_ns": 37963556568949,
+   "t_end_ns": 38263834294504,
+   "n_obs": 528
+  },
+  {
+   "i": 707,
+   "asset": "TSLA",
+   "family": "intraday",
+   "t_start_ns": 38849440694178,
+   "t_end_ns": 39237312046825,
+   "n_obs": 528
+  },
+  {
+   "i": 708,
+   "asset": "TSLA",
+   "family": "intraday",
+   "t_start_ns": 39661707879903,
+   "t_end_ns": 40165876629885,
+   "n_obs": 528
+  },
+  {
+   "i": 709,
+   "asset": "TSLA",
+   "family": "intraday",
+   "t_start_ns": 41095273142728,
+   "t_end_ns": 41588415148407,
+   "n_obs": 528
+  },
+  {
+   "i": 710,
+   "asset": "TSLA",
+   "family": "intraday",
+   "t_start_ns": 42206506109882,
+   "t_end_ns": 42462796941379,
+   "n_obs": 528
+  },
+  {
+   "i": 711,
+   "asset": "TSLA",
+   "family": "intraday",
+   "t_start_ns": 42881496236604,
+   "t_end_ns": 43209290430052,
+   "n_obs": 528
+  },
+  {
+   "i": 712,
+   "asset": "TSLA",
+   "family": "intraday",
+   "t_start_ns": 43875384233174,
+   "t_end_ns": 44336605237164,
+   "n_obs": 528
+  },
+  {
+   "i": 713,
+   "asset": "TSLA",
+   "family": "intraday",
+   "t_start_ns": 45429394999839,
+   "t_end_ns": 46165784025986,
+   "n_obs": 528
+  },
+  {
+   "i": 714,
+   "asset": "TSLA",
+   "family": "intraday",
+   "t_start_ns": 47491062297739,
+   "t_end_ns": 47987470898824,
+   "n_obs": 528
+  },
+  {
+   "i": 715,
+   "asset": "TSLA",
+   "family": "intraday",
+   "t_start_ns": 49635426379021,
+   "t_end_ns": 50179697375119,
+   "n_obs": 528
+  },
+  {
+   "i": 716,
+   "asset": "TSLA",
+   "family": "intraday",
+   "t_start_ns": 51075250110800,
+   "t_end_ns": 51656086084305,
+   "n_obs": 528
+  },
+  {
+   "i": 717,
+   "asset": "TSLA",
+   "family": "intraday",
+   "t_start_ns": 52437204166322,
+   "t_end_ns": 53085308861238,
+   "n_obs": 528
+  },
+  {
+   "i": 718,
+   "asset": "TSLA",
+   "family": "intraday",
+   "t_start_ns": 54450923334420,
+   "t_end_ns": 54930385442063,
+   "n_obs": 528
+  },
+  {
+   "i": 719,
+   "asset": "TSLA",
+   "family": "intraday",
+   "t_start_ns": 56257265152166,
+   "t_end_ns": 56830841229718,
+   "n_obs": 528
+  },
+  {
+   "i": 720,
+   "asset": "TSLA",
+   "family": "intraday",
+   "t_start_ns": 57369080804011,
+   "t_end_ns": 57530366675985,
+   "n_obs": 528
+  },
+  {
+   "i": 721,
+   "asset": "TTD",
+   "family": "intraday",
+   "t_start_ns": 34200064681769,
+   "t_end_ns": 34828028139304,
+   "n_obs": 528
+  },
+  {
+   "i": 722,
+   "asset": "TTD",
+   "family": "intraday",
+   "t_start_ns": 34828030558722,
+   "t_end_ns": 35324975689495,
+   "n_obs": 528
+  },
+  {
+   "i": 723,
+   "asset": "TTD",
+   "family": "intraday",
+   "t_start_ns": 35324975694969,
+   "t_end_ns": 35603652534672,
+   "n_obs": 528
+  },
+  {
+   "i": 724,
+   "asset": "TTD",
+   "family": "intraday",
+   "t_start_ns": 35603652695140,
+   "t_end_ns": 36420004696360,
+   "n_obs": 528
+  },
+  {
+   "i": 725,
+   "asset": "TTD",
+   "family": "intraday",
+   "t_start_ns": 36420004696930,
+   "t_end_ns": 37064476996194,
+   "n_obs": 528
+  },
+  {
+   "i": 726,
+   "asset": "TTD",
+   "family": "intraday",
+   "t_start_ns": 37064477030048,
+   "t_end_ns": 38147665021578,
+   "n_obs": 528
+  },
+  {
+   "i": 727,
+   "asset": "TTD",
+   "family": "intraday",
+   "t_start_ns": 38147666122844,
+   "t_end_ns": 38970830016279,
+   "n_obs": 528
+  },
+  {
+   "i": 728,
+   "asset": "TTD",
+   "family": "intraday",
+   "t_start_ns": 38970830064132,
+   "t_end_ns": 40106088977489,
+   "n_obs": 528
+  },
+  {
+   "i": 729,
+   "asset": "TTD",
+   "family": "intraday",
+   "t_start_ns": 40106088990539,
+   "t_end_ns": 40761954388596,
+   "n_obs": 528
+  },
+  {
+   "i": 730,
+   "asset": "TTD",
+   "family": "intraday",
+   "t_start_ns": 40761954416156,
+   "t_end_ns": 42273747998100,
+   "n_obs": 528
+  },
+  {
+   "i": 731,
+   "asset": "TTD",
+   "family": "intraday",
+   "t_start_ns": 42274615871113,
+   "t_end_ns": 43491277618889,
+   "n_obs": 528
+  },
+  {
+   "i": 732,
+   "asset": "TTD",
+   "family": "intraday",
+   "t_start_ns": 43491362019451,
+   "t_end_ns": 44751442209848,
+   "n_obs": 528
+  },
+  {
+   "i": 733,
+   "asset": "TTD",
+   "family": "intraday",
+   "t_start_ns": 44751442264294,
+   "t_end_ns": 46758852341731,
+   "n_obs": 528
+  },
+  {
+   "i": 734,
+   "asset": "TTD",
+   "family": "intraday",
+   "t_start_ns": 46758853010257,
+   "t_end_ns": 48845354088279,
+   "n_obs": 528
+  },
+  {
+   "i": 735,
+   "asset": "TTD",
+   "family": "intraday",
+   "t_start_ns": 48845354147309,
+   "t_end_ns": 51502631109989,
+   "n_obs": 528
+  },
+  {
+   "i": 736,
+   "asset": "TTD",
+   "family": "intraday",
+   "t_start_ns": 51503368145449,
+   "t_end_ns": 53454472487202,
+   "n_obs": 528
+  },
+  {
+   "i": 737,
+   "asset": "TTD",
+   "family": "intraday",
+   "t_start_ns": 53454473254808,
+   "t_end_ns": 54942993961818,
+   "n_obs": 528
+  },
+  {
+   "i": 738,
+   "asset": "TTD",
+   "family": "intraday",
+   "t_start_ns": 54942993997736,
+   "t_end_ns": 56036633496482,
+   "n_obs": 528
+  },
+  {
+   "i": 739,
+   "asset": "TTD",
+   "family": "intraday",
+   "t_start_ns": 56036633497539,
+   "t_end_ns": 56953733647481,
+   "n_obs": 528
+  },
+  {
+   "i": 740,
+   "asset": "TTD",
+   "family": "intraday",
+   "t_start_ns": 56953734099917,
+   "t_end_ns": 57560992882847,
+   "n_obs": 528
+  },
+  {
+   "i": 741,
+   "asset": "TVIX",
+   "family": "intraday",
+   "t_start_ns": 34200216104161,
+   "t_end_ns": 34680290945411,
+   "n_obs": 528
+  },
+  {
+   "i": 742,
+   "asset": "TVIX",
+   "family": "intraday",
+   "t_start_ns": 34680290946718,
+   "t_end_ns": 34937814329219,
+   "n_obs": 528
+  },
+  {
+   "i": 743,
+   "asset": "TVIX",
+   "family": "intraday",
+   "t_start_ns": 34937824565458,
+   "t_end_ns": 35243621272206,
+   "n_obs": 528
+  },
+  {
+   "i": 744,
+   "asset": "TVIX",
+   "family": "intraday",
+   "t_start_ns": 35243622751353,
+   "t_end_ns": 35821064616469,
+   "n_obs": 528
+  },
+  {
+   "i": 745,
+   "asset": "TVIX",
+   "family": "intraday",
+   "t_start_ns": 35822813687943,
+   "t_end_ns": 36486173825490,
+   "n_obs": 528
+  },
+  {
+   "i": 746,
+   "asset": "TVIX",
+   "family": "intraday",
+   "t_start_ns": 36920956871979,
+   "t_end_ns": 37190702017079,
+   "n_obs": 528
+  },
+  {
+   "i": 747,
+   "asset": "TVIX",
+   "family": "intraday",
+   "t_start_ns": 37190702521903,
+   "t_end_ns": 37620504407252,
+   "n_obs": 528
+  },
+  {
+   "i": 748,
+   "asset": "TVIX",
+   "family": "intraday",
+   "t_start_ns": 37620570990786,
+   "t_end_ns": 38101183757556,
+   "n_obs": 528
+  },
+  {
+   "i": 749,
+   "asset": "TVIX",
+   "family": "intraday",
+   "t_start_ns": 38101183838733,
+   "t_end_ns": 38529755926170,
+   "n_obs": 528
+  },
+  {
+   "i": 750,
+   "asset": "TVIX",
+   "family": "intraday",
+   "t_start_ns": 38529756396929,
+   "t_end_ns": 39157559518323,
+   "n_obs": 528
+  },
+  {
+   "i": 751,
+   "asset": "TVIX",
+   "family": "intraday",
+   "t_start_ns": 39157575600006,
+   "t_end_ns": 39805014897407,
+   "n_obs": 528
+  },
+  {
+   "i": 752,
+   "asset": "TVIX",
+   "family": "intraday",
+   "t_start_ns": 39808082415455,
+   "t_end_ns": 40957107011964,
+   "n_obs": 528
+  },
+  {
+   "i": 753,
+   "asset": "TVIX",
+   "family": "intraday",
+   "t_start_ns": 41617272093694,
+   "t_end_ns": 42701272927943,
+   "n_obs": 528
+  },
+  {
+   "i": 754,
+   "asset": "TVIX",
+   "family": "intraday",
+   "t_start_ns": 42701273392923,
+   "t_end_ns": 44105479291768,
+   "n_obs": 528
+  },
+  {
+   "i": 755,
+   "asset": "TVIX",
+   "family": "intraday",
+   "t_start_ns": 44110273193734,
+   "t_end_ns": 45307413715751,
+   "n_obs": 528
+  },
+  {
+   "i": 756,
+   "asset": "TVIX",
+   "family": "intraday",
+   "t_start_ns": 45313404367570,
+   "t_end_ns": 46729284470128,
+   "n_obs": 528
+  },
+  {
+   "i": 757,
+   "asset": "TVIX",
+   "family": "intraday",
+   "t_start_ns": 46735736990039,
+   "t_end_ns": 47866324878351,
+   "n_obs": 528
+  },
+  {
+   "i": 758,
+   "asset": "TVIX",
+   "family": "intraday",
+   "t_start_ns": 47872291731959,
+   "t_end_ns": 50023500700158,
+   "n_obs": 528
+  },
+  {
+   "i": 759,
+   "asset": "TVIX",
+   "family": "intraday",
+   "t_start_ns": 50026389498286,
+   "t_end_ns": 51555169024296,
+   "n_obs": 528
+  },
+  {
+   "i": 760,
+   "asset": "TVIX",
+   "family": "intraday",
+   "t_start_ns": 51555169047058,
+   "t_end_ns": 52544195232656,
+   "n_obs": 528
+  },
+  {
+   "i": 761,
+   "asset": "TVIX",
+   "family": "intraday",
+   "t_start_ns": 52562587077784,
+   "t_end_ns": 53840198796850,
+   "n_obs": 528
+  },
+  {
+   "i": 762,
+   "asset": "TVIX",
+   "family": "intraday",
+   "t_start_ns": 54662223292038,
+   "t_end_ns": 55381319582029,
+   "n_obs": 528
+  },
+  {
+   "i": 763,
+   "asset": "TVIX",
+   "family": "intraday",
+   "t_start_ns": 55381319717422,
+   "t_end_ns": 56488050579934,
+   "n_obs": 528
+  },
+  {
+   "i": 764,
+   "asset": "TVIX",
+   "family": "intraday",
+   "t_start_ns": 56488050617918,
+   "t_end_ns": 57099296734300,
+   "n_obs": 528
+  },
+  {
+   "i": 765,
+   "asset": "TVIX",
+   "family": "intraday",
+   "t_start_ns": 57113974579129,
+   "t_end_ns": 57563175975286,
+   "n_obs": 528
+  },
+  {
+   "i": 766,
+   "asset": "VXX",
+   "family": "intraday",
+   "t_start_ns": 34200065425155,
+   "t_end_ns": 34741631708041,
+   "n_obs": 528
+  },
+  {
+   "i": 767,
+   "asset": "VXX",
+   "family": "intraday",
+   "t_start_ns": 34741910752365,
+   "t_end_ns": 35311885828263,
+   "n_obs": 528
+  },
+  {
+   "i": 768,
+   "asset": "VXX",
+   "family": "intraday",
+   "t_start_ns": 35319719097307,
+   "t_end_ns": 36224413480852,
+   "n_obs": 528
+  },
+  {
+   "i": 769,
+   "asset": "VXX",
+   "family": "intraday",
+   "t_start_ns": 36225125496897,
+   "t_end_ns": 36816044629985,
+   "n_obs": 528
+  },
+  {
+   "i": 770,
+   "asset": "VXX",
+   "family": "intraday",
+   "t_start_ns": 36816056311068,
+   "t_end_ns": 37511869613030,
+   "n_obs": 528
+  },
+  {
+   "i": 771,
+   "asset": "VXX",
+   "family": "intraday",
+   "t_start_ns": 37511870341910,
+   "t_end_ns": 39213867501760,
+   "n_obs": 528
+  },
+  {
+   "i": 772,
+   "asset": "VXX",
+   "family": "intraday",
+   "t_start_ns": 39213868878030,
+   "t_end_ns": 42223254698889,
+   "n_obs": 528
+  },
+  {
+   "i": 773,
+   "asset": "VXX",
+   "family": "intraday",
+   "t_start_ns": 42223255209904,
+   "t_end_ns": 47071957833396,
+   "n_obs": 528
+  },
+  {
+   "i": 774,
+   "asset": "VXX",
+   "family": "intraday",
+   "t_start_ns": 47080781662421,
+   "t_end_ns": 51771207465396,
+   "n_obs": 528
+  },
+  {
+   "i": 775,
+   "asset": "VXX",
+   "family": "intraday",
+   "t_start_ns": 51813975602081,
+   "t_end_ns": 53864240402335,
+   "n_obs": 528
+  },
+  {
+   "i": 776,
+   "asset": "VXX",
+   "family": "intraday",
+   "t_start_ns": 53864240732681,
+   "t_end_ns": 55864997889157,
+   "n_obs": 528
+  },
+  {
+   "i": 777,
+   "asset": "VXX",
+   "family": "intraday",
+   "t_start_ns": 55865547291788,
+   "t_end_ns": 57000614170353,
+   "n_obs": 528
+  },
+  {
+   "i": 778,
+   "asset": "VXX",
+   "family": "intraday",
+   "t_start_ns": 57000615775863,
+   "t_end_ns": 57563211713312,
+   "n_obs": 528
+  },
+  {
+   "i": 779,
+   "asset": "WVE",
+   "family": "intraday",
+   "t_start_ns": 34200247542229,
+   "t_end_ns": 34521225013176,
+   "n_obs": 528
+  },
+  {
+   "i": 780,
+   "asset": "WVE",
+   "family": "intraday",
+   "t_start_ns": 34521225123239,
+   "t_end_ns": 34902369021361,
+   "n_obs": 528
+  },
+  {
+   "i": 781,
+   "asset": "WVE",
+   "family": "intraday",
+   "t_start_ns": 34902369028116,
+   "t_end_ns": 35415993744604,
+   "n_obs": 528
+  },
+  {
+   "i": 782,
+   "asset": "WVE",
+   "family": "intraday",
+   "t_start_ns": 35419009099282,
+   "t_end_ns": 35703636303858,
+   "n_obs": 528
+  },
+  {
+   "i": 783,
+   "asset": "WVE",
+   "family": "intraday",
+   "t_start_ns": 35705796876351,
+   "t_end_ns": 36238495088716,
+   "n_obs": 528
+  },
+  {
+   "i": 784,
+   "asset": "WVE",
+   "family": "intraday",
+   "t_start_ns": 36239925313543,
+   "t_end_ns": 36715303006660,
+   "n_obs": 528
+  },
+  {
+   "i": 785,
+   "asset": "WVE",
+   "family": "intraday",
+   "t_start_ns": 36715451463427,
+   "t_end_ns": 37892654538378,
+   "n_obs": 528
+  },
+  {
+   "i": 786,
+   "asset": "WVE",
+   "family": "intraday",
+   "t_start_ns": 37893308424612,
+   "t_end_ns": 39253304195506,
+   "n_obs": 528
+  },
+  {
+   "i": 787,
+   "asset": "WVE",
+   "family": "intraday",
+   "t_start_ns": 39253305668073,
+   "t_end_ns": 40924653437730,
+   "n_obs": 528
+  },
+  {
+   "i": 788,
+   "asset": "WVE",
+   "family": "intraday",
+   "t_start_ns": 40926460428042,
+   "t_end_ns": 42476198381136,
+   "n_obs": 528
+  },
+  {
+   "i": 789,
+   "asset": "WVE",
+   "family": "intraday",
+   "t_start_ns": 42476342111823,
+   "t_end_ns": 46119006086385,
+   "n_obs": 528
+  },
+  {
+   "i": 790,
+   "asset": "WVE",
+   "family": "intraday",
+   "t_start_ns": 46123779381067,
+   "t_end_ns": 50764048788701,
+   "n_obs": 528
+  },
+  {
+   "i": 791,
+   "asset": "WVE",
+   "family": "intraday",
+   "t_start_ns": 50779026203992,
+   "t_end_ns": 55900987707034,
+   "n_obs": 528
+  }
+ ],
+ "symbols": {
+  "AAPL": {
+   "transactions": 44901,
+   "blocks": 85,
+   "windows": 25,
+   "price_low": 285.23,
+   "price_high": 292.69,
+   "lag1_autocorr_returns": 0.061558696889522736
+  },
+  "AMD": {
+   "transactions": 21107,
+   "blocks": 39,
+   "windows": 25,
+   "price_low": 44.66,
+   "price_high": 46.17,
+   "lag1_autocorr_returns": 0.05052353234064329
+  },
+  "AMZN": {
+   "transactions": 17957,
+   "blocks": 34,
+   "windows": 25,
+   "price_low": 1840.53,
+   "price_high": 1884.0,
+   "lag1_autocorr_returns": -0.2022908027525035
+  },
+  "BABA": {
+   "transactions": 10961,
+   "blocks": 20,
+   "windows": 20,
+   "price_low": 211.78,
+   "price_high": 215.65,
+   "lag1_autocorr_returns": -0.019346035923736075
+  },
+  "BIDU": {
+   "transactions": 6956,
+   "blocks": 13,
+   "windows": 13,
+   "price_low": 125.31,
+   "price_high": 127.88,
+   "lag1_autocorr_returns": -0.015411982396493952
+  },
+  "CRWD": {
+   "transactions": 8369,
+   "blocks": 15,
+   "windows": 15,
+   "price_low": 48.4,
+   "price_high": 50.55,
+   "lag1_autocorr_returns": -0.0667517398291466
+  },
+  "FB": {
+   "transactions": 20556,
+   "blocks": 38,
+   "windows": 25,
+   "price_low": 203.9,
+   "price_high": 207.9,
+   "lag1_autocorr_returns": 0.011634981547999227
+  },
+  "GILD": {
+   "transactions": 7324,
+   "blocks": 13,
+   "windows": 13,
+   "price_low": 64.81,
+   "price_high": 66.09,
+   "lag1_autocorr_returns": 0.05161370966092743
+  },
+  "GOOG": {
+   "transactions": 8591,
+   "blocks": 16,
+   "windows": 16,
+   "price_low": 1333.99,
+   "price_high": 1352.63,
+   "lag1_autocorr_returns": -0.23396020562036268
+  },
+  "GOOGL": {
+   "transactions": 8869,
+   "blocks": 16,
+   "windows": 16,
+   "price_low": 1337.67,
+   "price_high": 1357.0,
+   "lag1_autocorr_returns": -0.15102939661006057
+  },
+  "HD": {
+   "transactions": 7565,
+   "blocks": 14,
+   "windows": 14,
+   "price_low": 216.555,
+   "price_high": 220.49,
+   "lag1_autocorr_returns": 0.05360924284475604
+  },
+  "IBB": {
+   "transactions": 7537,
+   "blocks": 14,
+   "windows": 14,
+   "price_low": 119.67,
+   "price_high": 121.79,
+   "lag1_autocorr_returns": -0.0044802646739575186
+  },
+  "INTC": {
+   "transactions": 10419,
+   "blocks": 19,
+   "windows": 19,
+   "price_low": 59.39,
+   "price_high": 60.05,
+   "lag1_autocorr_returns": 0.05547471424425982
+  },
+  "IWM": {
+   "transactions": 12938,
+   "blocks": 24,
+   "windows": 24,
+   "price_low": 164.58,
+   "price_high": 166.2,
+   "lag1_autocorr_returns": 0.06559794532681325
+  },
+  "JPM": {
+   "transactions": 7539,
+   "blocks": 14,
+   "windows": 14,
+   "price_low": 138.47,
+   "price_high": 140.07,
+   "lag1_autocorr_returns": 0.11932745375463591
+  },
+  "LEN": {
+   "transactions": 8459,
+   "blocks": 16,
+   "windows": 16,
+   "price_low": 55.21,
+   "price_high": 55.93,
+   "lag1_autocorr_returns": -0.059471889652674505
+  },
+  "LK": {
+   "transactions": 15296,
+   "blocks": 28,
+   "windows": 25,
+   "price_low": 35.7,
+   "price_high": 38.68,
+   "lag1_autocorr_returns": -0.0756284093209922
+  },
+  "LYFT": {
+   "transactions": 9615,
+   "blocks": 18,
+   "windows": 18,
+   "price_low": 43.07,
+   "price_high": 45.7,
+   "lag1_autocorr_returns": -0.01072101369844885
+  },
+  "MIK": {
+   "transactions": 7108,
+   "blocks": 13,
+   "windows": 13,
+   "price_low": 7.08,
+   "price_high": 8.03,
+   "lag1_autocorr_returns": 0.07084294698225281
+  },
+  "MSFT": {
+   "transactions": 22583,
+   "blocks": 42,
+   "windows": 25,
+   "price_low": 156.73,
+   "price_high": 159.01,
+   "lag1_autocorr_returns": 0.030915516549085822
+  },
+  "MU": {
+   "transactions": 13852,
+   "blocks": 26,
+   "windows": 25,
+   "price_low": 52.66,
+   "price_high": 53.87,
+   "lag1_autocorr_returns": 0.059766556576184716
+  },
+  "NFLX": {
+   "transactions": 11573,
+   "blocks": 21,
+   "windows": 21,
+   "price_low": 322.85,
+   "price_high": 329.2,
+   "lag1_autocorr_returns": -0.05826864634278673
+  },
+  "NIO": {
+   "transactions": 35920,
+   "blocks": 68,
+   "windows": 25,
+   "price_low": 2.88,
+   "price_high": 4.86,
+   "lag1_autocorr_returns": -0.04798648693657018
+  },
+  "NUGT": {
+   "transactions": 12564,
+   "blocks": 23,
+   "windows": 23,
+   "price_low": 33.5,
+   "price_high": 35.5,
+   "lag1_autocorr_returns": 0.029984735253745322
+  },
+  "NVDA": {
+   "transactions": 16417,
+   "blocks": 31,
+   "windows": 25,
+   "price_low": 231.07,
+   "price_high": 236.18,
+   "lag1_autocorr_returns": -0.12212275409554081
+  },
+  "PYPL": {
+   "transactions": 7930,
+   "blocks": 15,
+   "windows": 15,
+   "price_low": 107.73,
+   "price_high": 109.6,
+   "lag1_autocorr_returns": 0.04229299771764689
+  },
+  "QCOM": {
+   "transactions": 10431,
+   "blocks": 19,
+   "windows": 19,
+   "price_low": 87.31,
+   "price_high": 88.78,
+   "lag1_autocorr_returns": 0.026807035532916933
+  },
+  "QQQ": {
+   "transactions": 15768,
+   "blocks": 29,
+   "windows": 25,
+   "price_low": 211.16,
+   "price_high": 213.63,
+   "lag1_autocorr_returns": 0.01928662385894694
+  },
+  "RAD": {
+   "transactions": 9203,
+   "blocks": 17,
+   "windows": 17,
+   "price_low": 15.9,
+   "price_high": 19.17,
+   "lag1_autocorr_returns": 0.03491517698486548
+  },
+  "ROKU": {
+   "transactions": 18850,
+   "blocks": 35,
+   "windows": 25,
+   "price_low": 130.6,
+   "price_high": 138.71,
+   "lag1_autocorr_returns": -0.07266795673159071
+  },
+  "SAVA": {
+   "transactions": 8054,
+   "blocks": 15,
+   "windows": 15,
+   "price_low": 5.88,
+   "price_high": 7.2,
+   "lag1_autocorr_returns": -0.1254644512994241
+  },
+  "SBUX": {
+   "transactions": 7138,
+   "blocks": 13,
+   "windows": 13,
+   "price_low": 87.06,
+   "price_high": 88.19,
+   "lag1_autocorr_returns": -0.012602614108900505
+  },
+  "SPY": {
+   "transactions": 27953,
+   "blocks": 52,
+   "windows": 25,
+   "price_low": 320.56,
+   "price_high": 323.1,
+   "lag1_autocorr_returns": -0.029917607569447897
+  },
+  "SVRA": {
+   "transactions": 19538,
+   "blocks": 37,
+   "windows": 25,
+   "price_low": 3.22,
+   "price_high": 5.2,
+   "lag1_autocorr_returns": -0.07398429548333281
+  },
+  "TQQQ": {
+   "transactions": 12263,
+   "blocks": 23,
+   "windows": 23,
+   "price_low": 84.8,
+   "price_high": 87.86,
+   "lag1_autocorr_returns": 0.03745193288730371
+  },
+  "TSLA": {
+   "transactions": 37343,
+   "blocks": 70,
+   "windows": 25,
+   "price_low": 409.27,
+   "price_high": 429.0,
+   "lag1_autocorr_returns": -0.1814278318266888
+  },
+  "TTD": {
+   "transactions": 10654,
+   "blocks": 20,
+   "windows": 20,
+   "price_low": 251.3,
+   "price_high": 272.19,
+   "lag1_autocorr_returns": -0.17226111174510841
+  },
+  "TVIX": {
+   "transactions": 14980,
+   "blocks": 28,
+   "windows": 25,
+   "price_low": 52.88,
+   "price_high": 57.07,
+   "lag1_autocorr_returns": -0.0464169002657432
+  },
+  "VXX": {
+   "transactions": 7031,
+   "blocks": 13,
+   "windows": 13,
+   "price_low": 15.35,
+   "price_high": 15.955,
+   "lag1_autocorr_returns": 0.09852048904510692
+  },
+  "WVE": {
+   "transactions": 7346,
+   "blocks": 13,
+   "windows": 13,
+   "price_low": 7.78,
+   "price_high": 10.5,
+   "lag1_autocorr_returns": -0.07120726808399874
+  }
+ },
+ "ctx": 512,
+ "horizon": 16,
+ "n_sur": 4,
+ "top": 40,
+ "max_windows": 25,
+ "min_price": 1.0,
+ "clock_seconds": 0.0,
+ "source": "itch_trades_2019-12-30.npz"
+}

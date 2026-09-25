@@ -1,0 +1,13 @@
+\begin{tabular}{@{}lcccccccccc@{}}
+\toprule
+ & \multicolumn{2}{c}{\textbf{$h$ = 96}} & \multicolumn{2}{c}{\textbf{$h$ = 192}} & \multicolumn{2}{c}{\textbf{$h$ = 336}} & \multicolumn{2}{c}{\textbf{$h$ = 720}} & \multicolumn{2}{c}{\textbf{Average}} \\
+\textbf{Evaluation} & \multicolumn{2}{c}{\textbf{$T$ = 512}} & \multicolumn{2}{c}{\textbf{$T$ = 1024}} & \multicolumn{2}{c}{\textbf{$T$ = 2048}} & \multicolumn{2}{c}{\textbf{$T$ = 3072}} &  &  \\
+\cmidrule(lr){2-3}\cmidrule(lr){4-5}\cmidrule(lr){6-7}\cmidrule(lr){8-9}\cmidrule(lr){10-11}
+ & \textbf{MSE} & \textbf{MAE} & \textbf{MSE} & \textbf{MAE} & \textbf{MSE} & \textbf{MAE} & \textbf{MSE} & \textbf{MAE} & \textbf{MSE} & \textbf{MAE} \\
+\midrule
+Published (Time-MoE large) & 0.350 & 0.382 & 0.388 & 0.412 & 0.411 & 0.430 & 0.427 & 0.455 & 0.394 & 0.419 \\
+This loop, benchmark scaling & 0.350 & 0.382 & 0.390 & 0.412 & 0.412 & 0.431 & 0.423 & 0.452 & 0.394 & 0.419 \\
+\midrule
+This loop, per-window scaling & 0.354 & 0.381 & 0.410 & 0.426 & 0.480 & 0.480 & 0.444 & 0.464 & 0.422 & 0.438 \\
+\bottomrule
+\end{tabular}

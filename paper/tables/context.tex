@@ -1,0 +1,51 @@
+\begin{tabular}{@{}llccccc@{}}
+\toprule
+ &  & \multicolumn{5}{c}{\textbf{Context length $T$}} \\
+\cmidrule(lr){3-7}
+\textbf{Model} & \textbf{Metric} & \textbf{128} & \textbf{256} & \textbf{512} & \textbf{1024} & \textbf{2048} \\
+\midrule
+Chronos-T5 & Mean / $\sigma$, $h$ = 128 & +4.79\,\textpm\,0.37 & +3.99\,\textpm\,0.31 & +3.42\,\textpm\,0.36 & NE & NE \\
+ & Upward fraction, $h$ = 128 & 0.92 & 0.91 & 0.85 & NE & NE \\
+ & Skill, $h$ = 16 & \textbf{+0.039} & \textminus{}0.006 & +0.003 & NE & NE \\
+\addlinespace[3pt]
+Chronos-Bolt & Mean / $\sigma$, $h$ = 128 & +1.19\,\textpm\,0.26 & +1.66\,\textpm\,0.42 & +2.05\,\textpm\,0.31 & +2.01\,\textpm\,0.25 & +0.48\,\textpm\,0.28 \\
+ & Upward fraction, $h$ = 128 & 0.73 & 0.60 & 0.70 & 0.72 & 0.58 \\
+ & Skill, $h$ = 16 & \textminus{}0.136 & \textminus{}0.175 & \textminus{}0.141 & \textminus{}0.110 & \textbf{\textminus{}0.068} \\
+\addlinespace[3pt]
+Chronos-2 & Mean / $\sigma$, $h$ = 128 & \textminus{}0.13\,\textpm\,0.39 & +0.13\,\textpm\,0.39 & +0.61\,\textpm\,0.36 & +0.53\,\textpm\,0.24 & +0.28\,\textpm\,0.16 \\
+ & Upward fraction, $h$ = 128 & 0.55 & 0.70 & 0.70 & 0.71 & 0.63 \\
+ & Skill, $h$ = 16 & \textminus{}0.102 & \textminus{}0.013 & \textminus{}0.014 & \textbf{+0.009} & \textminus{}0.023 \\
+\addlinespace[3pt]
+TiRex & Mean / $\sigma$, $h$ = 128 & +2.09\,\textpm\,0.24 & +2.09\,\textpm\,0.29 & +2.83\,\textpm\,0.29 & +2.94\,\textpm\,0.28 & +2.02\,\textpm\,0.29 \\
+ & Upward fraction, $h$ = 128 & 0.84 & 0.81 & 0.84 & 0.84 & 0.77 \\
+ & Skill, $h$ = 16 & \textminus{}0.135 & \textbf{\textminus{}0.083} & \textminus{}0.132 & \textminus{}0.120 & \textminus{}0.154 \\
+\addlinespace[3pt]
+Moirai-1.1 & Mean / $\sigma$, $h$ = 128 & +5.09\,\textpm\,0.38 & +3.61\,\textpm\,0.50 & +2.31\,\textpm\,0.46 & +1.90\,\textpm\,0.40 & +1.63\,\textpm\,0.37 \\
+ & Upward fraction, $h$ = 128 & 0.92 & 0.77 & 0.66 & 0.69 & 0.66 \\
+ & Skill, $h$ = 16 & \textminus{}0.202 & \textbf{\textminus{}0.148} & \textminus{}0.197 & \textminus{}0.291 & \textminus{}0.737 \\
+\addlinespace[3pt]
+Moirai-2.0 & Mean / $\sigma$, $h$ = 128 & +0.64\,\textpm\,0.29 & +0.54\,\textpm\,0.34 & +0.76\,\textpm\,0.44 & +0.71\,\textpm\,0.37 & +0.19\,\textpm\,0.28 \\
+ & Upward fraction, $h$ = 128 & 0.57 & 0.57 & 0.58 & 0.59 & 0.50 \\
+ & Skill, $h$ = 16 & \textminus{}0.080 & \textbf{\textminus{}0.066} & \textminus{}0.134 & \textminus{}0.089 & \textminus{}0.104 \\
+\addlinespace[3pt]
+TimesFM-2.0 & Mean / $\sigma$, $h$ = 128 & +0.32\,\textpm\,0.55 & +0.43\,\textpm\,0.37 & +0.02\,\textpm\,0.27 & +0.30\,\textpm\,0.22 & +0.01\,\textpm\,0.20 \\
+ & Upward fraction, $h$ = 128 & 0.57 & 0.54 & 0.53 & 0.52 & 0.50 \\
+ & Skill, $h$ = 16 & \textminus{}0.485 & \textminus{}0.310 & \textminus{}0.221 & \textminus{}0.133 & \textbf{\textminus{}0.043} \\
+\addlinespace[3pt]
+TimesFM-2.5 & Mean / $\sigma$, $h$ = 128 & +0.17\,\textpm\,0.26 & +0.16\,\textpm\,0.25 & +0.14\,\textpm\,0.15 & +0.20\,\textpm\,0.16 & +0.10\,\textpm\,0.11 \\
+ & Upward fraction, $h$ = 128 & 0.57 & 0.53 & 0.57 & 0.52 & 0.53 \\
+ & Skill, $h$ = 16 & \textminus{}0.145 & \textminus{}0.117 & \textminus{}0.055 & \textminus{}0.058 & \textbf{\textminus{}0.016} \\
+\addlinespace[3pt]
+Time-MoE & Mean / $\sigma$, $h$ = 128 & +0.18\,\textpm\,0.61 & +0.96\,\textpm\,0.76 & +0.47\,\textpm\,0.98 & \textminus{}0.06\,\textpm\,1.42 & \textminus{}2.13\,\textpm\,1.89 \\
+ & Upward fraction, $h$ = 128 & 0.55 & 0.54 & 0.58 & 0.51 & 0.49 \\
+ & Skill, $h$ = 16 & \textbf{\textminus{}0.803} & \textminus{}0.906 & \textminus{}0.924 & \textminus{}2.791 & \textminus{}6.141 \\
+\addlinespace[3pt]
+Sundial & Mean / $\sigma$, $h$ = 128 & +0.40\,\textpm\,0.57 & +0.93\,\textpm\,0.79 & +1.42\,\textpm\,0.75 & +1.18\,\textpm\,0.82 & +0.25\,\textpm\,1.04 \\
+ & Upward fraction, $h$ = 128 & 0.53 & 0.53 & 0.55 & 0.55 & 0.54 \\
+ & Skill, $h$ = 16 & \textminus{}0.685 & \textminus{}0.570 & \textminus{}0.474 & \textminus{}0.430 & \textbf{\textminus{}0.384} \\
+\addlinespace[3pt]
+FinCast & Mean / $\sigma$, $h$ = 128 & \textminus{}0.60\,\textpm\,0.19 & \textminus{}0.47\,\textpm\,0.15 & \textminus{}0.53\,\textpm\,0.17 & NE & NE \\
+ & Upward fraction, $h$ = 128 & 0.33 & 0.40 & 0.40 & NE & NE \\
+ & Skill, $h$ = 16 & \textminus{}0.097 & \textbf{\textminus{}0.034} & \textminus{}0.061 & NE & NE \\
+\bottomrule
+\end{tabular}

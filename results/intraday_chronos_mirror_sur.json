@@ -1,0 +1,10 @@
+{
+ "model": "chronos",
+ "windows": "intraday_windows.npz",
+ "n": 792,
+ "K": 4,
+ "H": 16,
+ "mirror_sur": true,
+ "samples": 100,
+ "finished": "2026-09-18 19:05:50"
+}

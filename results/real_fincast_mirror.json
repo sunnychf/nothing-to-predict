@@ -1,0 +1,9 @@
+{
+ "model": "fincast",
+ "windows": "real_windows_v2.npz",
+ "n": 1280,
+ "H": 128,
+ "mirror": true,
+ "samples": 0,
+ "finished": "2026-09-17 04:22:58"
+}

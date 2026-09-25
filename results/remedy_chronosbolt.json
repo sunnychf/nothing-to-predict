@@ -1,0 +1,35 @@
+{
+ "model": "chronosbolt",
+ "rungs": {
+  "N1": {
+   "n": 256,
+   "K": 4,
+   "sigma": 1.0,
+   "antithetic": true
+  },
+  "N2": {
+   "n": 256,
+   "K": 4,
+   "sigma": 1.0,
+   "antithetic": true
+  },
+  "N3_nu5": {
+   "n": 256,
+   "K": 4,
+   "sigma": 1.0,
+   "antithetic": true
+  },
+  "N4": {
+   "n": 256,
+   "K": 4,
+   "sigma": 1.0,
+   "antithetic": true
+  }
+ },
+ "T": 512,
+ "H": 128,
+ "samples": 0,
+ "seed_data": 6000,
+ "seed_signs": "7000 + rung index",
+ "finished": "2026-09-17 12:07:43"
+}

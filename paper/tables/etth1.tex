@@ -1,0 +1,22 @@
+\begin{tabular}{@{}lcccccc@{}}
+\toprule
+ & \multicolumn{4}{c}{\textbf{Raw forecast skill}} & \multicolumn{2}{c}{\textbf{Mirror correction, $h$ = 16}} \\
+\cmidrule(lr){2-5}\cmidrule(lr){6-7}
+\textbf{Forecast} & $h$ = 1 & $h$ = 16 & $h$ = 64 & $h$ = 128 & \textbf{Skill} & \textbf{$\rho_{\rm even}$} \\
+\midrule
+Persistence & 0 & 0 & 0 & 0 & NE & NA \\
+Seasonal naive (24 h) & \textminus{}3.842\,\textpm\,0.583 & +0.563\,\textpm\,0.037 & +0.467\,\textpm\,0.039 & +0.490\,\textpm\,0.031 & NE & NE \\
+\midrule
+Chronos-T5 & +0.347\,\textpm\,0.038 & +0.694\,\textpm\,0.023 & +0.563\,\textpm\,0.032 & +0.547\,\textpm\,0.023 & +0.717 & 0.02 \\
+Chronos-Bolt & +0.358\,\textpm\,0.034 & +0.697\,\textpm\,0.026 & +0.573\,\textpm\,0.033 & +0.567\,\textpm\,0.026 & +0.712 & 0.01 \\
+Chronos-2 & +0.370\,\textpm\,0.035 & \textbf{+0.728}\,\textpm\,0.022 & \textbf{+0.584}\,\textpm\,0.030 & +0.577\,\textpm\,0.024 & +0.724 & 0.00 \\
+TiRex & +0.391\,\textpm\,0.031 & +0.711\,\textpm\,0.025 & +0.579\,\textpm\,0.032 & +0.586\,\textpm\,0.027 & +0.721 & 0.01 \\
+Moirai-1.1 & \textminus{}0.059\,\textpm\,0.059 & +0.674\,\textpm\,0.022 & +0.555\,\textpm\,0.027 & +0.476\,\textpm\,0.040 & +0.695 & 0.04 \\
+Moirai-2.0 & +0.382\,\textpm\,0.032 & +0.726\,\textpm\,0.023 & +0.580\,\textpm\,0.031 & +0.594\,\textpm\,0.025 & \textbf{+0.725} & 0.01 \\
+TimesFM-2.0 & +0.334\,\textpm\,0.039 & +0.698\,\textpm\,0.023 & +0.566\,\textpm\,0.030 & +0.584\,\textpm\,0.024 & +0.706 & 0.01 \\
+TimesFM-2.5 & +0.402\,\textpm\,0.030 & +0.718\,\textpm\,0.021 & +0.581\,\textpm\,0.029 & +0.583\,\textpm\,0.022 & +0.718 & 0.00 \\
+Time-MoE & +0.389\,\textpm\,0.037 & +0.693\,\textpm\,0.025 & +0.555\,\textpm\,0.033 & +0.584\,\textpm\,0.028 & +0.704 & 0.01 \\
+Sundial & \textbf{+0.403}\,\textpm\,0.033 & +0.720\,\textpm\,0.022 & +0.580\,\textpm\,0.031 & \textbf{+0.605}\,\textpm\,0.025 & +0.721 & 0.01 \\
+FinCast & \textminus{}0.186\,\textpm\,0.037 & \textminus{}0.025\,\textpm\,0.022 & \textminus{}0.246\,\textpm\,0.052 & \textminus{}0.301\,\textpm\,0.059 & +0.054 & 0.40 \\
+\bottomrule
+\end{tabular}

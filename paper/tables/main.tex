@@ -1,0 +1,23 @@
+\begin{tabular}{@{}lcccccc@{}}
+\toprule
+ & \multicolumn{3}{c}{\textbf{Daily sign-randomised}} & \multicolumn{1}{c}{\textbf{Daily raw}} & \multicolumn{2}{c}{\textbf{Synthetic}} \\
+\cmidrule(lr){2-4}\cmidrule(lr){5-5}\cmidrule(lr){6-7}
+\textbf{Model} & \textbf{Mean / $\sigma_r$} & \textbf{Skill} & \textbf{Skill} & \textbf{Skill} & \textbf{N1 skill} & \textbf{N4 share} \\
+ & $h$ = 128 & $h$ = 16 & $h$ = 128 & $h$ = 128 & $h$ = 16 & $h$ = 1 \\
+\midrule
+Chronos-T5 & +1.54 & \textminus{}0.051\,$\to$\,\textbf{\textminus{}0.020} & \textminus{}0.072\,$\to$\,\textbf{\textminus{}0.030} & \textbf{+0.041}\,$\to$\,\textminus{}0.023 & \textminus{}0.139\,$\to$\,\textbf{\textminus{}0.068} & 0.59\,$\to$\,\textbf{0.62} \\
+Chronos-Bolt & +1.46 & \textminus{}0.094\,$\to$\,\textbf{\textminus{}0.056} & \textminus{}0.083\,$\to$\,\textbf{\textminus{}0.038} & \textbf{+0.122}\,$\to$\,+0.050 & \textminus{}0.098\,$\to$\,\textbf{\textminus{}0.060} & 0.62\,$\to$\,\textbf{0.63} \\
+Chronos-2 & +0.16 & \textminus{}0.037\,$\to$\,\textbf{\textminus{}0.030} & \textminus{}0.091\,$\to$\,\textbf{\textminus{}0.067} & \textbf{\textminus{}0.023}\,$\to$\,\textminus{}0.038 & \textminus{}0.021\,$\to$\,\textbf{\textminus{}0.012} & 0.65\,$\to$\,\textbf{0.67} \\
+TiRex & +1.89 & \textminus{}0.052\,$\to$\,\textbf{\textminus{}0.030} & \textminus{}0.103\,$\to$\,\textbf{\textminus{}0.059} & \textbf{+0.115}\,$\to$\,\textminus{}0.073 & \textminus{}0.097\,$\to$\,\textbf{\textminus{}0.045} & 0.62\,$\to$\,\textbf{0.67} \\
+Moirai-1.1 & +2.28 & \textminus{}0.207\,$\to$\,\textbf{\textminus{}0.112} & \textminus{}0.201\,$\to$\,\textbf{\textminus{}0.080} & \textbf{\textminus{}0.023}\,$\to$\,\textminus{}0.073 & \textminus{}0.059\,$\to$\,\textbf{\textminus{}0.048} & 0.39\,$\to$\,\textbf{0.41} \\
+Moirai-2.0 & \textminus{}0.12 & \textminus{}0.082\,$\to$\,\textbf{\textminus{}0.052} & \textminus{}0.116\,$\to$\,\textbf{\textminus{}0.074} & \textminus{}0.009\,$\to$\,\textbf{+0.026} & \textbf{\textminus{}0.037}\,$\to$\,\textminus{}0.045 & 0.63\,$\to$\,\textbf{0.64} \\
+TimesFM-2.0 & +0.48 & \textminus{}0.201\,$\to$\,\textbf{\textminus{}0.152} & \textminus{}0.265\,$\to$\,\textbf{\textminus{}0.152} & \textbf{\textminus{}0.188}\,$\to$\,\textminus{}0.310 & \textminus{}0.186\,$\to$\,\textbf{\textminus{}0.096} & 0.56\,$\to$\,\textbf{0.61} \\
+TimesFM-2.5 & +0.16 & \textminus{}0.081\,$\to$\,\textbf{\textminus{}0.074} & \textminus{}0.089\,$\to$\,\textbf{\textminus{}0.067} & \textbf{\textminus{}0.014}\,$\to$\,\textminus{}0.024 & \textbf{\textminus{}0.023}\,$\to$\,\textbf{\textminus{}0.023} & \textbf{0.58}\,$\to$\,\textbf{0.58} \\
+Time-MoE & +1.96 & \textminus{}1.227\,$\to$\,\textbf{\textminus{}1.026} & \textminus{}0.945\,$\to$\,\textbf{\textminus{}0.820} & \textbf{\textminus{}0.889}\,$\to$\,\textminus{}1.589 & \textminus{}0.554\,$\to$\,\textbf{\textminus{}0.511} & \textbf{0.77}\,$\to$\,0.71 \\
+Sundial & +1.74 & \textminus{}0.330\,$\to$\,\textbf{\textminus{}0.265} & \textminus{}0.516\,$\to$\,\textbf{\textminus{}0.423} & \textbf{\textminus{}0.541}\,$\to$\,\textminus{}0.952 & \textminus{}0.179\,$\to$\,\textbf{\textminus{}0.129} & \textbf{0.65}\,$\to$\,\textbf{0.65} \\
+FinCast & \textminus{}0.26 & \textminus{}0.065\,$\to$\,\textbf{\textminus{}0.040} & \textminus{}0.053\,$\to$\,\textbf{\textminus{}0.033} & \textbf{\textminus{}0.004}\,$\to$\,\textminus{}0.056 & \textminus{}0.010\,$\to$\,\textbf{+0.009} & 0.19\,$\to$\,\textbf{0.31} \\
+\midrule
+Drift (fit) & +0.12 & \textbf{\textminus{}0.030}\,$\to$\,\textbf{\textminus{}0.030} & \textminus{}0.187\,$\to$\,\textbf{\textminus{}0.184} & \textminus{}0.173\,$\to$\,\textbf{\textminus{}0.133} & \textbf{\textminus{}0.010}\,$\to$\,\textbf{\textminus{}0.010} & \textbf{\textminus{}0.01}\,$\to$\,\textbf{\textminus{}0.01} \\
+AR(1) (fit) & +0.12 & \textbf{\textminus{}0.030}\,$\to$\,\textbf{\textminus{}0.030} & \textminus{}0.188\,$\to$\,\textbf{\textminus{}0.184} & \textminus{}0.174\,$\to$\,\textbf{\textminus{}0.134} & \textbf{\textminus{}0.011}\,$\to$\,\textbf{\textminus{}0.011} & \textbf{0.53}\,$\to$\,\textbf{0.53} \\
+\bottomrule
+\end{tabular}
