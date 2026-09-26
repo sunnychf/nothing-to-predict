@@ -179,4 +179,6 @@ for key in LABEL:
 L.append(r"\addlinespace[3pt]")
 L.append(" & ".join([r"Context rule, largest $|r|$"] + [f"{out['sets'][s]['context_rule_max_abs']['abs_corr']:.2f}" for s in SETS]) + r" \\")
 L += [r"\bottomrule", r"\end{tabular}"]
+import table_bold   # bold marks, by the rule stated in the table note
+L = table_bold.apply("shift", L)
 open(os.path.join("tables", "shift.tex"), "w").write("\n".join(L) + "\n")

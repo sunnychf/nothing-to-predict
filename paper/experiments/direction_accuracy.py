@@ -122,4 +122,6 @@ for m in MODELS:
     L.append(" & ".join([LABEL[m], pc(q["raw"]), f"{100 * q['up_share_raw']:.0f}", pc(q["mirror"]), pc(A["all"]["models"][m]["128"]["randomised"]),
                          pc(F["models"][m]["128"]["raw"]) if m in F["models"] else "--"]) + r" \\")
 L += [r"\bottomrule", r"\end{tabular}"]
+import table_bold   # bold marks, by the rule stated in the table note
+L = table_bold.apply("direction_accuracy", L)
 open(os.path.join("tables", "direction_accuracy.tex"), "w").write("\n".join(L) + "\n")

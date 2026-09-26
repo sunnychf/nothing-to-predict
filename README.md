@@ -10,7 +10,7 @@
 ![models](https://img.shields.io/badge/models-11%20TSFMs%20%C2%B7%207%20families-orange)
 ![reproducible](https://img.shields.io/badge/every%20number-script%20generated-brightgreen)
 
-[Overview](#overview) · [Findings](#key-findings) · [Method](#the-probe) · [Models](#models) · [Quick start](#quick-start) · [Layout](#repository-layout) · [Reproduction guide](docs/REPRODUCE.md)
+[Overview](#overview) · [Findings](#key-findings) · [Analysis](#how-the-analysis-proceeds) · [Method](#the-probe) · [Models](#models) · [Quick start](#quick-start) · [Layout](#repository-layout) · [Reproduction guide](docs/REPRODUCE.md)
 
 </div>
 
@@ -37,10 +37,19 @@ from, and the scripts that turn those files into each table, figure and number i
 | | Finding | Evidence |
 |---|---|---|
 | **1** | **Every model departs from the last value, and several lean upward.** On Gaussian, GARCH and heavy-tailed random walks all eleven models lose to the last value; the five that are not decoder-only forecast a rise on up to 85% of contexts. | random-walk ladder |
-| **2** | **Architecture alone does not decide the sign.** A masked encoder and a decoder-only model trained from scratch both acquire the upward bias from a corpus with positive trends. | controlled corpus experiment |
+| **2** | **The corpus can set the sign.** A masked encoder and a decoder-only model trained from scratch both acquire an upward bias from a corpus with positive trends, at both sizes we trained. | controlled corpus experiment |
 | **3** | **On real prices, bias and skill are confounded.** Every model loses once the return signs are randomised; on rising equities, removing the part of each forecast that ignores the sign of the history lowers 128-day skill for ten of the eleven models. | 1,280 daily windows, 70 series |
 | **4** | **Some models have seen the history.** On 1996–2014 windows several models time the market far better than trend rules read from the same contexts, and the public M4 daily data used in pretraining hold the US market's path for 82% of those trading days. | timing, calendar-shift and corpus checks |
 | **5** | **Removing the bias is safe only under symmetry.** The mirror correction lowers risk whenever past and future are symmetric under negation; an exact identity accounts for its losses elsewhere. Mirror augmentation during fine-tuning removes most of Chronos-Bolt's bias. | synthetic ladder, raw prices, fine-tuning |
+
+## How the analysis proceeds
+
+<p align="center">
+  <img src="assets/fig_framework.png" width="92%" alt="How the analysis proceeds">
+</p>
+<p align="center"><em>
+<b>How the analysis proceeds.</b> One column per question of the paper (Sections 2–6): grey panels hold the theory and instruments, blue panels the experiments. D is a forecast's departure from the last value; the curves are schematic.
+</em></p>
 
 ## The probe
 
@@ -76,16 +85,9 @@ part, $D \mapsto \tfrac12\big(D(x)-D(\bar x)\big)$, at the cost of one extra for
 <td width="50%"><img src="assets/fig_real.png" alt="Daily prices"><br>
 <sub><b>On daily prices the upward departures survive randomised signs</b> and run with the market's own rise.</sub></td>
 <td width="50%"><img src="assets/fig_timing.png" alt="Market timing 1996-2014"><br>
-<sub><b>Three models time the 1996–2014 market from the actual histories only</b>, not from their mirrors.</sub></td>
+<sub><b>Chronos-Bolt, TiRex and Moirai-2.0 time the 1996–2014 market from the actual histories only</b>, not from their mirrors.</sub></td>
 </tr>
 </table>
-
-<p align="center">
-  <img src="assets/fig_remedy.png" width="80%" alt="Mirror correction">
-</p>
-<p align="center"><em>
-<b>The mirror correction lowers risk under symmetry and can cost skill on raw prices.</b>
-</em></p>
 
 ## Models
 

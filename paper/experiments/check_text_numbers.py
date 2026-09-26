@@ -5,8 +5,24 @@ Prints every mismatch and exits 1 if any. Run from finance/paper_revision after 
 import json, os, re, sys
 
 R = os.path.join("experiments", "results")
-TXT = {f: open(os.path.join("sec", f)).read() for f in os.listdir("sec") if f.endswith(".tex")}
-ALL = "\n".join(TXT.values()) + open(os.path.join("sec", "0_abstract.tex")).read()
+def plain(s):
+    """Drop emphasis (\\textbf{...} wrappers and \\boldmath) but keep its content, so bolding a sentence does not affect matching."""
+    s = s.replace("\\boldmath ", "")
+    out, i = [], 0
+    while True:
+        j = s.find("\\textbf{", i)
+        if j < 0:
+            out.append(s[i:]); break
+        out.append(s[i:j])
+        k = start = j + len("\\textbf{"); depth = 1
+        while depth:
+            depth += {"{": 1, "}": -1}.get(s[k], 0); k += 1
+        out.append(plain(s[start:k - 1])); i = k
+    return "".join(out)
+
+
+TXT = {f: plain(open(os.path.join("sec", f)).read()) for f in os.listdir("sec") if f.endswith(".tex")}
+ALL = "\n".join(TXT.values()) + plain(open(os.path.join("sec", "0_abstract.tex")).read())
 fs = json.load(open(os.path.join(R, "falling_summary.json")))["models"]
 tc = json.load(open(os.path.join(R, "timing_check.json")))
 SC = json.load(open(os.path.join(R, "shift_check.json")))
@@ -128,7 +144,7 @@ need(f"(the largest differences are ${fmt(SM['moirai2']['minus_drift']['diff'], 
 srt = sorted(SM, key=lambda k: -SM[k]["minus_drift"]["diff"])
 claim(srt[:2] == ["moirai2", "chronos2"] and not SP["count_above_drift_gt_2se"], "Moirai-2.0 and Chronos-2 have the largest differences, none above drift by 2 SE")
 claim(sorted(SP["count_below_drift_gt_2se"]) == ["fincast", "sundial", "timemoe"], "Time-MoE, Sundial and FinCast are behind the drift by more than 2 SE")
-# Figure 2 (worked example) and the appendix note on how its examples were chosen
+# Figure 3 (fig:probe, worked example) and the appendix note on how its examples were chosen
 FP = json.load(open(os.path.join("figure_design", "fig_probe_20260924", "fig_probe_facts.json")))
 ab, cf = FP["a_b"], FP["c"]
 need(f"Chronos-T5 forecasts a rise of ${ab['departure_h128']:.1f}\\sigma$ after the history and of ${ab['departure_mirror_h128']:.1f}\\sigma$ after its mirror")
@@ -139,10 +155,10 @@ need(f"{cf['ctx_end']}")
 claim(ab["departure_h128"] > 0 and ab["departure_mirror_h128"] > 0 and ab["even_h128"] > 0, "the example forecast rises after the history and after its mirror")
 # Figure 1 panel a (one random walk) and the arrows of panel c
 FI = json.load(open(os.path.join("figure_design", "fig_intro_20260924", "fig_intro_facts.json")))
-need(f"Forecasts of the eleven models ${FI['a_horizon']}$ steps ahead on one zero-drift random walk (the\nlast ${FI['a_tail_steps']}$ of ${FI['a_context_length']}$ steps shown)", "1_intro.tex")
+need(f"Forecasts of the\neleven models ${FI['a_horizon']}$ steps ahead on one zero-drift random walk", "1_intro.tex")
 claim(len(FI["a_departure_h128_sigma"]) == 11, "panel a shows eleven models")
 claim(sorted(FI["c_clipped_below_axis"]) == ["Sundial", "Time-MoE"], "the arrows of panel c are Time-MoE and Sundial")
-# Figure 18 (calendar-shift design) caption
+# fig:shiftcheck (calendar-shift design) caption
 FS = json.load(open(os.path.join("figure_design", "fig_shiftcheck_20260924", "fig_shiftcheck_facts.json")))
 need(f"lies at least ${FS['gap_days']}$ days after the latest")
 readers = [v for k, v in FS["rows"].items() if not k.startswith("recalls")]
@@ -237,9 +253,9 @@ need("Sundial, Time-MoE, Moirai-1.1 and FinCast also exceed the best rule, but o
 claim(all(tc["falling"]["context_rule_max_abs"]["abs_corr"] < TF[k]["raw"] < min(TF[j]["raw"] for j in four) for k in weak)
       and sorted(k for k in TF if k not in four and TF[k]["raw"] > tc["falling"]["context_rule_max_abs"]["abs_corr"]) == sorted(weak),
       "exactly Sundial, Time-MoE, Moirai-1.1 and FinCast lie between the best context rule and the four timers")
-# Figure 4 (controlled corpus experiment) and its main-text numbers
+# Figure 5 (fig:corpus, controlled corpus experiment) and its main-text numbers
 FC = json.load(open(os.path.join("figure_design", "fig_corpus_20260925", "fig_corpus_facts.json")))["means"]
-claim(len(FC) == 8, "Figure 4 has two designs x two corpora x two sizes")
+claim(len(FC) == 8, "Figure 5 has two designs x two corpora x two sizes")
 need(f"(${100 * FC['0.54M|encoder|up']['frac_up_h128']:.0f}$ and ${100 * FC['0.54M|decoder|up']['frac_up_h128']:.0f}$ percent of\nN1 contexts)")
 need(f"falls from ${fmt(FC['0.54M|encoder|up']['mean_dep_h128'], 2)}$ to ${fmt(FC['0.54M|encoder|sym']['mean_dep_h128'], 2)}\\sigma$ for the encoder")
 need(f"from ${fmt(FC['0.54M|decoder|up']['mean_dep_h128'], 2)}$ to ${fmt(FC['0.54M|decoder|sym']['mean_dep_h128'], 2)}\\sigma$ for the decoder")

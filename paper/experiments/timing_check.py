@@ -85,6 +85,8 @@ L.append(r"\addlinespace[3pt]")
 L.append(" & ".join([r"Context rule, largest $|r|$", f"{out['falling']['context_rule_max_abs']['abs_corr']:.2f}", "--", "--",
                      f"{out['anchor_eq']['context_rule_max_abs']['abs_corr']:.2f}", "--", "--"]) + r" \\")
 L += [r"\bottomrule", r"\end{tabular}"]
+import table_bold   # bold marks, by the rule stated in the table note
+L = table_bold.apply("timing", L)
 open(os.path.join("tables", "timing.tex"), "w").write("\n".join(L) + "\n")
 for tag, o in out.items():
     print(tag, o["n_windows"], o["n_dates"], "context rules:", {k: round(v, 2) for k, v in o["context_rules"].items()}, "largest |r|:", o["context_rule_max_abs"])

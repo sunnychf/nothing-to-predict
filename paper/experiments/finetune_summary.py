@@ -56,6 +56,8 @@ for name, _, d, signed in ROWS:
         cells.append(num(v["mean"], d, signed) + f"\\,\\textpm\\,{v['sd']:.{d}f}")
     L.append(name + " & " + " & ".join(cells) + r" \\")
 L += [r"\bottomrule", r"\end{tabular}"]
+import table_bold   # bold marks, by the rule stated in the table note
+L = table_bold.apply("finetune", L)
 open(os.path.join("tables", "finetune.tex"), "w").write("\n".join(L) + "\n")
 for arm in ARMS:
     print(arm, {k: [round(x, 3) for x in v["values"]] for k, v in out[arm].items()})

@@ -104,6 +104,8 @@ for g, ms in GROUP.items():
     if g != list(GROUP)[-1]:
         L.append(r"\midrule")
 L += [r"\bottomrule", r"\end{tabular}"]
+import table_bold   # bold marks, by the rule stated in the table note
+L = table_bold.apply("falling", L)
 open(os.path.join("tables", "falling.tex"), "w").write("\n".join(L) + "\n")
 print("splits", out["splits"], "realised mean return h128", {k: round(v, 4) for k, v in out["realised_mean_return_h128"].items()})
 print("pre-registered:", {m: (c["P1_skill_lower_down"], c["P2_mirror_hurts_up_helps_down"], round(c["gap"], 3), c["P4_null_loses_both"]) for m, c in chk.items()})
